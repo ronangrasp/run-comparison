@@ -1,515 +1,525 @@
 {
-  "__v": 8,
+  "__v": 1,
   "_id": {
-    "$oid": "5a82c6e32d08ef6541fa9a0f"
+    "$oid": "5a82cf1c2d08ef6541fab181"
   },
   "coachDistanceGoal": 3,
   "coachGoal": 2,
-  "completed": 3,
+  "completed": 1,
   "creationDate": {
-    "$date": "2018-02-13T11:42:09.901Z"
+    "$date": "2018-02-13T11:42:20.669Z"
   },
   "cumulativeLoadStart30": 34.96831873849729,
   "cumulativeLoadStart7": 7.936165221278835,
   "cumulativeLoadThreshold": 3,
   "cumulativeLoadThreshold30": 300,
   "cumulativeLoadThreshold7": 45,
-  "cumulativeLoadValue": 5.898129236232256,
-  "cumulativeLoadValue30": 40.866447974729546,
-  "cumulativeLoadValue7": 13.834294457511092,
-  "cumulativeLoadValuePostRun": 5.877558675197491,
+  "cumulativeLoadValue": 5.844087923672129,
+  "cumulativeLoadValue30": 40.812406662169415,
+  "cumulativeLoadValue7": 13.780253144950965,
+  "cumulativeLoadValuePostRun": 5.844087923672129,
   "cumulativeLoadValues": [
     {
-      "distanceCovered": 121,
-      "movingTime": 45,
-      "value": 0.09509332445431001
+      "distanceCovered": 115,
+      "movingTime": 41,
+      "value": 0.08579686764705882
     },
     {
-      "distanceCovered": 227,
-      "movingTime": 84,
-      "value": 0.1669231068733954
+      "distanceCovered": 214,
+      "movingTime": 77,
+      "value": 0.15997943644488577
     },
     {
-      "distanceCovered": 359,
-      "movingTime": 125,
-      "value": 0.25453608088235286
+      "distanceCovered": 338,
+      "movingTime": 117,
+      "value": 0.2423581502034776
     },
     {
-      "distanceCovered": 490,
-      "movingTime": 165,
-      "value": 0.3632086320754715
+      "distanceCovered": 466,
+      "movingTime": 156,
+      "value": 0.3431065803988834
     },
     {
-      "distanceCovered": 594,
-      "movingTime": 206,
-      "value": 0.4643150857997287
+      "distanceCovered": 579,
+      "movingTime": 193,
+      "value": 0.45057010902238254
     },
     {
-      "distanceCovered": 695,
-      "movingTime": 248,
-      "value": 0.5986382153013673
+      "distanceCovered": 664,
+      "movingTime": 235,
+      "value": 0.5670627382838314
     },
     {
-      "distanceCovered": 788,
-      "movingTime": 287,
-      "value": 0.7550530124981905
+      "distanceCovered": 766,
+      "movingTime": 273,
+      "value": 0.6983138858332989
     },
     {
-      "distanceCovered": 891,
-      "movingTime": 327,
-      "value": 0.8803028265175445
+      "distanceCovered": 858,
+      "movingTime": 309,
+      "value": 0.8146447514743964
     },
     {
-      "distanceCovered": 1001,
-      "movingTime": 367,
-      "value": 0.997366355032579
+      "distanceCovered": 953,
+      "movingTime": 347,
+      "value": 0.9291656072064629
     },
     {
-      "distanceCovered": 1095,
-      "movingTime": 406,
-      "value": 1.140718345155946
+      "distanceCovered": 1050,
+      "movingTime": 385,
+      "value": 1.0405014278201652
     },
     {
-      "distanceCovered": 1196,
-      "movingTime": 445,
-      "value": 1.2536357219776848
+      "distanceCovered": 1151,
+      "movingTime": 425,
+      "value": 1.161197992286962
     },
     {
-      "distanceCovered": 1292,
-      "movingTime": 485,
-      "value": 1.3808217029725176
+      "distanceCovered": 1245,
+      "movingTime": 463,
+      "value": 1.2777781009747624
     },
     {
-      "distanceCovered": 1398,
-      "movingTime": 523,
-      "value": 1.5242692328896914
+      "distanceCovered": 1334,
+      "movingTime": 499,
+      "value": 1.39564427031144
     },
     {
-      "distanceCovered": 1506,
-      "movingTime": 565,
-      "value": 1.6558053840049818
+      "distanceCovered": 1432,
+      "movingTime": 536,
+      "value": 1.513812738810138
     },
     {
-      "distanceCovered": 1585,
-      "movingTime": 607,
-      "value": 1.7735824939756042
+      "distanceCovered": 1536,
+      "movingTime": 575,
+      "value": 1.6344364582562587
     },
     {
-      "distanceCovered": 1655,
-      "movingTime": 644,
-      "value": 1.9020191144004293
+      "distanceCovered": 1600,
+      "movingTime": 617,
+      "value": 1.758704185176883
     },
     {
-      "distanceCovered": 1753,
-      "movingTime": 683,
-      "value": 2.0184242896562017
+      "distanceCovered": 1680,
+      "movingTime": 652,
+      "value": 1.8754319439459803
     },
     {
-      "distanceCovered": 1858,
-      "movingTime": 722,
-      "value": 2.1426151642267577
+      "distanceCovered": 1774,
+      "movingTime": 689,
+      "value": 1.9906206764705887
     },
     {
-      "distanceCovered": 1963,
-      "movingTime": 761,
-      "value": 2.266061381977244
+      "distanceCovered": 1876,
+      "movingTime": 727,
+      "value": 2.108331053425628
     },
     {
-      "distanceCovered": 2067,
-      "movingTime": 799,
-      "value": 2.3996067163166117
+      "distanceCovered": 1980,
+      "movingTime": 766,
+      "value": 2.2318376927863808
     },
     {
-      "distanceCovered": 2177,
-      "movingTime": 839,
-      "value": 2.523605137411895
+      "distanceCovered": 2079,
+      "movingTime": 801,
+      "value": 2.353332450803335
     },
     {
-      "distanceCovered": 2280,
-      "movingTime": 877,
-      "value": 2.644245128426559
+      "distanceCovered": 2187,
+      "movingTime": 842,
+      "value": 2.4773194224287627
     },
     {
-      "distanceCovered": 2388,
+      "distanceCovered": 2291,
+      "movingTime": 880,
+      "value": 2.604582937795078
+    },
+    {
+      "distanceCovered": 2394,
       "movingTime": 917,
-      "value": 2.774378598237
+      "value": 2.7229254740327704
     },
     {
       "distanceCovered": 2492,
-      "movingTime": 956,
-      "value": 2.888066471629154
+      "movingTime": 955,
+      "value": 2.831283236340509
     },
     {
       "distanceCovered": 2594,
-      "movingTime": 994,
-      "value": 3.0054579576005027
+      "movingTime": 992,
+      "value": 2.947621703153999
     },
     {
-      "distanceCovered": 2697,
-      "movingTime": 1035,
-      "value": 3.1302901805778225
+      "distanceCovered": 2691,
+      "movingTime": 1029,
+      "value": 3.065681282380509
     },
     {
-      "distanceCovered": 2801,
-      "movingTime": 1073,
-      "value": 3.2666320159508127
+      "distanceCovered": 2787,
+      "movingTime": 1064,
+      "value": 3.1906058333648675
     },
     {
-      "distanceCovered": 2902,
-      "movingTime": 1111,
-      "value": 3.3931930889545314
+      "distanceCovered": 2886,
+      "movingTime": 1102,
+      "value": 3.3151567365937122
     },
     {
-      "distanceCovered": 3006,
-      "movingTime": 1150,
-      "value": 3.5412323007630992
+      "distanceCovered": 2986,
+      "movingTime": 1141,
+      "value": 3.442557589545187
     },
     {
-      "distanceCovered": 3107,
-      "movingTime": 1188,
-      "value": 3.6625917721309658
+      "distanceCovered": 3084,
+      "movingTime": 1177,
+      "value": 3.5621030555982447
     },
     {
-      "distanceCovered": 3216,
-      "movingTime": 1230,
-      "value": 3.767568514885272
+      "distanceCovered": 3186,
+      "movingTime": 1221,
+      "value": 3.6703979615394964
     },
     {
-      "distanceCovered": 3321,
-      "movingTime": 1270,
-      "value": 3.889505481384722
+      "distanceCovered": 3288,
+      "movingTime": 1256,
+      "value": 3.7735811439644866
     },
     {
-      "distanceCovered": 3428,
-      "movingTime": 1310,
-      "value": 4.009240400881735
+      "distanceCovered": 3391,
+      "movingTime": 1294,
+      "value": 3.8919641925638206
     },
     {
-      "distanceCovered": 3529,
-      "movingTime": 1348,
-      "value": 4.132368451004887
+      "distanceCovered": 3491,
+      "movingTime": 1331,
+      "value": 4.014558281941405
     },
     {
-      "distanceCovered": 3630,
-      "movingTime": 1387,
-      "value": 4.254667103685845
+      "distanceCovered": 3586,
+      "movingTime": 1368,
+      "value": 4.12905769538442
     },
     {
-      "distanceCovered": 3732,
-      "movingTime": 1426,
-      "value": 4.377603893628094
+      "distanceCovered": 3686,
+      "movingTime": 1407,
+      "value": 4.251595974393532
     },
     {
-      "distanceCovered": 3835,
-      "movingTime": 1463,
-      "value": 4.509854577043438
+      "distanceCovered": 3785,
+      "movingTime": 1443,
+      "value": 4.375211995353354
     },
     {
-      "distanceCovered": 3942,
-      "movingTime": 1503,
-      "value": 4.640221184321208
+      "distanceCovered": 3888,
+      "movingTime": 1481,
+      "value": 4.500380846601923
     },
     {
-      "distanceCovered": 4045,
-      "movingTime": 1542,
-      "value": 4.757604667403759
+      "distanceCovered": 3991,
+      "movingTime": 1517,
+      "value": 4.626330296231701
     },
     {
-      "distanceCovered": 4149,
-      "movingTime": 1582,
-      "value": 4.879840802195089
+      "distanceCovered": 4087,
+      "movingTime": 1556,
+      "value": 4.733028978204904
     },
     {
-      "distanceCovered": 4255,
-      "movingTime": 1621,
-      "value": 5.0014816234709825
+      "distanceCovered": 4187,
+      "movingTime": 1593,
+      "value": 4.853773518368969
     },
     {
-      "distanceCovered": 4362,
-      "movingTime": 1661,
-      "value": 5.126298145808587
+      "distanceCovered": 4292,
+      "movingTime": 1631,
+      "value": 4.976948480674638
     },
     {
-      "distanceCovered": 4466,
-      "movingTime": 1700,
-      "value": 5.2399138110324985
+      "distanceCovered": 4394,
+      "movingTime": 1670,
+      "value": 5.0933196862994095
     },
     {
-      "distanceCovered": 4566,
-      "movingTime": 1740,
-      "value": 5.37844214885612
+      "distanceCovered": 4492,
+      "movingTime": 1708,
+      "value": 5.204109629253825
     },
     {
-      "distanceCovered": 4663,
-      "movingTime": 1780,
-      "value": 5.523106871055443
+      "distanceCovered": 4584,
+      "movingTime": 1746,
+      "value": 5.344360607035179
     },
     {
-      "distanceCovered": 4771,
+      "distanceCovered": 4674,
+      "movingTime": 1781,
+      "value": 5.47660573006969
+    },
+    {
+      "distanceCovered": 4778,
       "movingTime": 1819,
-      "value": 5.657788333949931
+      "value": 5.607326493899339
     },
     {
       "distanceCovered": 4882,
-      "movingTime": 1856,
-      "value": 5.785934570619646
+      "movingTime": 1852,
+      "value": 5.722580990959841
     },
     {
-      "distanceCovered": 4992,
-      "movingTime": 1896,
-      "value": 5.898129236232256
+      "distanceCovered": 4986,
+      "movingTime": 1892,
+      "value": 5.844087923672129
     }
   ],
   "cumulativeLoadValuesPostRun": [
     {
       "distanceCovered": 115,
       "movingTime": 41,
-      "value": 0.09006364145658263
+      "value": 0.08579686764705882
     },
     {
       "distanceCovered": 214,
       "movingTime": 77,
-      "value": 0.1605602567517573
+      "value": 0.15997943644488577
     },
     {
       "distanceCovered": 338,
       "movingTime": 117,
-      "value": 0.2432978596172603
+      "value": 0.2423581502034776
     },
     {
       "distanceCovered": 466,
       "movingTime": 156,
-      "value": 0.3479162976033574
+      "value": 0.3431065803988834
     },
     {
       "distanceCovered": 579,
       "movingTime": 193,
-      "value": 0.46141680323959544
+      "value": 0.45057010902238254
     },
     {
       "distanceCovered": 664,
       "movingTime": 235,
-      "value": 0.5822243376495251
+      "value": 0.5670627382838314
     },
     {
       "distanceCovered": 766,
       "movingTime": 273,
-      "value": 0.7220310986001216
+      "value": 0.6983138858332989
     },
     {
       "distanceCovered": 858,
       "movingTime": 309,
-      "value": 0.8397677338689924
+      "value": 0.8146447514743964
     },
     {
       "distanceCovered": 953,
       "movingTime": 347,
-      "value": 0.9555582847675572
+      "value": 0.9291656072064629
     },
     {
       "distanceCovered": 1050,
       "movingTime": 385,
-      "value": 1.0666570289801456
+      "value": 1.0405014278201652
     },
     {
       "distanceCovered": 1151,
       "movingTime": 425,
-      "value": 1.1879537969940803
+      "value": 1.161197992286962
     },
     {
       "distanceCovered": 1245,
       "movingTime": 463,
-      "value": 1.3047375841150624
+      "value": 1.2777781009747624
     },
     {
       "distanceCovered": 1334,
       "movingTime": 499,
-      "value": 1.4233289274158656
+      "value": 1.39564427031144
     },
     {
       "distanceCovered": 1432,
       "movingTime": 536,
-      "value": 1.5442790337968706
+      "value": 1.513812738810138
     },
     {
       "distanceCovered": 1536,
       "movingTime": 575,
-      "value": 1.664114462924407
+      "value": 1.6344364582562587
     },
     {
       "distanceCovered": 1600,
       "movingTime": 617,
-      "value": 1.788621810743166
+      "value": 1.758704185176883
     },
     {
       "distanceCovered": 1680,
       "movingTime": 652,
-      "value": 1.9077431194306653
+      "value": 1.8754319439459803
     },
     {
       "distanceCovered": 1774,
       "movingTime": 689,
-      "value": 2.022552630522089
+      "value": 1.9906206764705887
     },
     {
       "distanceCovered": 1876,
       "movingTime": 727,
-      "value": 2.140843869568793
+      "value": 2.108331053425628
     },
     {
       "distanceCovered": 1980,
       "movingTime": 766,
-      "value": 2.264128840716067
+      "value": 2.2318376927863808
     },
     {
       "distanceCovered": 2079,
       "movingTime": 801,
-      "value": 2.3844795084153865
+      "value": 2.353332450803335
     },
     {
       "distanceCovered": 2187,
       "movingTime": 842,
-      "value": 2.5095395122054924
+      "value": 2.4773194224287627
     },
     {
       "distanceCovered": 2291,
       "movingTime": 880,
-      "value": 2.635221269033889
+      "value": 2.604582937795078
     },
     {
       "distanceCovered": 2394,
       "movingTime": 917,
-      "value": 2.7555458790805454
+      "value": 2.7229254740327704
     },
     {
       "distanceCovered": 2492,
       "movingTime": 955,
-      "value": 2.864177318293373
+      "value": 2.831283236340509
     },
     {
       "distanceCovered": 2594,
       "movingTime": 992,
-      "value": 2.9803558717367187
+      "value": 2.947621703153999
     },
     {
       "distanceCovered": 2691,
       "movingTime": 1029,
-      "value": 3.0987984704909577
+      "value": 3.065681282380509
     },
     {
       "distanceCovered": 2787,
       "movingTime": 1064,
-      "value": 3.223541075525061
+      "value": 3.1906058333648675
     },
     {
       "distanceCovered": 2886,
       "movingTime": 1102,
-      "value": 3.3477451874334667
+      "value": 3.3151567365937122
     },
     {
       "distanceCovered": 2986,
       "movingTime": 1141,
-      "value": 3.4741164180248436
+      "value": 3.442557589545187
     },
     {
       "distanceCovered": 3084,
       "movingTime": 1177,
-      "value": 3.5962421428530225
+      "value": 3.5621030555982447
     },
     {
       "distanceCovered": 3186,
       "movingTime": 1221,
-      "value": 3.7065117680280935
+      "value": 3.6703979615394964
     },
     {
       "distanceCovered": 3288,
       "movingTime": 1256,
-      "value": 3.806208771849038
+      "value": 3.7735811439644866
     },
     {
       "distanceCovered": 3391,
       "movingTime": 1294,
-      "value": 3.9251009129327556
+      "value": 3.8919641925638206
     },
     {
       "distanceCovered": 3491,
-      "movingTime": 1333,
-      "value": 4.0473638944458115
+      "movingTime": 1331,
+      "value": 4.014558281941405
     },
     {
       "distanceCovered": 3586,
       "movingTime": 1368,
-      "value": 4.160871560409189
+      "value": 4.12905769538442
     },
     {
       "distanceCovered": 3686,
       "movingTime": 1407,
-      "value": 4.285232595793799
+      "value": 4.251595974393532
     },
     {
       "distanceCovered": 3785,
       "movingTime": 1443,
-      "value": 4.407095312172705
+      "value": 4.375211995353354
     },
     {
       "distanceCovered": 3888,
       "movingTime": 1481,
-      "value": 4.533095622810504
+      "value": 4.500380846601923
     },
     {
       "distanceCovered": 3991,
       "movingTime": 1517,
-      "value": 4.658636860403178
+      "value": 4.626330296231701
     },
     {
       "distanceCovered": 4087,
       "movingTime": 1556,
-      "value": 4.767093484152122
+      "value": 4.733028978204904
     },
     {
       "distanceCovered": 4187,
       "movingTime": 1593,
-      "value": 4.885709282413266
+      "value": 4.853773518368969
     },
     {
-      "distanceCovered": 4288,
+      "distanceCovered": 4292,
       "movingTime": 1631,
-      "value": 5.003927904877664
+      "value": 4.976948480674638
     },
     {
       "distanceCovered": 4394,
       "movingTime": 1670,
-      "value": 5.127916899220212
+      "value": 5.0933196862994095
     },
     {
       "distanceCovered": 4492,
       "movingTime": 1708,
-      "value": 5.235527366923266
+      "value": 5.204109629253825
     },
     {
       "distanceCovered": 4584,
       "movingTime": 1746,
-      "value": 5.376376864223647
+      "value": 5.344360607035179
     },
     {
       "distanceCovered": 4674,
       "movingTime": 1781,
-      "value": 5.50952362203612
+      "value": 5.47660573006969
     },
     {
       "distanceCovered": 4778,
       "movingTime": 1819,
-      "value": 5.639084524777189
+      "value": 5.607326493899339
     },
     {
       "distanceCovered": 4882,
       "movingTime": 1852,
-      "value": 5.756028715716159
+      "value": 5.722580990959841
     },
     {
       "distanceCovered": 4986,
       "movingTime": 1892,
-      "value": 5.877558675197491
+      "value": 5.844087923672129
     }
   ],
   "cumulativeThreshold30": {
@@ -698,7 +708,7 @@
     "thresholdIdentifierAmberLowerMin": "fatigueL1Lower",
     "thresholdIdentifierRedUpperMax": "fatigueL1Upper",
     "thresholdLimitValue": 0,
-    "thresholdNRepeat": 5,
+    "thresholdNRepeat": 0,
     "thresholdRedUpperMaxAudio": "£name, you are exhibiting signs of early stage fatigue",
     "thresholdRedUpperMaxAwardPoints": 0,
     "thresholdRedUpperMaxPenaltyPoints": 10,
@@ -794,7 +804,7 @@
     "thresholdIdentifierAmberLowerMin": "fatiguel3Lower",
     "thresholdIdentifierRedUpperMax": "fatigueL3Upper",
     "thresholdLimitValue": 0,
-    "thresholdNRepeat": 3,
+    "thresholdNRepeat": 5,
     "thresholdRedUpperMaxAudio": "£name, you are exhibiting symptoms of late stage fatigue.  Continuing at this intensity significantly increases your risk of injury.",
     "thresholdRedUpperMaxAwardPoints": 0,
     "thresholdRedUpperMaxPenaltyPoints": 30,
@@ -816,441 +826,386 @@
     {
       "distanceCovered": 141,
       "from": 50,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in50-100",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in50-100",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 100,
       "value": 35.891583661424
     },
     {
       "distanceCovered": 295,
       "from": 100,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in100-150",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in100-150",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 150,
       "value": 36.766785108042
     },
     {
       "distanceCovered": 454,
       "from": 150,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in150-200",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in150-200",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 200,
       "value": 37.579432357011
     },
     {
-      "distanceCovered": 595,
+      "distanceCovered": 582,
       "from": 200,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in200-250",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in200-250",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 250,
-      "value": 37.977264839855
+      "value": 45.850708167699
     },
     {
       "distanceCovered": 716,
       "from": 250,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in250-300",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in250-300",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 300,
-      "value": 40.563016258766
+      "value": 45.994467470206
     },
     {
-      "distanceCovered": 834,
+      "distanceCovered": 830,
       "from": 300,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in300-350",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in300-350",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 350,
-      "value": 39.278102360041
+      "value": 43.885847559972
     },
     {
-      "distanceCovered": 966,
+      "distanceCovered": 959,
       "from": 350,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in350-400",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in350-400",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 400,
       "value": 43.378919343334
     },
     {
-      "distanceCovered": 1092,
+      "distanceCovered": 1081,
       "from": 400,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in400-450",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in400-450",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 450,
-      "value": 41.210445021688
+      "value": 44.991382608941
     },
     {
       "distanceCovered": 1216,
       "from": 450,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in450-500",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in450-500",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 500,
-      "value": 38.872102890259
+      "value": 47.762982015982
     },
     {
-      "distanceCovered": 1339,
+      "distanceCovered": 1334,
       "from": 500,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in500-550",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in500-550",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 550,
-      "value": 35.970561375911
+      "value": 46.464597100955
     },
     {
       "distanceCovered": 1463,
       "from": 550,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in550-600",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in550-600",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 600,
       "value": 39.950704572349
     },
     {
       "distanceCovered": 1569,
       "from": 600,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in600-650",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in600-650",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 650,
-      "value": 31.875123155662
+      "value": 34.90821457059
     },
     {
       "distanceCovered": 1664,
       "from": 650,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in650-700",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in650-700",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 700,
-      "value": 35.578253277055
+      "value": 48.419347382633
     },
     {
-      "distanceCovered": 1793,
+      "distanceCovered": 1800,
       "from": 700,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in700-750",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in700-750",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 750,
-      "value": 33.077659879619
+      "value": 45.481713258327
     },
     {
       "distanceCovered": 1933,
       "from": 750,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in750-800",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in750-800",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 800,
-      "value": 32.839206443116
+      "value": 45.410639120614
     },
     {
-      "distanceCovered": 2055,
+      "distanceCovered": 2073,
       "from": 800,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in800-850",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in800-850",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 850,
-      "value": 32.704898748718
+      "value": 43.309883940798
     },
     {
       "distanceCovered": 2194,
       "from": 850,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in850-900",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in850-900",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 900,
-      "value": 30.490705031836
+      "value": 45.472119829861
     },
     {
       "distanceCovered": 2331,
       "from": 900,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in900-950",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in900-950",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 950,
-      "value": 29.769807408693
+      "value": 45.923078186724
     },
     {
       "distanceCovered": 2476,
       "from": 950,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in950-1000",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in950-1000",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1000,
-      "value": 31.912112818261
+      "value": 47.241086172538
     },
     {
       "distanceCovered": 2603,
       "from": 1000,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1000-1050",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1000-1050",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1050,
-      "value": 34.840475238062
+      "value": 48.50868606692
     },
     {
-      "distanceCovered": 2734,
+      "distanceCovered": 2743,
       "from": 1050,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1050-1100",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1050-1100",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1100,
-      "value": 33.690066304346
+      "value": 49.212972561593
     },
     {
       "distanceCovered": 2874,
       "from": 1100,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1100-1150",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1100-1150",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1150,
-      "value": 32.00159525512
+      "value": 47.887059289211
     },
     {
       "distanceCovered": 3006,
       "from": 1150,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1150-1200",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1150-1200",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1200,
-      "value": 34.521215754692
+      "value": 48.771377407182
     },
     {
       "distanceCovered": 3136,
       "from": 1200,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1200-1250",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1200-1250",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1250,
-      "value": 34.889113911849
+      "value": 47.702789796686
     },
     {
       "distanceCovered": 3257,
       "from": 1250,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1250-1300",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1250-1300",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1300,
-      "value": 36.491346473168
+      "value": 46.916644636634
     },
     {
       "distanceCovered": 3401,
       "from": 1300,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1300-1350",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1300-1350",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1350,
-      "value": 36.195690223633
+      "value": 49.109628897163
     },
     {
       "distanceCovered": 3528,
       "from": 1350,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1350-1400",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1350-1400",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1400,
-      "value": 36.786715004459
+      "value": 50.061028152287
     },
     {
-      "distanceCovered": 3660,
+      "distanceCovered": 3667,
       "from": 1400,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1400-1450",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1400-1450",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1450,
-      "value": 36.804421036234
+      "value": 48.738225686497
     },
     {
       "distanceCovered": 3789,
       "from": 1450,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1450-1500",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1450-1500",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1500,
-      "value": 37.559757884924
+      "value": 46.718833944492
     },
     {
       "distanceCovered": 3936,
       "from": 1500,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1500-1550",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1500-1550",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1550,
-      "value": 37.651586799087
+      "value": 48.225309818514
     },
     {
       "distanceCovered": 4065,
       "from": 1550,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1550-1600",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1550-1600",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1600,
-      "value": 38.880895357378
+      "value": 48.943327157318
     },
     {
       "distanceCovered": 4192,
       "from": 1600,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1600-1650",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1600-1650",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1650,
-      "value": 37.151155025244
+      "value": 48.532777837152
     },
     {
       "distanceCovered": 4320,
       "from": 1650,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1650-1700",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1650-1700",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1700,
-      "value": 37.355514809727
+      "value": 49.935979462388
     },
     {
-      "distanceCovered": 4451,
+      "distanceCovered": 4466,
       "from": 1700,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1700-1750",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1700-1750",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1750,
-      "value": 41.389575840736
+      "value": 52.855064897893
     },
     {
       "distanceCovered": 4589,
       "from": 1750,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1750-1800",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1750-1800",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1800,
-      "value": 45.331684711234
+      "value": 52.497586415268
     },
     {
-      "distanceCovered": 4705,
+      "distanceCovered": 4722,
       "from": 1800,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1800-1850",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1800-1850",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1850,
       "value": 45.924790652393
     },
     {
       "distanceCovered": 4871,
       "from": 1850,
-      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1850-1900",
-      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue_in1850-1900",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x25939VJRiy15cJz3R/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x.fis",
       "to": 1900,
-      "value": 45.462355956171
+      "value": 46.365333961277
     }
   ],
   "fatigueZones": {
     "zone0": 40.080671269970566,
-    "zone1": 739.4948830286584,
-    "zone2": 1001.5031515617334,
-    "zone3": 100.1036444408135
+    "zone1": 54.141040978032585,
+    "zone2": 536.7417691365524,
+    "zone3": 1213.2258944042658
   },
   "gpsOn": true,
-  "graspCloudConnected": true,
-  "heartRateBatLevelEnd": 0.9999999776482582,
-  "heartRateBatLevelStart": 0.9999999776482582,
+  "graspCloudConnected": false,
+  "heartRateBatLevelEnd": 0,
+  "heartRateBatLevelStart": 0,
   "heartRateZones": {
     "_id": null,
-    "count": 1897,
+    "count": 1905,
     "zone0": 10,
     "zone0name": "Recovery",
     "zone0pc": 1,
     "zone1": 4,
     "zone1name": "Easy",
     "zone1pc": 0,
-    "zone2": 61,
+    "zone2": 68,
     "zone2name": "Aerobic",
-    "zone2pc": 3,
-    "zone3": 1125,
+    "zone2pc": 4,
+    "zone3": 1127,
     "zone3name": "Anaerobic",
     "zone3pc": 59,
-    "zone4": 697,
+    "zone4": 696,
     "zone4name": "Maximum",
     "zone4pc": 37
   },
   "heartrateConnected": true,
   "info": {
-    "avgGp": "1.8472762645914405",
-    "avgGr": "1.8472762645914402",
-    "avgHr": "1.8453307392996112",
-    "gpO": "0",
-    "gpR": "71",
-    "gpT": "1900",
-    "grLO": "0",
-    "grLOS": "0",
-    "grLR": "17",
-    "grLRS": "0",
-    "grLT": "951",
-    "grLTS": "950",
-    "grRO": "0",
-    "grROS": "0",
-    "grRR": "16",
-    "grRRS": "0",
-    "grRT": "950",
-    "grRTS": "949",
-    "hrO": "0",
-    "hrR": "34",
-    "hrT": "1898",
-    "nBund": "1028",
-    "nGp": "1899",
-    "nGr": "1899",
-    "nHr": "1897",
-    "runID": "5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0"
+    "info": "No sequence data found!"
   },
   "intensityZones": {
     "_id": null,
-    "count": 1897,
+    "count": 1905,
     "zone0": 9,
     "zone0name": "Very Light",
     "zone0pc": 0,
-    "zone1": 1,
+    "zone1": 3,
     "zone1name": "Light",
     "zone1pc": 0,
-    "zone2": 73,
+    "zone2": 77,
     "zone2name": "Moderate",
     "zone2pc": 4,
-    "zone3": 1466,
+    "zone3": 1471,
     "zone3name": "High",
     "zone3pc": 77,
-    "zone4": 348,
+    "zone4": 345,
     "zone4name": "Maximum",
     "zone4pc": 18
   },
   "isReplay": false,
-  "isUploaded": false,
-  "latitude": 51.89334494737617,
-  "longitude": -8.560340744604844,
-  "name": "Tuesday 13 February 11:07",
+  "isUploaded": true,
+  "latitude": 51.89334469053946,
+  "longitude": -8.560345139591004,
+  "name": "Uploaded - 2018-02-13T11:42:20.553Z",
   "paceZones": {
     "_id": null,
-    "count": 1899,
+    "count": 1910,
     "zone0": 0,
     "zone0name": "Easy",
     "zone0pc": 0,
     "zone1": 0,
     "zone1name": "Endurance",
     "zone1pc": 0,
-    "zone2": 114,
+    "zone2": 133,
     "zone2name": "Tempo",
-    "zone2pc": 6,
-    "zone3": 1553,
+    "zone2pc": 7,
+    "zone3": 1546,
     "zone3name": "Threshold",
-    "zone3pc": 82,
-    "zone4": 232,
+    "zone3pc": 81,
+    "zone4": 231,
     "zone4name": "Speed",
     "zone4pc": 12
   },
-  "pauses": [
-    {
-      "pause": 1,
-      "pauseT": 1518520035157.102,
-      "pauseType": "auto",
-      "resume": 1,
-      "resumeT": 1518520123039.8818,
-      "resumeType": "auto"
-    },
-    {
-      "pause": 204,
-      "pauseT": 1518520325260.568,
-      "pauseType": "auto",
-      "resume": 204,
-      "resumeT": 1518520393096.243,
-      "resumeType": "auto"
-    },
-    {
-      "pause": 629,
-      "pauseT": 1518520818629.714,
-      "pauseType": "auto",
-      "resume": 629,
-      "resumeT": 1518520821107.2031,
-      "resumeType": "auto"
-    },
-    {
-      "pause": 1923,
-      "pauseT": 1518522115644.3271,
-      "pauseType": "auto"
-    }
-  ],
-  "phoneBatLevelEnd": 0.8100000023841858,
-  "phoneBatLevelStart": 0.8899999856948853,
+  "pauses": [],
+  "phoneBatLevelEnd": 0,
+  "phoneBatLevelStart": 0,
   "points": {
     "_id": {
-      "$oid": "5a82c6e32d08ef6541fa9a1b"
+      "$oid": "5a82cf1c2d08ef6541fab18c"
     },
     "award": {
       "_id": {
-        "$oid": "5a82c6e32d08ef6541fa9a1e"
+        "$oid": "5a82cf1c2d08ef6541fab18f"
       },
       "count": 0,
       "insights": [
@@ -1408,6 +1363,534 @@
             "$date": "2017-08-26T10:59:01.652Z"
           },
           "values": []
+        },
+        {
+          "__v": 8,
+          "_group": {
+            "__v": 8,
+            "_id": {
+              "$oid": "57dd13ed32f321660e777872"
+            },
+            "active": true,
+            "creationDate": {
+              "$date": "2016-09-17T09:59:09.814Z"
+            },
+            "description": "Proficiency insight messages",
+            "max": 5,
+            "nSent": 2,
+            "name": "Proficiency",
+            "priority": 2,
+            "thresholds": [
+              {
+                "description": "Previous Run Improvement",
+                "group": "Thresholds",
+                "index": 0,
+                "name": "threshold0",
+                "value": 2
+              },
+              {
+                "description": "Previous Run Disimprovement",
+                "group": "Thresholds",
+                "index": 1,
+                "name": "threshold1",
+                "value": -2
+              },
+              {
+                "description": "7 Day Positive Trajectory",
+                "group": "Thresholds",
+                "index": 2,
+                "name": "threshold2",
+                "value": 2
+              },
+              {
+                "description": "7 Day Negative Trajectory",
+                "group": "Thresholds",
+                "index": 3,
+                "name": "threshold3",
+                "value": -2
+              },
+              {
+                "description": "30 Day Improvement",
+                "group": "Thresholds",
+                "index": 4,
+                "name": "threshold4",
+                "value": 4
+              },
+              {
+                "description": "30 Day Significant Improvement",
+                "group": "Thresholds",
+                "index": 5,
+                "name": "threshold5",
+                "value": 8
+              },
+              {
+                "description": "90 Day Improvement",
+                "group": "Thresholds",
+                "index": 6,
+                "name": "threshold6",
+                "value": 10
+              },
+              {
+                "description": "90 Day Significant Improvement",
+                "group": "Thresholds",
+                "index": 7,
+                "name": "threshold7",
+                "value": 20
+              }
+            ],
+            "updatedAt": {
+              "$date": "2016-09-27T18:22:08.191Z"
+            }
+          },
+          "_id": {
+            "$oid": "57dd416ca6b030511078be4b"
+          },
+          "active": true,
+          "admin": {
+            "date": {
+              "$date": "2017-01-20T12:55:38.936Z"
+            },
+            "id": "55d75684eff74557611c9849",
+            "name": "Ronan Fahey"
+          },
+          "awardPoints": 5,
+          "conditions": [
+            {
+              "function": "gt",
+              "index": 0,
+              "input1": {
+                "function": "minus",
+                "group": "Values",
+                "index": 0,
+                "input1": {
+                  "function": "value",
+                  "group": "Inputs",
+                  "index": 0,
+                  "key": "summary.averageRunScore",
+                  "name": "input0",
+                  "period": 0
+                },
+                "input2": {
+                  "function": "average",
+                  "group": "Inputs",
+                  "index": 1,
+                  "key": "summary.averageRunScore",
+                  "name": "input1",
+                  "period": 3
+                },
+                "name": "value0"
+              },
+              "input2": {
+                "group": "Thresholds",
+                "index": 4,
+                "name": "threshold4",
+                "value": 10
+              },
+              "isThreshold": false,
+              "name": "condition0"
+            }
+          ],
+          "creationDate": {
+            "$date": "2016-09-17T13:13:16.912Z"
+          },
+          "description": "Inform the user of notable progress on proficiency over the last 30 days.",
+          "discovery": 1,
+          "distanceCategoryFilter": true,
+          "group": "Proficiency",
+          "inputs": [
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 0,
+              "key": "proficiency.speedProficiency",
+              "name": "input0",
+              "period": 0
+            },
+            {
+              "function": "first",
+              "group": "Inputs",
+              "index": 1,
+              "key": "proficiency.speedProficiency",
+              "name": "input1",
+              "period": 3
+            },
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 2,
+              "key": "#runs",
+              "name": "input2",
+              "period": 3
+            },
+            {
+              "function": "sum",
+              "group": "Inputs",
+              "index": 3,
+              "key": "#mins",
+              "name": "input3",
+              "period": 3
+            }
+          ],
+          "instructions": [],
+          "name": "1.5 Proficiency",
+          "penaltyPoints": 7,
+          "priority": 3,
+          "text": "Your overall proficiency over the last 30 days has improved from {input1}% to {input0}% over the course of {input2} runs and {input3} minutes.",
+          "thresholds": [
+            {
+              "description": "Previous Run Improvement",
+              "group": "Thresholds",
+              "index": 0,
+              "name": "threshold0",
+              "value": 2
+            },
+            {
+              "description": "Previous Run Disimprovement",
+              "group": "Thresholds",
+              "index": 1,
+              "name": "threshold1",
+              "value": -2
+            },
+            {
+              "description": "7 Day Positive Trajectory",
+              "group": "Thresholds",
+              "index": 2,
+              "name": "threshold2",
+              "value": 2
+            },
+            {
+              "description": "7 Day Negative Trajectory",
+              "group": "Thresholds",
+              "index": 3,
+              "name": "threshold3",
+              "value": -2
+            },
+            {
+              "description": "30 Day Improvement",
+              "group": "Thresholds",
+              "index": 4,
+              "name": "threshold4",
+              "value": 4
+            },
+            {
+              "description": "30 Day Significant Improvement",
+              "group": "Thresholds",
+              "index": 5,
+              "name": "threshold5",
+              "value": 8
+            },
+            {
+              "description": "90 Day Improvement",
+              "group": "Thresholds",
+              "index": 6,
+              "name": "threshold6",
+              "value": 10
+            },
+            {
+              "description": "90 Day Significant Improvement",
+              "group": "Thresholds",
+              "index": 7,
+              "name": "threshold7",
+              "value": 20
+            }
+          ],
+          "triggers": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "updatedAt": {
+            "$date": "2017-01-20T12:55:38.952Z"
+          },
+          "values": [
+            {
+              "function": "minus",
+              "group": "Values",
+              "index": 0,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "proficiency.{category}Proficiency",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "function": "first",
+                "group": "Inputs",
+                "index": 1,
+                "key": "proficiency.{category}Proficiency",
+                "name": "input1",
+                "period": 3
+              },
+              "name": "value0"
+            }
+          ]
+        },
+        {
+          "__v": 4,
+          "_group": {
+            "__v": 8,
+            "_id": {
+              "$oid": "57dd13ed32f321660e777872"
+            },
+            "active": true,
+            "creationDate": {
+              "$date": "2016-09-17T09:59:09.814Z"
+            },
+            "description": "Proficiency insight messages",
+            "max": 5,
+            "nSent": 2,
+            "name": "Proficiency",
+            "priority": 2,
+            "thresholds": [
+              {
+                "description": "Previous Run Improvement",
+                "group": "Thresholds",
+                "index": 0,
+                "name": "threshold0",
+                "value": 2
+              },
+              {
+                "description": "Previous Run Disimprovement",
+                "group": "Thresholds",
+                "index": 1,
+                "name": "threshold1",
+                "value": -2
+              },
+              {
+                "description": "7 Day Positive Trajectory",
+                "group": "Thresholds",
+                "index": 2,
+                "name": "threshold2",
+                "value": 2
+              },
+              {
+                "description": "7 Day Negative Trajectory",
+                "group": "Thresholds",
+                "index": 3,
+                "name": "threshold3",
+                "value": -2
+              },
+              {
+                "description": "30 Day Improvement",
+                "group": "Thresholds",
+                "index": 4,
+                "name": "threshold4",
+                "value": 4
+              },
+              {
+                "description": "30 Day Significant Improvement",
+                "group": "Thresholds",
+                "index": 5,
+                "name": "threshold5",
+                "value": 8
+              },
+              {
+                "description": "90 Day Improvement",
+                "group": "Thresholds",
+                "index": 6,
+                "name": "threshold6",
+                "value": 10
+              },
+              {
+                "description": "90 Day Significant Improvement",
+                "group": "Thresholds",
+                "index": 7,
+                "name": "threshold7",
+                "value": 20
+              }
+            ],
+            "updatedAt": {
+              "$date": "2016-09-27T18:22:08.191Z"
+            }
+          },
+          "_id": {
+            "$oid": "57dec64c007f589c68d99fc5"
+          },
+          "active": true,
+          "admin": {
+            "date": {
+              "$date": "2017-01-20T12:56:03.131Z"
+            },
+            "id": "55d75684eff74557611c9849",
+            "name": "Ronan Fahey"
+          },
+          "awardPoints": 5,
+          "conditions": [
+            {
+              "function": "gte",
+              "index": 0,
+              "input1": {
+                "function": "minus",
+                "group": "Values",
+                "index": 0,
+                "input1": {
+                  "function": "value",
+                  "group": "Inputs",
+                  "index": 0,
+                  "key": "proficiency.{category}Proficiency",
+                  "name": "input0",
+                  "period": 0
+                },
+                "input2": {
+                  "function": "first",
+                  "group": "Inputs",
+                  "index": 1,
+                  "key": "proficiency.{category}Proficiency",
+                  "name": "input1",
+                  "period": 3
+                },
+                "name": "value0"
+              },
+              "input2": {
+                "group": "Thresholds",
+                "index": 5,
+                "name": "threshold5",
+                "value": 5
+              },
+              "isThreshold": false,
+              "name": "condition0"
+            }
+          ],
+          "creationDate": {
+            "$date": "2016-09-18T16:52:28.043Z"
+          },
+          "description": "Inform the user of significant progress on proficiency over the last 30 days",
+          "discovery": 1,
+          "distanceCategoryFilter": true,
+          "group": "Proficiency",
+          "inputs": [
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 0,
+              "key": "proficiency.speedProficiency",
+              "name": "input0",
+              "period": 0
+            },
+            {
+              "function": "first",
+              "group": "Inputs",
+              "index": 1,
+              "key": "proficiency.speedProficiency",
+              "name": "input1",
+              "period": 3
+            },
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 2,
+              "key": "#runs",
+              "name": "input2",
+              "period": 3
+            },
+            {
+              "function": "sum",
+              "group": "Inputs",
+              "index": 3,
+              "key": "#mins",
+              "name": "input3",
+              "period": 3
+            }
+          ],
+          "instructions": [],
+          "name": "1.6\tProficiency",
+          "penaltyPoints": 7,
+          "priority": 3,
+          "text": "Congratulations.  Your overall proficiency over the last 30 days has improved significantly from {input1}% to {input0}% over the course of {input2} runs and {input3} minutes.",
+          "thresholds": [
+            {
+              "description": "Previous Run Improvement",
+              "group": "Thresholds",
+              "index": 0,
+              "name": "threshold0",
+              "value": 2
+            },
+            {
+              "description": "Previous Run Disimprovement",
+              "group": "Thresholds",
+              "index": 1,
+              "name": "threshold1",
+              "value": -2
+            },
+            {
+              "description": "7 Day Positive Trajectory",
+              "group": "Thresholds",
+              "index": 2,
+              "name": "threshold2",
+              "value": 2
+            },
+            {
+              "description": "7 Day Negative Trajectory",
+              "group": "Thresholds",
+              "index": 3,
+              "name": "threshold3",
+              "value": -2
+            },
+            {
+              "description": "30 Day Improvement",
+              "group": "Thresholds",
+              "index": 4,
+              "name": "threshold4",
+              "value": 4
+            },
+            {
+              "description": "30 Day Significant Improvement",
+              "group": "Thresholds",
+              "index": 5,
+              "name": "threshold5",
+              "value": 8
+            },
+            {
+              "description": "90 Day Improvement",
+              "group": "Thresholds",
+              "index": 6,
+              "name": "threshold6",
+              "value": 10
+            },
+            {
+              "description": "90 Day Significant Improvement",
+              "group": "Thresholds",
+              "index": 7,
+              "name": "threshold7",
+              "value": 20
+            }
+          ],
+          "triggers": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "updatedAt": {
+            "$date": "2017-01-20T12:56:03.140Z"
+          },
+          "values": [
+            {
+              "function": "minus",
+              "group": "Values",
+              "index": 0,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "proficiency.{category}Proficiency",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "function": "first",
+                "group": "Inputs",
+                "index": 1,
+                "key": "proficiency.{category}Proficiency",
+                "name": "input1",
+                "period": 3
+              },
+              "name": "value0"
+            }
+          ]
         },
         {
           "__v": 3,
@@ -1833,14 +2316,14 @@
         }
       ],
       "lastCount": 0,
-      "n": 20,
+      "n": 30,
       "updatedAt": {
-        "$date": "2018-02-13T11:44:22.064Z"
+        "$date": "2018-02-13T11:42:27.636Z"
       }
     },
     "base": {
       "_id": {
-        "$oid": "5a82c6e32d08ef6541fa9a1c"
+        "$oid": "5a82cf1c2d08ef6541fab18d"
       },
       "count": 0,
       "n": 192.87500004865,
@@ -1883,11 +2366,11 @@
           ]
         ],
         "updatedAt": {
-          "$date": "2018-02-13T11:07:15.422Z"
+          "$date": "2018-02-13T11:42:20.626Z"
         }
       },
       "updatedAt": {
-        "$date": "2018-02-13T11:44:22.064Z"
+        "$date": "2018-02-13T11:42:27.636Z"
       }
     },
     "enabled": [
@@ -1899,465 +2382,22 @@
     ],
     "milestone": {
       "_id": {
-        "$oid": "5a82c6e32d08ef6541fa9a1f"
+        "$oid": "5a82cf1c2d08ef6541fab190"
       },
       "count": 0,
       "lastCount": 0,
       "n": 0,
       "updatedAt": {
-        "$date": "2018-02-13T11:44:22.064Z"
+        "$date": "2018-02-13T11:42:27.635Z"
       }
     },
-    "n": 132.17066035111708,
+    "n": 253.17066035111708,
     "penalty": {
       "_id": {
-        "$oid": "5a82c6e32d08ef6541fa9a20"
+        "$oid": "5a82cf1c2d08ef6541fab191"
       },
       "count": 0,
-      "flags": [
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 45,
-          "points": 5
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 76,
-          "points": 5
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 84,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 111,
-          "points": 5
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 118,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 144,
-          "points": 5
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 162,
-          "points": 0
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 190,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 198,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": null,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5UpperLimit",
-          "max": true,
-          "movingTime": 249,
-          "points": 5
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 281,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 289,
-          "points": 0
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": null,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": null,
-          "points": 0
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 349,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": null,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 388,
-          "points": 5
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 409,
-          "points": 0
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": null,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 445,
-          "points": 0
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 470,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 490,
-          "points": 0
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 521,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": null,
-          "points": 0
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 557,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 580,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalHRZoneLower",
-          "min": true,
-          "movingTime": 596,
-          "points": 5
-        },
-        {
-          "flag": "shown-userGoalHRZoneLower",
-          "min": true,
-          "movingTime": 628,
-          "points": 5
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 655,
-          "points": 0
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 669,
-          "points": 0
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 701,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 731,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 742,
-          "points": 5
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 773,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 806,
-          "points": 5
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 837,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 869,
-          "points": 5
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 909,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 942,
-          "points": 5
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 973,
-          "points": 0
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 1004,
-          "points": 0
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 1037,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 1069,
-          "points": 5
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 1101,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 1133,
-          "points": 5
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 1165,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 1198,
-          "points": 5
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 1229,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 1270,
-          "points": 5
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 1302,
-          "points": 5
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 1333,
-          "points": 5
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": null,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": null,
-          "points": 5
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 1429,
-          "points": 5
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 1461,
-          "points": 5
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 1494,
-          "points": 0
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 1525,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 1557,
-          "points": 5
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 1590,
-          "points": 5
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 1629,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 1661,
-          "points": 5
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 1696,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 1727,
-          "points": 0
-        },
-        {
-          "flag": "shown-userGoalPaceValueLower",
-          "min": true,
-          "movingTime": 1736,
-          "points": 5
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": null,
-          "points": 0
-        },
-        {
-          "flag": "shown-gradientSteepAmber",
-          "movingTime": 1770,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": null,
-          "points": 0
-        },
-        {
-          "flag": "shown-gradientSteepAmber",
-          "movingTime": 1814,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 1842,
-          "points": 0
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 1849,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 1876,
-          "points": 0
-        },
-        {
-          "flag": "shown-toeInOutRed",
-          "max": true,
-          "movingTime": 1883,
-          "points": 0
-        },
-        {
-          "flag": "shown-heartRateZone5LowerLimit",
-          "min": true,
-          "movingTime": 1909,
-          "points": 0
-        }
-      ],
+      "flags": [],
       "insights": [
         {
           "__v": 1,
@@ -2513,6 +2553,534 @@
             "$date": "2017-08-26T10:59:01.652Z"
           },
           "values": []
+        },
+        {
+          "__v": 8,
+          "_group": {
+            "__v": 8,
+            "_id": {
+              "$oid": "57dd13ed32f321660e777872"
+            },
+            "active": true,
+            "creationDate": {
+              "$date": "2016-09-17T09:59:09.814Z"
+            },
+            "description": "Proficiency insight messages",
+            "max": 5,
+            "nSent": 2,
+            "name": "Proficiency",
+            "priority": 2,
+            "thresholds": [
+              {
+                "description": "Previous Run Improvement",
+                "group": "Thresholds",
+                "index": 0,
+                "name": "threshold0",
+                "value": 2
+              },
+              {
+                "description": "Previous Run Disimprovement",
+                "group": "Thresholds",
+                "index": 1,
+                "name": "threshold1",
+                "value": -2
+              },
+              {
+                "description": "7 Day Positive Trajectory",
+                "group": "Thresholds",
+                "index": 2,
+                "name": "threshold2",
+                "value": 2
+              },
+              {
+                "description": "7 Day Negative Trajectory",
+                "group": "Thresholds",
+                "index": 3,
+                "name": "threshold3",
+                "value": -2
+              },
+              {
+                "description": "30 Day Improvement",
+                "group": "Thresholds",
+                "index": 4,
+                "name": "threshold4",
+                "value": 4
+              },
+              {
+                "description": "30 Day Significant Improvement",
+                "group": "Thresholds",
+                "index": 5,
+                "name": "threshold5",
+                "value": 8
+              },
+              {
+                "description": "90 Day Improvement",
+                "group": "Thresholds",
+                "index": 6,
+                "name": "threshold6",
+                "value": 10
+              },
+              {
+                "description": "90 Day Significant Improvement",
+                "group": "Thresholds",
+                "index": 7,
+                "name": "threshold7",
+                "value": 20
+              }
+            ],
+            "updatedAt": {
+              "$date": "2016-09-27T18:22:08.191Z"
+            }
+          },
+          "_id": {
+            "$oid": "57dd416ca6b030511078be4b"
+          },
+          "active": true,
+          "admin": {
+            "date": {
+              "$date": "2017-01-20T12:55:38.936Z"
+            },
+            "id": "55d75684eff74557611c9849",
+            "name": "Ronan Fahey"
+          },
+          "awardPoints": 5,
+          "conditions": [
+            {
+              "function": "gt",
+              "index": 0,
+              "input1": {
+                "function": "minus",
+                "group": "Values",
+                "index": 0,
+                "input1": {
+                  "function": "value",
+                  "group": "Inputs",
+                  "index": 0,
+                  "key": "summary.averageRunScore",
+                  "name": "input0",
+                  "period": 0
+                },
+                "input2": {
+                  "function": "average",
+                  "group": "Inputs",
+                  "index": 1,
+                  "key": "summary.averageRunScore",
+                  "name": "input1",
+                  "period": 3
+                },
+                "name": "value0"
+              },
+              "input2": {
+                "group": "Thresholds",
+                "index": 4,
+                "name": "threshold4",
+                "value": 10
+              },
+              "isThreshold": false,
+              "name": "condition0"
+            }
+          ],
+          "creationDate": {
+            "$date": "2016-09-17T13:13:16.912Z"
+          },
+          "description": "Inform the user of notable progress on proficiency over the last 30 days.",
+          "discovery": 1,
+          "distanceCategoryFilter": true,
+          "group": "Proficiency",
+          "inputs": [
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 0,
+              "key": "proficiency.speedProficiency",
+              "name": "input0",
+              "period": 0
+            },
+            {
+              "function": "first",
+              "group": "Inputs",
+              "index": 1,
+              "key": "proficiency.speedProficiency",
+              "name": "input1",
+              "period": 3
+            },
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 2,
+              "key": "#runs",
+              "name": "input2",
+              "period": 3
+            },
+            {
+              "function": "sum",
+              "group": "Inputs",
+              "index": 3,
+              "key": "#mins",
+              "name": "input3",
+              "period": 3
+            }
+          ],
+          "instructions": [],
+          "name": "1.5 Proficiency",
+          "penaltyPoints": 7,
+          "priority": 3,
+          "text": "Your overall proficiency over the last 30 days has improved from {input1}% to {input0}% over the course of {input2} runs and {input3} minutes.",
+          "thresholds": [
+            {
+              "description": "Previous Run Improvement",
+              "group": "Thresholds",
+              "index": 0,
+              "name": "threshold0",
+              "value": 2
+            },
+            {
+              "description": "Previous Run Disimprovement",
+              "group": "Thresholds",
+              "index": 1,
+              "name": "threshold1",
+              "value": -2
+            },
+            {
+              "description": "7 Day Positive Trajectory",
+              "group": "Thresholds",
+              "index": 2,
+              "name": "threshold2",
+              "value": 2
+            },
+            {
+              "description": "7 Day Negative Trajectory",
+              "group": "Thresholds",
+              "index": 3,
+              "name": "threshold3",
+              "value": -2
+            },
+            {
+              "description": "30 Day Improvement",
+              "group": "Thresholds",
+              "index": 4,
+              "name": "threshold4",
+              "value": 4
+            },
+            {
+              "description": "30 Day Significant Improvement",
+              "group": "Thresholds",
+              "index": 5,
+              "name": "threshold5",
+              "value": 8
+            },
+            {
+              "description": "90 Day Improvement",
+              "group": "Thresholds",
+              "index": 6,
+              "name": "threshold6",
+              "value": 10
+            },
+            {
+              "description": "90 Day Significant Improvement",
+              "group": "Thresholds",
+              "index": 7,
+              "name": "threshold7",
+              "value": 20
+            }
+          ],
+          "triggers": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "updatedAt": {
+            "$date": "2017-01-20T12:55:38.952Z"
+          },
+          "values": [
+            {
+              "function": "minus",
+              "group": "Values",
+              "index": 0,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "proficiency.{category}Proficiency",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "function": "first",
+                "group": "Inputs",
+                "index": 1,
+                "key": "proficiency.{category}Proficiency",
+                "name": "input1",
+                "period": 3
+              },
+              "name": "value0"
+            }
+          ]
+        },
+        {
+          "__v": 4,
+          "_group": {
+            "__v": 8,
+            "_id": {
+              "$oid": "57dd13ed32f321660e777872"
+            },
+            "active": true,
+            "creationDate": {
+              "$date": "2016-09-17T09:59:09.814Z"
+            },
+            "description": "Proficiency insight messages",
+            "max": 5,
+            "nSent": 2,
+            "name": "Proficiency",
+            "priority": 2,
+            "thresholds": [
+              {
+                "description": "Previous Run Improvement",
+                "group": "Thresholds",
+                "index": 0,
+                "name": "threshold0",
+                "value": 2
+              },
+              {
+                "description": "Previous Run Disimprovement",
+                "group": "Thresholds",
+                "index": 1,
+                "name": "threshold1",
+                "value": -2
+              },
+              {
+                "description": "7 Day Positive Trajectory",
+                "group": "Thresholds",
+                "index": 2,
+                "name": "threshold2",
+                "value": 2
+              },
+              {
+                "description": "7 Day Negative Trajectory",
+                "group": "Thresholds",
+                "index": 3,
+                "name": "threshold3",
+                "value": -2
+              },
+              {
+                "description": "30 Day Improvement",
+                "group": "Thresholds",
+                "index": 4,
+                "name": "threshold4",
+                "value": 4
+              },
+              {
+                "description": "30 Day Significant Improvement",
+                "group": "Thresholds",
+                "index": 5,
+                "name": "threshold5",
+                "value": 8
+              },
+              {
+                "description": "90 Day Improvement",
+                "group": "Thresholds",
+                "index": 6,
+                "name": "threshold6",
+                "value": 10
+              },
+              {
+                "description": "90 Day Significant Improvement",
+                "group": "Thresholds",
+                "index": 7,
+                "name": "threshold7",
+                "value": 20
+              }
+            ],
+            "updatedAt": {
+              "$date": "2016-09-27T18:22:08.191Z"
+            }
+          },
+          "_id": {
+            "$oid": "57dec64c007f589c68d99fc5"
+          },
+          "active": true,
+          "admin": {
+            "date": {
+              "$date": "2017-01-20T12:56:03.131Z"
+            },
+            "id": "55d75684eff74557611c9849",
+            "name": "Ronan Fahey"
+          },
+          "awardPoints": 5,
+          "conditions": [
+            {
+              "function": "gte",
+              "index": 0,
+              "input1": {
+                "function": "minus",
+                "group": "Values",
+                "index": 0,
+                "input1": {
+                  "function": "value",
+                  "group": "Inputs",
+                  "index": 0,
+                  "key": "proficiency.{category}Proficiency",
+                  "name": "input0",
+                  "period": 0
+                },
+                "input2": {
+                  "function": "first",
+                  "group": "Inputs",
+                  "index": 1,
+                  "key": "proficiency.{category}Proficiency",
+                  "name": "input1",
+                  "period": 3
+                },
+                "name": "value0"
+              },
+              "input2": {
+                "group": "Thresholds",
+                "index": 5,
+                "name": "threshold5",
+                "value": 5
+              },
+              "isThreshold": false,
+              "name": "condition0"
+            }
+          ],
+          "creationDate": {
+            "$date": "2016-09-18T16:52:28.043Z"
+          },
+          "description": "Inform the user of significant progress on proficiency over the last 30 days",
+          "discovery": 1,
+          "distanceCategoryFilter": true,
+          "group": "Proficiency",
+          "inputs": [
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 0,
+              "key": "proficiency.speedProficiency",
+              "name": "input0",
+              "period": 0
+            },
+            {
+              "function": "first",
+              "group": "Inputs",
+              "index": 1,
+              "key": "proficiency.speedProficiency",
+              "name": "input1",
+              "period": 3
+            },
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 2,
+              "key": "#runs",
+              "name": "input2",
+              "period": 3
+            },
+            {
+              "function": "sum",
+              "group": "Inputs",
+              "index": 3,
+              "key": "#mins",
+              "name": "input3",
+              "period": 3
+            }
+          ],
+          "instructions": [],
+          "name": "1.6\tProficiency",
+          "penaltyPoints": 7,
+          "priority": 3,
+          "text": "Congratulations.  Your overall proficiency over the last 30 days has improved significantly from {input1}% to {input0}% over the course of {input2} runs and {input3} minutes.",
+          "thresholds": [
+            {
+              "description": "Previous Run Improvement",
+              "group": "Thresholds",
+              "index": 0,
+              "name": "threshold0",
+              "value": 2
+            },
+            {
+              "description": "Previous Run Disimprovement",
+              "group": "Thresholds",
+              "index": 1,
+              "name": "threshold1",
+              "value": -2
+            },
+            {
+              "description": "7 Day Positive Trajectory",
+              "group": "Thresholds",
+              "index": 2,
+              "name": "threshold2",
+              "value": 2
+            },
+            {
+              "description": "7 Day Negative Trajectory",
+              "group": "Thresholds",
+              "index": 3,
+              "name": "threshold3",
+              "value": -2
+            },
+            {
+              "description": "30 Day Improvement",
+              "group": "Thresholds",
+              "index": 4,
+              "name": "threshold4",
+              "value": 4
+            },
+            {
+              "description": "30 Day Significant Improvement",
+              "group": "Thresholds",
+              "index": 5,
+              "name": "threshold5",
+              "value": 8
+            },
+            {
+              "description": "90 Day Improvement",
+              "group": "Thresholds",
+              "index": 6,
+              "name": "threshold6",
+              "value": 10
+            },
+            {
+              "description": "90 Day Significant Improvement",
+              "group": "Thresholds",
+              "index": 7,
+              "name": "threshold7",
+              "value": 20
+            }
+          ],
+          "triggers": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "updatedAt": {
+            "$date": "2017-01-20T12:56:03.140Z"
+          },
+          "values": [
+            {
+              "function": "minus",
+              "group": "Values",
+              "index": 0,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "proficiency.{category}Proficiency",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "function": "first",
+                "group": "Inputs",
+                "index": 1,
+                "key": "proficiency.{category}Proficiency",
+                "name": "input1",
+                "period": 3
+              },
+              "name": "value0"
+            }
+          ]
         },
         {
           "__v": 3,
@@ -2938,16 +3506,16 @@
         }
       ],
       "lastCount": 0,
-      "n": -153,
+      "n": -42,
       "updatedAt": {
-        "$date": "2018-02-13T11:44:22.063Z"
+        "$date": "2018-02-13T11:42:27.635Z"
       }
     },
     "performance": {
       "_id": {
-        "$oid": "5a82c6e32d08ef6541fa9a1d"
+        "$oid": "5a82cf1c2d08ef6541fab18e"
       },
-      "count": 903,
+      "count": 0,
       "dis": 0,
       "n": 72.29566030246708,
       "settings": {
@@ -2957,14 +3525,14 @@
         "Run_Points_Stage_Mul_Start": 0.35,
         "Run_Points_Stage_Mul_Step": 0.0334834834,
         "updatedAt": {
-          "$date": "2018-02-13T11:07:15.422Z"
+          "$date": "2018-02-13T11:42:20.626Z"
         }
       },
       "updatedAt": {
-        "$date": "2018-02-13T11:44:22.064Z"
+        "$date": "2018-02-13T11:42:27.636Z"
       }
     },
-    "runID": "5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0",
+    "runID": "5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x",
     "runnerID": {
       "$oid": "5678150d2471d4790bdf0bff"
     },
@@ -2974,164 +3542,164 @@
       "Run_Points_Stage_Mul_Start": 0.35,
       "Run_Points_Stage_Mul_Step": 0.0334834834,
       "updatedAt": {
-        "$date": "2018-02-13T11:07:15.422Z"
+        "$date": "2018-02-13T11:42:20.626Z"
       }
     },
     "updatedAt": {
-      "$date": "2018-02-13T11:44:22.064Z"
+      "$date": "2018-02-13T11:42:27.636Z"
     }
   },
   "proficiency": {
-    "$oid": "5a82cf1229cc046553c8c71c"
+    "$oid": "5a82cf2229cc046553c8c771"
   },
   "proficiencyNotes": [
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.082Z"
+        "$date": "2018-02-13T11:42:26.482Z"
       },
       "message": "Starting run 1 of 1 - Tue Feb 13 2018 11:07:12 GMT+0000 (GMT)",
       "progress": 1
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.089Z"
+        "$date": "2018-02-13T11:42:26.488Z"
       },
-      "message": "Starting proficiency: 5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0"
+      "message": "Starting proficiency: 5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.130Z"
+        "$date": "2018-02-13T11:42:26.512Z"
       },
       "message": "Proficiency result (all) - 43.090913213074"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.145Z"
+        "$date": "2018-02-13T11:42:26.524Z"
       },
       "message": "Transition result (all) - Level: 2 Stage: 2"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.157Z"
+        "$date": "2018-02-13T11:42:26.539Z"
       },
       "message": "Proficiency result (speed) - 43.090913213074"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.167Z"
+        "$date": "2018-02-13T11:42:26.552Z"
       },
       "message": "Transition result (speed) - Level: 2 Stage: 2"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.183Z"
+        "$date": "2018-02-13T11:42:26.578Z"
       },
       "message": "Proficiency result (short) - 42.795557106429"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.192Z"
+        "$date": "2018-02-13T11:42:26.592Z"
       },
       "message": "Transition result (short) - Level: 2 Stage: 2"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.211Z"
+        "$date": "2018-02-13T11:42:26.609Z"
       },
       "message": "Proficiency result (middle) - 39.32014924567"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.221Z"
+        "$date": "2018-02-13T11:42:26.619Z"
       },
       "message": "Transition result (middle) - Level: 3 Stage: 2"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.238Z"
+        "$date": "2018-02-13T11:42:26.644Z"
       },
       "message": "Proficiency result (long) - 35.050713032177"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.248Z"
+        "$date": "2018-02-13T11:42:26.659Z"
       },
       "message": "Transition result (long) - Level: 3 Stage: 2"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.264Z"
+        "$date": "2018-02-13T11:42:26.676Z"
       },
       "message": "Proficiency result (marathon) - 37.410750193521"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.274Z"
+        "$date": "2018-02-13T11:42:26.686Z"
       },
       "message": "Transition result (marathon) - Level: 3 Stage: 2"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.278Z"
+        "$date": "2018-02-13T11:42:26.689Z"
       },
-      "message": "Saving proficiency record... 5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0"
+      "message": "Saving proficiency record... 5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.421Z"
+        "$date": "2018-02-13T11:42:26.837Z"
+      },
+      "message": "Cumulative Load score: 5.844087923672129"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:26.848Z"
       },
       "message": "Beginning training readiness: 100"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:10.481Z"
+        "$date": "2018-02-13T11:42:27.261Z"
       },
-      "message": "Cumulative Load score: 5.898129236232256"
+      "message": "Points:{\"base\":192,\"performance\":72,\"penalty\":-42,\"award\":30,\"milestone\":0,\"total\":253}"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:11.034Z"
-      },
-      "message": "Points:{\"base\":192,\"performance\":72,\"penalty\":-153,\"award\":20,\"milestone\":0,\"total\":132}"
-    },
-    {
-      "date": {
-        "$date": "2018-02-13T11:42:11.298Z"
+        "$date": "2018-02-13T11:42:27.608Z"
       },
       "message": "Fatigue score: 0"
     },
     {
       "date": {
-        "$date": "2018-02-13T11:42:11.299Z"
+        "$date": "2018-02-13T11:42:27.609Z"
       },
       "message": "End Training readiness: {\"all\":69,\"speed\":69,\"short\":69,\"middle\":69,\"long\":69,\"marathon\":69,\"ultra\":69}"
     }
   ],
   "recommendedRunSelected": false,
   "runComputerLeftBatLevelEnd": 0,
-  "runComputerLeftBatLevelStart": 0.6899999845772982,
+  "runComputerLeftBatLevelStart": 0,
   "runComputerRightBatLevelEnd": 0,
-  "runComputerRightBatLevelStart": 0.7299999836832285,
+  "runComputerRightBatLevelStart": 0,
   "runGoals": {
-    "$oid": "5a82c6e32d08ef6541fa9a12"
+    "$oid": "5a82cf1c2d08ef6541fab183"
   },
-  "runID": "5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0",
+  "runID": "5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x",
   "runTerrainID": {
     "$oid": "5699044c727cf37b44a7d6e1"
   },
   "runTime": 1923,
   "runType": {
-    "$oid": "5a82c6e32d08ef6541fa9a19"
+    "$oid": "5a82cf1c2d08ef6541fab18a"
   },
   "runTypeID": {
-    "$oid": "5a82c6e32d08ef6541fa9a19"
+    "$oid": "5a82cf1c2d08ef6541fab18a"
   },
   "runTypeNumber": 150,
   "runnerID": {
     "$oid": "5678150d2471d4790bdf0bff"
   },
   "runnerLevel": 3,
-  "runnerProficiency": 39.134413673198,
+  "runnerProficiency": 39.32014924567,
   "runnerProficiencyIdentifier": "middle",
   "runnerStage": 2,
   "shoe": {
@@ -3140,12 +3708,14 @@
   "startDate": {
     "$date": "2018-02-13T11:07:12.000Z"
   },
+  "startingLatitude": 51.89334469053946,
+  "startingLongitude": -8.560345139591004,
   "summary": {
     "Z_ENT": 0,
     "Z_OPT": 0,
     "Z_PK": 0,
     "_id": {
-      "$oid": "5a82c6e32d08ef6541fa9a10"
+      "$oid": "5a82cf1c2d08ef6541fab180"
     },
     "averageAerometry": 8.275856439651808,
     "averageAltitude": 0,
@@ -3160,12 +3730,12 @@
     "averageImpact": 3.599998818013562,
     "averageIncline": 0,
     "averageIntensityScore": 7.646785542373985,
-    "averageLift": 10.004571699867547,
+    "averageLift": 10.00457169986755,
     "averageLoadingStressScore": 7.660619407204232,
     "averagePace": 380.6036615536863,
     "averageRouteDifficultyScore": 0.4963958186627148,
     "averageRunScore": 7.229566030246708,
-    "averageStrideLength": 194.94767856986246,
+    "averageStrideLength": 194.9476785698625,
     "averageToeInOut": 29.54126316851311,
     "averageVelocity": 9.585862603396404,
     "avgCadencePercentage": 59,
@@ -3178,7 +3748,7 @@
     "avgStrideLengthPercentage": 67,
     "avgToeInOutPercentage": 53,
     "creationDate": {
-      "$date": "2018-02-13T11:07:15.456Z"
+      "$date": "2018-02-13T11:42:20.668Z"
     },
     "elevationGain": 49.2153114318848,
     "elevationLoss": 1133.828418731689,
@@ -3190,11 +3760,11 @@
     "leftAverageGroundTime": 297,
     "leftAverageHeelStrikes": 2,
     "leftAverageImpact": 3.454127615062762,
-    "leftAverageLift": 10.188598326359832,
+    "leftAverageLift": 10.18859832635983,
     "leftAverageLoadingStressScore": 7.55465341469342,
     "leftAverageRunScore": 7.164049903141592,
-    "leftAverageStrideLength": 198.86464435146493,
-    "leftAverageToeInOut": 2.1349372384937237,
+    "leftAverageStrideLength": 198.8646443514649,
+    "leftAverageToeInOut": 2.134937238493724,
     "leftAverageVelocity": 9.57457635983264,
     "leftAvgCadencePercentage": 57.71015595283377,
     "leftAvgGaitLinePercentage": 51,
@@ -3215,8 +3785,8 @@
     "maxPace": 835.2668213457075,
     "maxStrideLength": 230.3,
     "maxVelocity": 11.01,
-    "notes": " ",
-    "recoveryFitnessScore": -1000,
+    "notes": "",
+    "recoveryFitnessScore": 0,
     "rightAverageBalanceScore": 6.367389801026613,
     "rightAverageCadence": 82,
     "rightAverageEfficiencyScore": 6.436757621096535,
@@ -3238,318 +3808,20 @@
     "rightAvgPacePercentage": 72,
     "rightAvgStrideLengthPercentage": 63,
     "rightAvgToeInOutPercentage": 8,
-    "runID": "5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0",
-    "runnerID": {
-      "$oid": "5678150d2471d4790bdf0bff"
-    },
+    "runID": "5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0x",
     "shoeID": 0,
     "shoeScore": 0,
     "totalCalories": 624,
     "totalDistanceCovered": 5052.5,
     "totalSteps": 5052,
     "updatedAt": {
-      "$date": "2018-02-13T11:44:22.063Z"
+      "$date": "2018-02-13T11:42:20.668Z"
     },
-    "userPainAndStrain": 8,
-    "userPerceivedEffort": 7
+    "userPainAndStrain": 0,
+    "userPerceivedEffort": 0
   },
   "thresholdFlags": [
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 45
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 76
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 84
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 111
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 118
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 144
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 162
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 190
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 198
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": null
-    },
-    {
-      "flag": "shown-heartRateZone5UpperLimit",
-      "movingTime": 249
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 281
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 289
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": null
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": null
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 349
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": null
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 388
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 409
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": null
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 445
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 470
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 490
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 521
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": null
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 557
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 580
-    },
-    {
-      "flag": "shown-userGoalHRZoneLower",
-      "movingTime": 596
-    },
-    {
-      "flag": "shown-userGoalHRZoneLower",
-      "movingTime": 628
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 655
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 669
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 701
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 731
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 742
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 773
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 806
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 837
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 869
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 909
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 942
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 973
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 1004
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 1037
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 1069
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 1101
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 1133
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 1165
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 1198
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 1229
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 1270
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 1302
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 1333
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": null
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": null
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 1429
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 1461
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 1494
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 1525
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 1557
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 1590
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 1629
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 1661
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 1696
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 1727
-    },
-    {
-      "flag": "shown-userGoalPaceValueLower",
-      "movingTime": 1736
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": null
-    },
-    {
-      "flag": "shown-gradientSteepAmber",
-      "movingTime": 1770
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": null
-    },
-    {
-      "flag": "shown-gradientSteepAmber",
-      "movingTime": 1814
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 1842
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 1849
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 1876
-    },
-    {
-      "flag": "shown-toeInOutRed",
-      "movingTime": 1883
-    },
-    {
-      "flag": "shown-heartRateZone5LowerLimit",
-      "movingTime": 1909
-    }
+    "(\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 30;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 44;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 76;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 84;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 110;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 118;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 144;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 162;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 190;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 198;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 225;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 234;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5UpperLimit;\n        movingTime = 250;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 280;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 288;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 316;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 324;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 350;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 360;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5UpperLimit;\n        movingTime = 380;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 388;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 408;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 434;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 444;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 470;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 490;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 520;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 540;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 556;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 580;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalHRZoneLower;\n        movingTime = 596;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalHRZoneLower;\n        movingTime = 628;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 655;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 669;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 701;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 731;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 741;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 773;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 805;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 837;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 869;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 909;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 941;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 973;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 1004;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 1037;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 1069;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 1101;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 1133;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 1165;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 1197;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 1229;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 1269;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 1301;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 1333;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 1365;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 1397;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 1429;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 1461;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 1493;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 1525;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 1557;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 1589;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 1629;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 1661;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 1695;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 1727;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = userGoalPaceValueLower;\n        movingTime = 1735;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 1761;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = gradientSteepAmber;\n        movingTime = 1769;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 1797;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = gradientSteepAmber;\n        movingTime = 1813;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 1841;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 1849;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 1875;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = toeInOutRed;\n        movingTime = 1883;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = heartRateZone5LowerLimit;\n        movingTime = 1909;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    },\n        {\n        flag = cumulativeLoadRunRed;\n        movingTime = 1917;\n        runID = \"5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0\";\n        type = shown;\n    }\n)"
   ],
   "thresholds": {
     "altitude": {
@@ -4532,28 +4804,30 @@
     "ultra": 100
   },
   "updatedAt": {
-    "$date": "2018-02-13T11:44:22.065Z"
+    "$date": "2018-02-13T11:42:27.637Z"
   },
+  "uploadedFrom": "user",
+  "watchBatLevelEnd": 0,
   "watchBatLevelStart": 0,
   "watchConnected": false,
   "weather": {
-    "apparentTemperature": -0.41,
-    "cloudCover": 0.11,
-    "dewPoint": -0.46,
-    "humidity": 0.74,
+    "apparentTemperature": -0.64,
+    "cloudCover": 0.1,
+    "dewPoint": -0.45,
+    "humidity": 0.75,
     "icon": "clear-day",
-    "ozone": 498.59,
+    "ozone": 498.62,
     "precipIntensity": 0,
     "precipProbability": 0,
-    "pressure": 1003.12,
+    "pressure": 1003.07,
     "summary": "Clear",
-    "temperature": 3.81,
+    "temperature": 3.53,
     "time": 1518520032,
     "uvIndex": 1,
-    "visibility": 16.09,
-    "windBearing": 292,
-    "windGust": 10.3,
-    "windSpeed": 5.51
+    "visibility": 14.47,
+    "windBearing": 288,
+    "windGust": 10.07,
+    "windSpeed": 5.3
   },
   "zones": {
     "hrZones": {
