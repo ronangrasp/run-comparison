@@ -1,0 +1,5984 @@
+{
+  "__v": 8,
+  "_id": {
+    "$oid": "5a82c6e32d08ef6541fa9a0f"
+  },
+  "coachDistanceGoal": 3,
+  "coachGoal": 2,
+  "completed": 3,
+  "creationDate": {
+    "$date": "2018-02-13T11:42:09.901Z"
+  },
+  "cumulativeLoadStart30": 34.96831873849729,
+  "cumulativeLoadStart7": 7.936165221278835,
+  "cumulativeLoadThreshold": 3,
+  "cumulativeLoadThreshold30": 300,
+  "cumulativeLoadThreshold7": 45,
+  "cumulativeLoadValue": 5.898129236232256,
+  "cumulativeLoadValue30": 40.866447974729546,
+  "cumulativeLoadValue7": 13.834294457511092,
+  "cumulativeLoadValuePostRun": 5.877558675197491,
+  "cumulativeLoadValues": [
+    {
+      "distanceCovered": 121,
+      "movingTime": 45,
+      "value": 0.09509332445431001
+    },
+    {
+      "distanceCovered": 227,
+      "movingTime": 84,
+      "value": 0.1669231068733954
+    },
+    {
+      "distanceCovered": 359,
+      "movingTime": 125,
+      "value": 0.25453608088235286
+    },
+    {
+      "distanceCovered": 490,
+      "movingTime": 165,
+      "value": 0.3632086320754715
+    },
+    {
+      "distanceCovered": 594,
+      "movingTime": 206,
+      "value": 0.4643150857997287
+    },
+    {
+      "distanceCovered": 695,
+      "movingTime": 248,
+      "value": 0.5986382153013673
+    },
+    {
+      "distanceCovered": 788,
+      "movingTime": 287,
+      "value": 0.7550530124981905
+    },
+    {
+      "distanceCovered": 891,
+      "movingTime": 327,
+      "value": 0.8803028265175445
+    },
+    {
+      "distanceCovered": 1001,
+      "movingTime": 367,
+      "value": 0.997366355032579
+    },
+    {
+      "distanceCovered": 1095,
+      "movingTime": 406,
+      "value": 1.140718345155946
+    },
+    {
+      "distanceCovered": 1196,
+      "movingTime": 445,
+      "value": 1.2536357219776848
+    },
+    {
+      "distanceCovered": 1292,
+      "movingTime": 485,
+      "value": 1.3808217029725176
+    },
+    {
+      "distanceCovered": 1398,
+      "movingTime": 523,
+      "value": 1.5242692328896914
+    },
+    {
+      "distanceCovered": 1506,
+      "movingTime": 565,
+      "value": 1.6558053840049818
+    },
+    {
+      "distanceCovered": 1585,
+      "movingTime": 607,
+      "value": 1.7735824939756042
+    },
+    {
+      "distanceCovered": 1655,
+      "movingTime": 644,
+      "value": 1.9020191144004293
+    },
+    {
+      "distanceCovered": 1753,
+      "movingTime": 683,
+      "value": 2.0184242896562017
+    },
+    {
+      "distanceCovered": 1858,
+      "movingTime": 722,
+      "value": 2.1426151642267577
+    },
+    {
+      "distanceCovered": 1963,
+      "movingTime": 761,
+      "value": 2.266061381977244
+    },
+    {
+      "distanceCovered": 2067,
+      "movingTime": 799,
+      "value": 2.3996067163166117
+    },
+    {
+      "distanceCovered": 2177,
+      "movingTime": 839,
+      "value": 2.523605137411895
+    },
+    {
+      "distanceCovered": 2280,
+      "movingTime": 877,
+      "value": 2.644245128426559
+    },
+    {
+      "distanceCovered": 2388,
+      "movingTime": 917,
+      "value": 2.774378598237
+    },
+    {
+      "distanceCovered": 2492,
+      "movingTime": 956,
+      "value": 2.888066471629154
+    },
+    {
+      "distanceCovered": 2594,
+      "movingTime": 994,
+      "value": 3.0054579576005027
+    },
+    {
+      "distanceCovered": 2697,
+      "movingTime": 1035,
+      "value": 3.1302901805778225
+    },
+    {
+      "distanceCovered": 2801,
+      "movingTime": 1073,
+      "value": 3.2666320159508127
+    },
+    {
+      "distanceCovered": 2902,
+      "movingTime": 1111,
+      "value": 3.3931930889545314
+    },
+    {
+      "distanceCovered": 3006,
+      "movingTime": 1150,
+      "value": 3.5412323007630992
+    },
+    {
+      "distanceCovered": 3107,
+      "movingTime": 1188,
+      "value": 3.6625917721309658
+    },
+    {
+      "distanceCovered": 3216,
+      "movingTime": 1230,
+      "value": 3.767568514885272
+    },
+    {
+      "distanceCovered": 3321,
+      "movingTime": 1270,
+      "value": 3.889505481384722
+    },
+    {
+      "distanceCovered": 3428,
+      "movingTime": 1310,
+      "value": 4.009240400881735
+    },
+    {
+      "distanceCovered": 3529,
+      "movingTime": 1348,
+      "value": 4.132368451004887
+    },
+    {
+      "distanceCovered": 3630,
+      "movingTime": 1387,
+      "value": 4.254667103685845
+    },
+    {
+      "distanceCovered": 3732,
+      "movingTime": 1426,
+      "value": 4.377603893628094
+    },
+    {
+      "distanceCovered": 3835,
+      "movingTime": 1463,
+      "value": 4.509854577043438
+    },
+    {
+      "distanceCovered": 3942,
+      "movingTime": 1503,
+      "value": 4.640221184321208
+    },
+    {
+      "distanceCovered": 4045,
+      "movingTime": 1542,
+      "value": 4.757604667403759
+    },
+    {
+      "distanceCovered": 4149,
+      "movingTime": 1582,
+      "value": 4.879840802195089
+    },
+    {
+      "distanceCovered": 4255,
+      "movingTime": 1621,
+      "value": 5.0014816234709825
+    },
+    {
+      "distanceCovered": 4362,
+      "movingTime": 1661,
+      "value": 5.126298145808587
+    },
+    {
+      "distanceCovered": 4466,
+      "movingTime": 1700,
+      "value": 5.2399138110324985
+    },
+    {
+      "distanceCovered": 4566,
+      "movingTime": 1740,
+      "value": 5.37844214885612
+    },
+    {
+      "distanceCovered": 4663,
+      "movingTime": 1780,
+      "value": 5.523106871055443
+    },
+    {
+      "distanceCovered": 4771,
+      "movingTime": 1819,
+      "value": 5.657788333949931
+    },
+    {
+      "distanceCovered": 4882,
+      "movingTime": 1856,
+      "value": 5.785934570619646
+    },
+    {
+      "distanceCovered": 4992,
+      "movingTime": 1896,
+      "value": 5.898129236232256
+    }
+  ],
+  "cumulativeLoadValuesPostRun": [
+    {
+      "distanceCovered": 115,
+      "movingTime": 41,
+      "value": 0.09006364145658263
+    },
+    {
+      "distanceCovered": 214,
+      "movingTime": 77,
+      "value": 0.1605602567517573
+    },
+    {
+      "distanceCovered": 338,
+      "movingTime": 117,
+      "value": 0.2432978596172603
+    },
+    {
+      "distanceCovered": 466,
+      "movingTime": 156,
+      "value": 0.3479162976033574
+    },
+    {
+      "distanceCovered": 579,
+      "movingTime": 193,
+      "value": 0.46141680323959544
+    },
+    {
+      "distanceCovered": 664,
+      "movingTime": 235,
+      "value": 0.5822243376495251
+    },
+    {
+      "distanceCovered": 766,
+      "movingTime": 273,
+      "value": 0.7220310986001216
+    },
+    {
+      "distanceCovered": 858,
+      "movingTime": 309,
+      "value": 0.8397677338689924
+    },
+    {
+      "distanceCovered": 953,
+      "movingTime": 347,
+      "value": 0.9555582847675572
+    },
+    {
+      "distanceCovered": 1050,
+      "movingTime": 385,
+      "value": 1.0666570289801456
+    },
+    {
+      "distanceCovered": 1151,
+      "movingTime": 425,
+      "value": 1.1879537969940803
+    },
+    {
+      "distanceCovered": 1245,
+      "movingTime": 463,
+      "value": 1.3047375841150624
+    },
+    {
+      "distanceCovered": 1334,
+      "movingTime": 499,
+      "value": 1.4233289274158656
+    },
+    {
+      "distanceCovered": 1432,
+      "movingTime": 536,
+      "value": 1.5442790337968706
+    },
+    {
+      "distanceCovered": 1536,
+      "movingTime": 575,
+      "value": 1.664114462924407
+    },
+    {
+      "distanceCovered": 1600,
+      "movingTime": 617,
+      "value": 1.788621810743166
+    },
+    {
+      "distanceCovered": 1680,
+      "movingTime": 652,
+      "value": 1.9077431194306653
+    },
+    {
+      "distanceCovered": 1774,
+      "movingTime": 689,
+      "value": 2.022552630522089
+    },
+    {
+      "distanceCovered": 1876,
+      "movingTime": 727,
+      "value": 2.140843869568793
+    },
+    {
+      "distanceCovered": 1980,
+      "movingTime": 766,
+      "value": 2.264128840716067
+    },
+    {
+      "distanceCovered": 2079,
+      "movingTime": 801,
+      "value": 2.3844795084153865
+    },
+    {
+      "distanceCovered": 2187,
+      "movingTime": 842,
+      "value": 2.5095395122054924
+    },
+    {
+      "distanceCovered": 2291,
+      "movingTime": 880,
+      "value": 2.635221269033889
+    },
+    {
+      "distanceCovered": 2394,
+      "movingTime": 917,
+      "value": 2.7555458790805454
+    },
+    {
+      "distanceCovered": 2492,
+      "movingTime": 955,
+      "value": 2.864177318293373
+    },
+    {
+      "distanceCovered": 2594,
+      "movingTime": 992,
+      "value": 2.9803558717367187
+    },
+    {
+      "distanceCovered": 2691,
+      "movingTime": 1029,
+      "value": 3.0987984704909577
+    },
+    {
+      "distanceCovered": 2787,
+      "movingTime": 1064,
+      "value": 3.223541075525061
+    },
+    {
+      "distanceCovered": 2886,
+      "movingTime": 1102,
+      "value": 3.3477451874334667
+    },
+    {
+      "distanceCovered": 2986,
+      "movingTime": 1141,
+      "value": 3.4741164180248436
+    },
+    {
+      "distanceCovered": 3084,
+      "movingTime": 1177,
+      "value": 3.5962421428530225
+    },
+    {
+      "distanceCovered": 3186,
+      "movingTime": 1221,
+      "value": 3.7065117680280935
+    },
+    {
+      "distanceCovered": 3288,
+      "movingTime": 1256,
+      "value": 3.806208771849038
+    },
+    {
+      "distanceCovered": 3391,
+      "movingTime": 1294,
+      "value": 3.9251009129327556
+    },
+    {
+      "distanceCovered": 3491,
+      "movingTime": 1333,
+      "value": 4.0473638944458115
+    },
+    {
+      "distanceCovered": 3586,
+      "movingTime": 1368,
+      "value": 4.160871560409189
+    },
+    {
+      "distanceCovered": 3686,
+      "movingTime": 1407,
+      "value": 4.285232595793799
+    },
+    {
+      "distanceCovered": 3785,
+      "movingTime": 1443,
+      "value": 4.407095312172705
+    },
+    {
+      "distanceCovered": 3888,
+      "movingTime": 1481,
+      "value": 4.533095622810504
+    },
+    {
+      "distanceCovered": 3991,
+      "movingTime": 1517,
+      "value": 4.658636860403178
+    },
+    {
+      "distanceCovered": 4087,
+      "movingTime": 1556,
+      "value": 4.767093484152122
+    },
+    {
+      "distanceCovered": 4187,
+      "movingTime": 1593,
+      "value": 4.885709282413266
+    },
+    {
+      "distanceCovered": 4288,
+      "movingTime": 1631,
+      "value": 5.003927904877664
+    },
+    {
+      "distanceCovered": 4394,
+      "movingTime": 1670,
+      "value": 5.127916899220212
+    },
+    {
+      "distanceCovered": 4492,
+      "movingTime": 1708,
+      "value": 5.235527366923266
+    },
+    {
+      "distanceCovered": 4584,
+      "movingTime": 1746,
+      "value": 5.376376864223647
+    },
+    {
+      "distanceCovered": 4674,
+      "movingTime": 1781,
+      "value": 5.50952362203612
+    },
+    {
+      "distanceCovered": 4778,
+      "movingTime": 1819,
+      "value": 5.639084524777189
+    },
+    {
+      "distanceCovered": 4882,
+      "movingTime": 1852,
+      "value": 5.756028715716159
+    },
+    {
+      "distanceCovered": 4986,
+      "movingTime": 1892,
+      "value": 5.877558675197491
+    }
+  ],
+  "cumulativeThreshold30": {
+    "__v": 0,
+    "_id": {
+      "$oid": "5956223146e1ef4ed8712597"
+    },
+    "admin": {
+      "date": {
+        "$date": "2017-07-28T10:08:31.799Z"
+      },
+      "id": "55d75919ba78d02965ed631e",
+      "name": "Ken Byrne"
+    },
+    "codeBaseVariableName": "cumulativeThreshold30",
+    "createdAt": {
+      "$date": "2016-08-24T12:29:57.148Z"
+    },
+    "defaultThresholdIdentifier": "cumulativeThreshold3057bd934505a7bf5e08080edc",
+    "isDefault": false,
+    "runnerID": "5678150d2471d4790bdf0bff",
+    "thresholdAmberLowerMinAudio": "£name, you have reached your recommended cumulative load for an 30 days. Continuing your run may lead to injury.",
+    "thresholdAmberLowerMinAwardPoints": 25,
+    "thresholdAmberLowerMinPenaltyPoints": 0,
+    "thresholdAmberLowerMinPriority": 1,
+    "thresholdAmberLowerMinUIText": "Approaching 30 Day Loading",
+    "thresholdAmberLowerMinValue": 0,
+    "thresholdBackOffPeriod": 120,
+    "thresholdDate": {
+      "$date": "2017-07-28T10:08:31.810Z"
+    },
+    "thresholdDescription": "Cumulative load threshold information for a 30 day period: 6.1.3",
+    "thresholdIdentifierAmberLowerMin": "null",
+    "thresholdIdentifierRedUpperMax": "cumulativeLoad30Red",
+    "thresholdLimitValue": 0,
+    "thresholdNRepeat": 0,
+    "thresholdRedUpperMaxAudio": "£name, you have reached your recommended cumulative load for an 30 days. Continuing your run may lead to injury.",
+    "thresholdRedUpperMaxAwardPoints": 0,
+    "thresholdRedUpperMaxPenaltyPoints": 50,
+    "thresholdRedUpperMaxPriority": 1,
+    "thresholdRedUpperMaxUIText": "30 Day Loading Reached",
+    "thresholdRedUpperMaxValue": 200,
+    "thresholdRepeat": 3,
+    "thresholdScreen": 402,
+    "thresholdSettingsActivate": false,
+    "thresholdTitle": "Cumulative Load 30 Days",
+    "thresholdTrigger": 3,
+    "thresholdType": 1,
+    "thresholdWeighting": 0
+  },
+  "cumulativeThreshold7": {
+    "__v": 0,
+    "_id": {
+      "$oid": "595622de46e1ef4ed87125a4"
+    },
+    "admin": {
+      "date": {
+        "$date": "2017-08-11T18:17:50.632Z"
+      },
+      "id": "55d75919ba78d02965ed631e",
+      "name": "Ken Byrne"
+    },
+    "codeBaseVariableName": "cumulativeThreshold7",
+    "createdAt": {
+      "$date": "2016-08-24T12:26:10.152Z"
+    },
+    "defaultThresholdIdentifier": "cumulativeThreshold757bd926205a7bf5e08080edb",
+    "isDefault": false,
+    "runnerID": "5678150d2471d4790bdf0bff",
+    "thresholdAmberLowerMinAudio": "£name, you are approaching your recommended loading for 7 days.",
+    "thresholdAmberLowerMinAwardPoints": 5,
+    "thresholdAmberLowerMinPenaltyPoints": 0,
+    "thresholdAmberLowerMinPriority": 1,
+    "thresholdAmberLowerMinUIText": "Approaching 7 Day Loading",
+    "thresholdAmberLowerMinValue": 20,
+    "thresholdBackOffPeriod": 120,
+    "thresholdDate": {
+      "$date": "2017-08-11T18:17:50.648Z"
+    },
+    "thresholdDescription": "Cumulative load threshold information for a 7 day period: 6.1.2",
+    "thresholdIdentifierAmberLowerMin": "null",
+    "thresholdIdentifierRedUpperMax": "cumulativeLoad7Red",
+    "thresholdLimitValue": 0,
+    "thresholdNRepeat": 0,
+    "thresholdRedUpperMaxAudio": "£name, you have reached your recommended loading for 7 days. Continuing your run may lead to injury.",
+    "thresholdRedUpperMaxAwardPoints": 0,
+    "thresholdRedUpperMaxPenaltyPoints": 10,
+    "thresholdRedUpperMaxPriority": 1,
+    "thresholdRedUpperMaxUIText": "7 Day Loading Reached",
+    "thresholdRedUpperMaxValue": 30,
+    "thresholdRepeat": 3,
+    "thresholdScreen": 402,
+    "thresholdSettingsActivate": false,
+    "thresholdTitle": "Cumulative Load 7 Days",
+    "thresholdTrigger": 3,
+    "thresholdType": 1,
+    "thresholdWeighting": 0
+  },
+  "cumulativeThresholdRun": {
+    "__v": 0,
+    "_id": {
+      "$oid": "5956235d46e1ef4ed871260e"
+    },
+    "admin": {
+      "date": {
+        "$date": "2018-01-31T10:15:05.770Z"
+      },
+      "id": "55d75919ba78d02965ed631e",
+      "name": "Ken Byrne"
+    },
+    "codeBaseVariableName": "cumulativeThresholdRun",
+    "createdAt": {
+      "$date": "2016-08-24T11:21:23.684Z"
+    },
+    "defaultThresholdIdentifier": "cumulativeThresholdRun57bd833305a7bf5e08080eda",
+    "isDefault": false,
+    "runnerID": "5678150d2471d4790bdf0bff",
+    "thresholdAmberLowerMinAudio": "£name, you are approaching the recommended loading for an individual run.  Consider finishing this run in the next 10 to 15 minutes.",
+    "thresholdAmberLowerMinAwardPoints": 5,
+    "thresholdAmberLowerMinPenaltyPoints": 0,
+    "thresholdAmberLowerMinPriority": 1,
+    "thresholdAmberLowerMinUIText": "Approaching Run Loading",
+    "thresholdAmberLowerMinValue": 0.5,
+    "thresholdBackOffPeriod": 120,
+    "thresholdDate": {
+      "$date": "2018-01-31T10:15:05.777Z"
+    },
+    "thresholdDescription": "Cumulative load threshold information for a singular run: 6.1.1 and 6.1.4",
+    "thresholdIdentifierAmberLowerMin": "cumulativeLoadRunAmber",
+    "thresholdIdentifierRedUpperMax": "cumulativeLoadRunRed",
+    "thresholdLimitValue": 0,
+    "thresholdNRepeat": 0,
+    "thresholdRedUpperMaxAudio": "£name, you have reached your recommended loading for an individual run. Continuing your run may lead to injury.",
+    "thresholdRedUpperMaxAwardPoints": 0,
+    "thresholdRedUpperMaxPenaltyPoints": 10,
+    "thresholdRedUpperMaxPriority": 1,
+    "thresholdRedUpperMaxUIText": "Run Loading Reached",
+    "thresholdRedUpperMaxValue": 2,
+    "thresholdRepeat": 3,
+    "thresholdScreen": 402,
+    "thresholdSettingsActivate": false,
+    "thresholdTitle": "Cumulative Load Run",
+    "thresholdTrigger": 3,
+    "thresholdType": 1,
+    "thresholdWeighting": 0
+  },
+  "deleted": false,
+  "distanceCategory": {
+    "distance": 6000,
+    "name": "speed"
+  },
+  "distanceCategoryNumber": 0,
+  "endDate": {
+    "$date": "2018-02-13T11:42:07.000Z"
+  },
+  "fatigueL1": {
+    "__v": 0,
+    "_id": {
+      "$oid": "57c56ed9de9ab18f5121b699"
+    },
+    "admin": {
+      "date": {
+        "$date": "2018-02-02T09:31:16.906Z"
+      },
+      "id": "55d75919ba78d02965ed631e",
+      "name": "Ken Byrne"
+    },
+    "codeBaseVariableName": "fatigueL1",
+    "createdAt": {
+      "$date": "2016-08-24T16:24:42.134Z"
+    },
+    "defaultThresholdIdentifier": "fatigueL157bdca4a79939b7179bee673",
+    "isDefault": false,
+    "runnerID": "5678150d2471d4790bdf0bff",
+    "thresholdAmberLowerMinAudio": "£name, you appear to have recovered and are no longer exhibiting signs of fatigue.",
+    "thresholdAmberLowerMinAwardPoints": 5,
+    "thresholdAmberLowerMinPenaltyPoints": 0,
+    "thresholdAmberLowerMinPriority": 1,
+    "thresholdAmberLowerMinUIText": "Recovered from Fatigue",
+    "thresholdAmberLowerMinValue": 23,
+    "thresholdBackOffPeriod": 120,
+    "thresholdDate": {
+      "$date": "2018-02-02T09:31:16.925Z"
+    },
+    "thresholdDescription": "First stage fatigue thresholds: 6.2.1 and 6.2.2",
+    "thresholdIdentifierAmberLowerMin": "fatigueL1Lower",
+    "thresholdIdentifierRedUpperMax": "fatigueL1Upper",
+    "thresholdLimitValue": 0,
+    "thresholdNRepeat": 5,
+    "thresholdRedUpperMaxAudio": "£name, you are exhibiting signs of early stage fatigue",
+    "thresholdRedUpperMaxAwardPoints": 0,
+    "thresholdRedUpperMaxPenaltyPoints": 10,
+    "thresholdRedUpperMaxPriority": 1,
+    "thresholdRedUpperMaxUIText": "Signs of Early Stage Fatigue.",
+    "thresholdRedUpperMaxValue": 25,
+    "thresholdRepeat": 5,
+    "thresholdScreen": 0,
+    "thresholdSettingsActivate": false,
+    "thresholdTitle": "Fatigue L1",
+    "thresholdTrigger": 3,
+    "thresholdType": 2,
+    "thresholdWeighting": 0
+  },
+  "fatigueL2": {
+    "__v": 0,
+    "_id": {
+      "$oid": "57c56ee6de9ab18f5121b69a"
+    },
+    "admin": {
+      "date": {
+        "$date": "2018-02-02T09:31:38.933Z"
+      },
+      "id": "55d75919ba78d02965ed631e",
+      "name": "Ken Byrne"
+    },
+    "codeBaseVariableName": "fatigueL2",
+    "createdAt": {
+      "$date": "2016-08-24T16:28:09.600Z"
+    },
+    "defaultThresholdIdentifier": "fatigueL257bdcb1979939b7179bee692",
+    "isDefault": false,
+    "runnerID": "5678150d2471d4790bdf0bff",
+    "thresholdAmberLowerMinAudio": "£name, revovery from fatigue us underway.  Keep your run intensity at or below this level until you have fully recovered.",
+    "thresholdAmberLowerMinAwardPoints": 10,
+    "thresholdAmberLowerMinPenaltyPoints": 0,
+    "thresholdAmberLowerMinPriority": 1,
+    "thresholdAmberLowerMinUIText": "Fatigue Recovery Underway",
+    "thresholdAmberLowerMinValue": 33,
+    "thresholdBackOffPeriod": 120,
+    "thresholdDate": {
+      "$date": "2018-02-02T09:31:38.938Z"
+    },
+    "thresholdDescription": "Fatigue Stage 2: 6.2.3 and 6.2.4",
+    "thresholdIdentifierAmberLowerMin": "fatigueL2Lower",
+    "thresholdIdentifierRedUpperMax": "fatigueL2Upper",
+    "thresholdLimitValue": 0,
+    "thresholdNRepeat": 5,
+    "thresholdRedUpperMaxAudio": "£name, you are exhibiting signs of sustained fatigue.  Consider reducing your run intensity or taking a break",
+    "thresholdRedUpperMaxAwardPoints": 0,
+    "thresholdRedUpperMaxPenaltyPoints": 15,
+    "thresholdRedUpperMaxPriority": 1,
+    "thresholdRedUpperMaxUIText": "Warning.  Signs of Sustained Fatigue.",
+    "thresholdRedUpperMaxValue": 35,
+    "thresholdRepeat": 5,
+    "thresholdScreen": 0,
+    "thresholdSettingsActivate": false,
+    "thresholdTitle": "Fatigue L2",
+    "thresholdTrigger": 3,
+    "thresholdType": 2,
+    "thresholdWeighting": 0
+  },
+  "fatigueL3": {
+    "__v": 0,
+    "_id": {
+      "$oid": "57c56ef3de9ab18f5121b69b"
+    },
+    "admin": {
+      "date": {
+        "$date": "2018-02-02T09:31:53.065Z"
+      },
+      "id": "55d75919ba78d02965ed631e",
+      "name": "Ken Byrne"
+    },
+    "codeBaseVariableName": "fatigueL3",
+    "createdAt": {
+      "$date": "2016-08-24T16:30:19.431Z"
+    },
+    "defaultThresholdIdentifier": "fatigueL357bdcb9b79939b7179bee693",
+    "isDefault": false,
+    "runnerID": "5678150d2471d4790bdf0bff",
+    "thresholdAmberLowerMinAudio": "null",
+    "thresholdAmberLowerMinAwardPoints": 0,
+    "thresholdAmberLowerMinPenaltyPoints": 0,
+    "thresholdAmberLowerMinPriority": 0,
+    "thresholdAmberLowerMinUIText": "null",
+    "thresholdAmberLowerMinValue": 0,
+    "thresholdBackOffPeriod": 120,
+    "thresholdDate": {
+      "$date": "2018-02-02T09:31:53.068Z"
+    },
+    "thresholdDescription": "Fatigue Stage 3: 6.2.5",
+    "thresholdIdentifierAmberLowerMin": "fatiguel3Lower",
+    "thresholdIdentifierRedUpperMax": "fatigueL3Upper",
+    "thresholdLimitValue": 0,
+    "thresholdNRepeat": 3,
+    "thresholdRedUpperMaxAudio": "£name, you are exhibiting symptoms of late stage fatigue.  Continuing at this intensity significantly increases your risk of injury.",
+    "thresholdRedUpperMaxAwardPoints": 0,
+    "thresholdRedUpperMaxPenaltyPoints": 30,
+    "thresholdRedUpperMaxPriority": 1,
+    "thresholdRedUpperMaxUIText": "Warning.  Late Stage Fatigue",
+    "thresholdRedUpperMaxValue": 45,
+    "thresholdRepeat": 5,
+    "thresholdScreen": 0,
+    "thresholdSettingsActivate": false,
+    "thresholdTitle": "Fatigue L3",
+    "thresholdTrigger": 3,
+    "thresholdType": 2,
+    "thresholdWeighting": 0
+  },
+  "fatigueModelPath": null,
+  "fatigueValue": 0,
+  "fatigueValues": [],
+  "fatigueValuesPostRun": [
+    {
+      "distanceCovered": 141,
+      "from": 50,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in50-100",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 100,
+      "value": 35.891583661424
+    },
+    {
+      "distanceCovered": 295,
+      "from": 100,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in100-150",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 150,
+      "value": 36.766785108042
+    },
+    {
+      "distanceCovered": 454,
+      "from": 150,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in150-200",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 200,
+      "value": 37.579432357011
+    },
+    {
+      "distanceCovered": 595,
+      "from": 200,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in200-250",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 250,
+      "value": 37.977264839855
+    },
+    {
+      "distanceCovered": 716,
+      "from": 250,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in250-300",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 300,
+      "value": 40.563016258766
+    },
+    {
+      "distanceCovered": 834,
+      "from": 300,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in300-350",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 350,
+      "value": 39.278102360041
+    },
+    {
+      "distanceCovered": 966,
+      "from": 350,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in350-400",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 400,
+      "value": 43.378919343334
+    },
+    {
+      "distanceCovered": 1092,
+      "from": 400,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in400-450",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 450,
+      "value": 41.210445021688
+    },
+    {
+      "distanceCovered": 1216,
+      "from": 450,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in450-500",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 500,
+      "value": 38.872102890259
+    },
+    {
+      "distanceCovered": 1339,
+      "from": 500,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in500-550",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 550,
+      "value": 35.970561375911
+    },
+    {
+      "distanceCovered": 1463,
+      "from": 550,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in550-600",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 600,
+      "value": 39.950704572349
+    },
+    {
+      "distanceCovered": 1569,
+      "from": 600,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in600-650",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 650,
+      "value": 31.875123155662
+    },
+    {
+      "distanceCovered": 1664,
+      "from": 650,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in650-700",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 700,
+      "value": 35.578253277055
+    },
+    {
+      "distanceCovered": 1793,
+      "from": 700,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in700-750",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 750,
+      "value": 33.077659879619
+    },
+    {
+      "distanceCovered": 1933,
+      "from": 750,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in750-800",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 800,
+      "value": 32.839206443116
+    },
+    {
+      "distanceCovered": 2055,
+      "from": 800,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in800-850",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 850,
+      "value": 32.704898748718
+    },
+    {
+      "distanceCovered": 2194,
+      "from": 850,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in850-900",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 900,
+      "value": 30.490705031836
+    },
+    {
+      "distanceCovered": 2331,
+      "from": 900,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in900-950",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 950,
+      "value": 29.769807408693
+    },
+    {
+      "distanceCovered": 2476,
+      "from": 950,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in950-1000",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1000,
+      "value": 31.912112818261
+    },
+    {
+      "distanceCovered": 2603,
+      "from": 1000,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1000-1050",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1050,
+      "value": 34.840475238062
+    },
+    {
+      "distanceCovered": 2734,
+      "from": 1050,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1050-1100",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1100,
+      "value": 33.690066304346
+    },
+    {
+      "distanceCovered": 2874,
+      "from": 1100,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1100-1150",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1150,
+      "value": 32.00159525512
+    },
+    {
+      "distanceCovered": 3006,
+      "from": 1150,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1150-1200",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1200,
+      "value": 34.521215754692
+    },
+    {
+      "distanceCovered": 3136,
+      "from": 1200,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1200-1250",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1250,
+      "value": 34.889113911849
+    },
+    {
+      "distanceCovered": 3257,
+      "from": 1250,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1250-1300",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1300,
+      "value": 36.491346473168
+    },
+    {
+      "distanceCovered": 3401,
+      "from": 1300,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1300-1350",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1350,
+      "value": 36.195690223633
+    },
+    {
+      "distanceCovered": 3528,
+      "from": 1350,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1350-1400",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1400,
+      "value": 36.786715004459
+    },
+    {
+      "distanceCovered": 3660,
+      "from": 1400,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1400-1450",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1450,
+      "value": 36.804421036234
+    },
+    {
+      "distanceCovered": 3789,
+      "from": 1450,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1450-1500",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1500,
+      "value": 37.559757884924
+    },
+    {
+      "distanceCovered": 3936,
+      "from": 1500,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1500-1550",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1550,
+      "value": 37.651586799087
+    },
+    {
+      "distanceCovered": 4065,
+      "from": 1550,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1550-1600",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1600,
+      "value": 38.880895357378
+    },
+    {
+      "distanceCovered": 4192,
+      "from": 1600,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1600-1650",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1650,
+      "value": 37.151155025244
+    },
+    {
+      "distanceCovered": 4320,
+      "from": 1650,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1650-1700",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1700,
+      "value": 37.355514809727
+    },
+    {
+      "distanceCovered": 4451,
+      "from": 1700,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1700-1750",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1750,
+      "value": 41.389575840736
+    },
+    {
+      "distanceCovered": 4589,
+      "from": 1750,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1750-1800",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1800,
+      "value": 45.331684711234
+    },
+    {
+      "distanceCovered": 4705,
+      "from": 1800,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1800-1850",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1850,
+      "value": 45.924790652393
+    },
+    {
+      "distanceCovered": 4871,
+      "from": 1850,
+      "inputPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue_in1850-1900",
+      "modelPath": "/tmp/5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0259390Ddr98V2uVGQ/fatigue5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0.fis",
+      "to": 1900,
+      "value": 45.462355956171
+    }
+  ],
+  "fatigueZones": {
+    "zone0": 40.080671269970566,
+    "zone1": 739.4948830286584,
+    "zone2": 1001.5031515617334,
+    "zone3": 100.1036444408135
+  },
+  "gpsOn": true,
+  "graspCloudConnected": true,
+  "heartRateBatLevelEnd": 0.9999999776482582,
+  "heartRateBatLevelStart": 0.9999999776482582,
+  "heartRateZones": {
+    "_id": null,
+    "count": 1897,
+    "zone0": 10,
+    "zone0name": "Recovery",
+    "zone0pc": 1,
+    "zone1": 4,
+    "zone1name": "Easy",
+    "zone1pc": 0,
+    "zone2": 61,
+    "zone2name": "Aerobic",
+    "zone2pc": 3,
+    "zone3": 1125,
+    "zone3name": "Anaerobic",
+    "zone3pc": 59,
+    "zone4": 697,
+    "zone4name": "Maximum",
+    "zone4pc": 37
+  },
+  "heartrateConnected": true,
+  "info": {
+    "avgGp": "1.8472762645914405",
+    "avgGr": "1.8472762645914402",
+    "avgHr": "1.8453307392996112",
+    "gpO": "0",
+    "gpR": "71",
+    "gpT": "1900",
+    "grLO": "0",
+    "grLOS": "0",
+    "grLR": "17",
+    "grLRS": "0",
+    "grLT": "951",
+    "grLTS": "950",
+    "grRO": "0",
+    "grROS": "0",
+    "grRR": "16",
+    "grRRS": "0",
+    "grRT": "950",
+    "grRTS": "949",
+    "hrO": "0",
+    "hrR": "34",
+    "hrT": "1898",
+    "nBund": "1028",
+    "nGp": "1899",
+    "nGr": "1899",
+    "nHr": "1897",
+    "runID": "5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0"
+  },
+  "intensityZones": {
+    "_id": null,
+    "count": 1897,
+    "zone0": 9,
+    "zone0name": "Very Light",
+    "zone0pc": 0,
+    "zone1": 1,
+    "zone1name": "Light",
+    "zone1pc": 0,
+    "zone2": 73,
+    "zone2name": "Moderate",
+    "zone2pc": 4,
+    "zone3": 1466,
+    "zone3name": "High",
+    "zone3pc": 77,
+    "zone4": 348,
+    "zone4name": "Maximum",
+    "zone4pc": 18
+  },
+  "isReplay": false,
+  "isUploaded": false,
+  "latitude": 51.89334494737617,
+  "longitude": -8.560340744604844,
+  "name": "Tuesday 13 February 11:07",
+  "paceZones": {
+    "_id": null,
+    "count": 1899,
+    "zone0": 0,
+    "zone0name": "Easy",
+    "zone0pc": 0,
+    "zone1": 0,
+    "zone1name": "Endurance",
+    "zone1pc": 0,
+    "zone2": 114,
+    "zone2name": "Tempo",
+    "zone2pc": 6,
+    "zone3": 1553,
+    "zone3name": "Threshold",
+    "zone3pc": 82,
+    "zone4": 232,
+    "zone4name": "Speed",
+    "zone4pc": 12
+  },
+  "pauses": [
+    {
+      "pause": 1,
+      "pauseT": 1518520035157.102,
+      "pauseType": "auto",
+      "resume": 1,
+      "resumeT": 1518520123039.8818,
+      "resumeType": "auto"
+    },
+    {
+      "pause": 204,
+      "pauseT": 1518520325260.568,
+      "pauseType": "auto",
+      "resume": 204,
+      "resumeT": 1518520393096.243,
+      "resumeType": "auto"
+    },
+    {
+      "pause": 629,
+      "pauseT": 1518520818629.714,
+      "pauseType": "auto",
+      "resume": 629,
+      "resumeT": 1518520821107.2031,
+      "resumeType": "auto"
+    },
+    {
+      "pause": 1923,
+      "pauseT": 1518522115644.3271,
+      "pauseType": "auto"
+    }
+  ],
+  "phoneBatLevelEnd": 0.8100000023841858,
+  "phoneBatLevelStart": 0.8899999856948853,
+  "points": {
+    "_id": {
+      "$oid": "5a82c6e32d08ef6541fa9a1b"
+    },
+    "award": {
+      "_id": {
+        "$oid": "5a82c6e32d08ef6541fa9a1e"
+      },
+      "count": 0,
+      "insights": [
+        {
+          "__v": 1,
+          "_group": {
+            "__v": 9,
+            "_id": {
+              "$oid": "57dbc1f536068cd814f56e27"
+            },
+            "active": true,
+            "creationDate": {
+              "$date": "2016-09-16T09:57:09.907Z"
+            },
+            "description": "Run Score Insight messages",
+            "max": 5,
+            "nSent": 1,
+            "name": "RunScore",
+            "priority": 1,
+            "thresholds": [
+              {
+                "group": "Thresholds",
+                "index": 0,
+                "name": "threshold0",
+                "value": 4.5
+              },
+              {
+                "group": "Thresholds",
+                "index": 1,
+                "name": "threshold1",
+                "value": 5
+              },
+              {
+                "group": "Thresholds",
+                "index": 2,
+                "name": "threshold2",
+                "value": 7.5
+              }
+            ],
+            "updatedAt": {
+              "$date": "2016-09-27T18:22:46.670Z"
+            }
+          },
+          "_id": {
+            "$oid": "57ddb037007f589c68d99eec"
+          },
+          "active": true,
+          "admin": {
+            "date": {
+              "$date": "2017-08-26T10:59:01.649Z"
+            },
+            "id": "55d75919ba78d02965ed631e",
+            "name": "Ken Byrne"
+          },
+          "awardPoints": 5,
+          "conditions": [
+            {
+              "function": "gte",
+              "index": 0,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "summary.averageRunScore",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "group": "Thresholds",
+                "index": 1,
+                "name": "threshold1",
+                "value": 5.5
+              },
+              "isThreshold": false,
+              "name": "condition0"
+            },
+            {
+              "function": "lt",
+              "index": 1,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "summary.averageRunScore",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "group": "Thresholds",
+                "index": 2,
+                "name": "threshold2",
+                "value": 7.5
+              },
+              "isThreshold": false,
+              "name": "condition1"
+            }
+          ],
+          "creationDate": {
+            "$date": "2016-09-17T21:05:59.393Z"
+          },
+          "description": "Inform the user when run score indicates a good score.",
+          "discovery": 0,
+          "group": "RunScore",
+          "homeText": "Your last run score was quite good.  Keep up the good work {input1}!",
+          "inputs": [
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 0,
+              "key": "summary.averageRunScore",
+              "name": "input0",
+              "period": 0
+            },
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 1,
+              "key": "runnerFirstName",
+              "name": "input1",
+              "period": 0
+            }
+          ],
+          "instructions": [],
+          "name": "4.2\tRun Score",
+          "penaltyPoints": 7,
+          "runTypeConditional": true,
+          "text": "Your Run Score is {input0}, this is a good score.",
+          "thresholds": [
+            {
+              "group": "Thresholds",
+              "index": 0,
+              "name": "threshold0",
+              "value": 4.5
+            },
+            {
+              "group": "Thresholds",
+              "index": 1,
+              "name": "threshold1",
+              "value": 5
+            },
+            {
+              "group": "Thresholds",
+              "index": 2,
+              "name": "threshold2",
+              "value": 7.5
+            }
+          ],
+          "triggers": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "updatedAt": {
+            "$date": "2017-08-26T10:59:01.652Z"
+          },
+          "values": []
+        },
+        {
+          "__v": 3,
+          "_group": {
+            "__v": 4,
+            "_id": {
+              "$oid": "57dd6c098eb2df66134f5697"
+            },
+            "active": true,
+            "creationDate": {
+              "$date": "2016-09-17T16:15:05.271Z"
+            },
+            "description": "Loading Stress insight messages",
+            "max": 11,
+            "nSent": 2,
+            "name": "Loading Stress",
+            "priority": 20,
+            "thresholds": [
+              {
+                "description": "Level 2 Good",
+                "group": "Thresholds",
+                "index": 0,
+                "name": "threshold0",
+                "value": 7.5
+              },
+              {
+                "description": "Level 2 Bad",
+                "group": "Thresholds",
+                "index": 1,
+                "name": "threshold1",
+                "value": 4.5
+              },
+              {
+                "description": "Level 3 Good",
+                "group": "Thresholds",
+                "index": 2,
+                "name": "threshold2",
+                "value": 75
+              },
+              {
+                "description": "Level 3 Bad",
+                "group": "Thresholds",
+                "index": 3,
+                "name": "threshold3",
+                "value": 55
+              }
+            ],
+            "updatedAt": {
+              "$date": "2016-09-27T18:19:52.278Z"
+            }
+          },
+          "_id": {
+            "$oid": "57dd6d26fdd1e9651997dcfc"
+          },
+          "active": true,
+          "awardPoints": 5,
+          "conditions": [
+            {
+              "function": "gte",
+              "index": 0,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "summary.averageLoadingStressScore",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "description": "Good",
+                "group": "Thresholds",
+                "index": 0,
+                "name": "threshold0",
+                "value": 7.5
+              },
+              "isThreshold": false,
+              "name": "condition0"
+            }
+          ],
+          "creationDate": {
+            "$date": "2016-09-17T16:19:50.515Z"
+          },
+          "description": "Inform the user when Loading Stress for a run is good",
+          "discovery": 1,
+          "group": "Loading Stress",
+          "inputs": [
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 0,
+              "key": "summary.averageLoadingStressScore",
+              "name": "input0",
+              "period": 0
+            }
+          ],
+          "instructions": [],
+          "name": "6.1 Loading Stress",
+          "penaltyPoints": 7,
+          "priority": 2,
+          "runTypeConditional": true,
+          "runTypeFilter": false,
+          "text": "Loading Stress score of {input0} for this run is Good.",
+          "thresholds": [
+            {
+              "description": "Level 2 Good",
+              "group": "Thresholds",
+              "index": 0,
+              "name": "threshold0",
+              "value": 7.5
+            },
+            {
+              "description": "Level 2 Bad",
+              "group": "Thresholds",
+              "index": 1,
+              "name": "threshold1",
+              "value": 4.5
+            },
+            {
+              "description": "Level 3 Good",
+              "group": "Thresholds",
+              "index": 2,
+              "name": "threshold2",
+              "value": 75
+            },
+            {
+              "description": "Level 3 Bad",
+              "group": "Thresholds",
+              "index": 3,
+              "name": "threshold3",
+              "value": 55
+            }
+          ],
+          "triggers": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "updatedAt": {
+            "$date": "2016-09-26T22:35:30.950Z"
+          },
+          "values": []
+        },
+        {
+          "__v": 2,
+          "_group": {
+            "__v": 4,
+            "_id": {
+              "$oid": "57dd6c098eb2df66134f5697"
+            },
+            "active": true,
+            "creationDate": {
+              "$date": "2016-09-17T16:15:05.271Z"
+            },
+            "description": "Loading Stress insight messages",
+            "max": 11,
+            "nSent": 2,
+            "name": "Loading Stress",
+            "priority": 20,
+            "thresholds": [
+              {
+                "description": "Level 2 Good",
+                "group": "Thresholds",
+                "index": 0,
+                "name": "threshold0",
+                "value": 7.5
+              },
+              {
+                "description": "Level 2 Bad",
+                "group": "Thresholds",
+                "index": 1,
+                "name": "threshold1",
+                "value": 4.5
+              },
+              {
+                "description": "Level 3 Good",
+                "group": "Thresholds",
+                "index": 2,
+                "name": "threshold2",
+                "value": 75
+              },
+              {
+                "description": "Level 3 Bad",
+                "group": "Thresholds",
+                "index": 3,
+                "name": "threshold3",
+                "value": 55
+              }
+            ],
+            "updatedAt": {
+              "$date": "2016-09-27T18:19:52.278Z"
+            }
+          },
+          "_id": {
+            "$oid": "57e06f897061824d7e4eaee6"
+          },
+          "active": true,
+          "awardPoints": 5,
+          "conditions": [
+            {
+              "function": "gte",
+              "index": 0,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "summary.averageLoadingStressScore",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "description": "Level 3 Good",
+                "group": "Thresholds",
+                "index": 2,
+                "name": "threshold2",
+                "value": 75
+              },
+              "isThreshold": false,
+              "name": "condition0"
+            }
+          ],
+          "creationDate": {
+            "$date": "2016-09-19T23:06:49.844Z"
+          },
+          "description": "Inform the user when Impact score for a run is good",
+          "discovery": 1,
+          "group": "Loading Stress",
+          "inputs": [
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 0,
+              "key": "summary.avgImpactPercentage",
+              "name": "input0",
+              "period": 0
+            }
+          ],
+          "instructions": [],
+          "name": "6.5\tLoading Stress/ Impact",
+          "penaltyPoints": 7,
+          "priority": 3,
+          "runTypeConditional": true,
+          "runTypeFilter": false,
+          "text": "Impact score of {input0} for this run is Good.",
+          "thresholds": [
+            {
+              "description": "Level 2 Good",
+              "group": "Thresholds",
+              "index": 0,
+              "name": "threshold0",
+              "value": 7.5
+            },
+            {
+              "description": "Level 2 Bad",
+              "group": "Thresholds",
+              "index": 1,
+              "name": "threshold1",
+              "value": 4.5
+            },
+            {
+              "description": "Level 3 Good",
+              "group": "Thresholds",
+              "index": 2,
+              "name": "threshold2",
+              "value": 75
+            },
+            {
+              "description": "Level 3 Bad",
+              "group": "Thresholds",
+              "index": 3,
+              "name": "threshold3",
+              "value": 55
+            }
+          ],
+          "triggers": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "updatedAt": {
+            "$date": "2016-09-20T09:30:28.800Z"
+          },
+          "values": []
+        },
+        {
+          "__v": 1,
+          "_group": {
+            "__v": 0,
+            "_id": {
+              "$oid": "57de5ce8007f589c68d99f02"
+            },
+            "active": true,
+            "creationDate": {
+              "$date": "2016-09-18T09:22:48.144Z"
+            },
+            "description": "Intensity insight messages",
+            "max": 10,
+            "nSent": 1,
+            "name": "Intensity",
+            "priority": 21,
+            "thresholds": [
+              {
+                "index": 0,
+                "name": "threshold0",
+                "value": 8
+              },
+              {
+                "index": 1,
+                "name": "threshold1",
+                "value": 6
+              },
+              {
+                "index": 2,
+                "name": "threshold2",
+                "value": 4
+              }
+            ],
+            "updatedAt": {
+              "$date": "2016-09-27T18:19:41.201Z"
+            }
+          },
+          "_id": {
+            "$oid": "57de5f15007f589c68d99f04"
+          },
+          "active": true,
+          "awardPoints": 5,
+          "conditions": [
+            {
+              "function": "lt",
+              "index": 0,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "summary.averageIntensityScore",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "group": "Thresholds",
+                "index": 0,
+                "name": "threshold0",
+                "value": 8
+              },
+              "isThreshold": false,
+              "name": "condition0"
+            },
+            {
+              "function": "gte",
+              "index": 1,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "summary.averageIntensityScore",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "group": "Thresholds",
+                "index": 1,
+                "name": "threshold1",
+                "value": 6
+              },
+              "isThreshold": false,
+              "name": "condition1",
+              "operator": "AND"
+            }
+          ],
+          "creationDate": {
+            "$date": "2016-09-18T09:32:05.457Z"
+          },
+          "description": "Inform the user when Intensity for a run is high",
+          "discovery": 1,
+          "group": "Intensity",
+          "inputs": [
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 0,
+              "key": "summary.averageIntensityScore",
+              "name": "input0",
+              "period": 0
+            }
+          ],
+          "instructions": [],
+          "name": "7.2\tIntensity",
+          "penaltyPoints": 7,
+          "priority": 2,
+          "runTypeConditional": true,
+          "text": "Intensity score of {input0} for this run is High.",
+          "thresholds": [
+            {
+              "group": "Thresholds",
+              "index": 0,
+              "name": "threshold0",
+              "value": 8
+            },
+            {
+              "group": "Thresholds",
+              "index": 1,
+              "name": "threshold1",
+              "value": 6
+            },
+            {
+              "group": "Thresholds",
+              "index": 2,
+              "name": "threshold2",
+              "value": 4
+            }
+          ],
+          "triggers": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "updatedAt": {
+            "$date": "2016-09-20T09:30:28.780Z"
+          },
+          "values": []
+        }
+      ],
+      "lastCount": 0,
+      "n": 20,
+      "updatedAt": {
+        "$date": "2018-02-13T11:44:22.064Z"
+      }
+    },
+    "base": {
+      "_id": {
+        "$oid": "5a82c6e32d08ef6541fa9a1c"
+      },
+      "count": 0,
+      "n": 192.87500004865,
+      "settings": {
+        "Run_Points_Km": 100,
+        "Run_Points_Run_Score_Mul": 10,
+        "Run_Points_Stage": 25,
+        "Run_Points_Stage_Mul_Start": 0.35,
+        "Run_Points_Stage_Mul_Step": 0.0334834834,
+        "pointsStageMat": [
+          [
+            33.75,
+            43.774174176950005,
+            53.24587087780001
+          ],
+          [
+            62.47747749,
+            70.8358483678,
+            78.6417417695
+          ],
+          [
+            86.18243247000001,
+            92.87500004865001,
+            99.0150901512
+          ],
+          [
+            104.86486494,
+            109.8916292195,
+            114.36591602290001
+          ],
+          [
+            118.52477490000001,
+            121.88573588035001,
+            124.69421938460002
+          ],
+          [
+            127.16216235,
+            128.8573200312,
+            130.00000023630002
+          ]
+        ],
+        "updatedAt": {
+          "$date": "2018-02-13T11:07:15.422Z"
+        }
+      },
+      "updatedAt": {
+        "$date": "2018-02-13T11:44:22.064Z"
+      }
+    },
+    "enabled": [
+      "base",
+      "performance",
+      "award",
+      "milestone",
+      "penalty"
+    ],
+    "milestone": {
+      "_id": {
+        "$oid": "5a82c6e32d08ef6541fa9a1f"
+      },
+      "count": 0,
+      "lastCount": 0,
+      "n": 0,
+      "updatedAt": {
+        "$date": "2018-02-13T11:44:22.064Z"
+      }
+    },
+    "n": 132.17066035111708,
+    "penalty": {
+      "_id": {
+        "$oid": "5a82c6e32d08ef6541fa9a20"
+      },
+      "count": 0,
+      "flags": [
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 45,
+          "points": 5
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 76,
+          "points": 5
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 84,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 111,
+          "points": 5
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 118,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 144,
+          "points": 5
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 162,
+          "points": 0
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 190,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 198,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": null,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5UpperLimit",
+          "max": true,
+          "movingTime": 249,
+          "points": 5
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 281,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 289,
+          "points": 0
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": null,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": null,
+          "points": 0
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 349,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": null,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 388,
+          "points": 5
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 409,
+          "points": 0
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": null,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 445,
+          "points": 0
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 470,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 490,
+          "points": 0
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 521,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": null,
+          "points": 0
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 557,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 580,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalHRZoneLower",
+          "min": true,
+          "movingTime": 596,
+          "points": 5
+        },
+        {
+          "flag": "shown-userGoalHRZoneLower",
+          "min": true,
+          "movingTime": 628,
+          "points": 5
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 655,
+          "points": 0
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 669,
+          "points": 0
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 701,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 731,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 742,
+          "points": 5
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 773,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 806,
+          "points": 5
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 837,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 869,
+          "points": 5
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 909,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 942,
+          "points": 5
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 973,
+          "points": 0
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 1004,
+          "points": 0
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 1037,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 1069,
+          "points": 5
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 1101,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 1133,
+          "points": 5
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 1165,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 1198,
+          "points": 5
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 1229,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 1270,
+          "points": 5
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 1302,
+          "points": 5
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 1333,
+          "points": 5
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": null,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": null,
+          "points": 5
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 1429,
+          "points": 5
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 1461,
+          "points": 5
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 1494,
+          "points": 0
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 1525,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 1557,
+          "points": 5
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 1590,
+          "points": 5
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 1629,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 1661,
+          "points": 5
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 1696,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 1727,
+          "points": 0
+        },
+        {
+          "flag": "shown-userGoalPaceValueLower",
+          "min": true,
+          "movingTime": 1736,
+          "points": 5
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": null,
+          "points": 0
+        },
+        {
+          "flag": "shown-gradientSteepAmber",
+          "movingTime": 1770,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": null,
+          "points": 0
+        },
+        {
+          "flag": "shown-gradientSteepAmber",
+          "movingTime": 1814,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 1842,
+          "points": 0
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 1849,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 1876,
+          "points": 0
+        },
+        {
+          "flag": "shown-toeInOutRed",
+          "max": true,
+          "movingTime": 1883,
+          "points": 0
+        },
+        {
+          "flag": "shown-heartRateZone5LowerLimit",
+          "min": true,
+          "movingTime": 1909,
+          "points": 0
+        }
+      ],
+      "insights": [
+        {
+          "__v": 1,
+          "_group": {
+            "__v": 9,
+            "_id": {
+              "$oid": "57dbc1f536068cd814f56e27"
+            },
+            "active": true,
+            "creationDate": {
+              "$date": "2016-09-16T09:57:09.907Z"
+            },
+            "description": "Run Score Insight messages",
+            "max": 5,
+            "nSent": 1,
+            "name": "RunScore",
+            "priority": 1,
+            "thresholds": [
+              {
+                "group": "Thresholds",
+                "index": 0,
+                "name": "threshold0",
+                "value": 4.5
+              },
+              {
+                "group": "Thresholds",
+                "index": 1,
+                "name": "threshold1",
+                "value": 5
+              },
+              {
+                "group": "Thresholds",
+                "index": 2,
+                "name": "threshold2",
+                "value": 7.5
+              }
+            ],
+            "updatedAt": {
+              "$date": "2016-09-27T18:22:46.670Z"
+            }
+          },
+          "_id": {
+            "$oid": "57ddb037007f589c68d99eec"
+          },
+          "active": true,
+          "admin": {
+            "date": {
+              "$date": "2017-08-26T10:59:01.649Z"
+            },
+            "id": "55d75919ba78d02965ed631e",
+            "name": "Ken Byrne"
+          },
+          "awardPoints": 5,
+          "conditions": [
+            {
+              "function": "gte",
+              "index": 0,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "summary.averageRunScore",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "group": "Thresholds",
+                "index": 1,
+                "name": "threshold1",
+                "value": 5.5
+              },
+              "isThreshold": false,
+              "name": "condition0"
+            },
+            {
+              "function": "lt",
+              "index": 1,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "summary.averageRunScore",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "group": "Thresholds",
+                "index": 2,
+                "name": "threshold2",
+                "value": 7.5
+              },
+              "isThreshold": false,
+              "name": "condition1"
+            }
+          ],
+          "creationDate": {
+            "$date": "2016-09-17T21:05:59.393Z"
+          },
+          "description": "Inform the user when run score indicates a good score.",
+          "discovery": 0,
+          "group": "RunScore",
+          "homeText": "Your last run score was quite good.  Keep up the good work {input1}!",
+          "inputs": [
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 0,
+              "key": "summary.averageRunScore",
+              "name": "input0",
+              "period": 0
+            },
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 1,
+              "key": "runnerFirstName",
+              "name": "input1",
+              "period": 0
+            }
+          ],
+          "instructions": [],
+          "name": "4.2\tRun Score",
+          "penaltyPoints": 7,
+          "runTypeConditional": true,
+          "text": "Your Run Score is {input0}, this is a good score.",
+          "thresholds": [
+            {
+              "group": "Thresholds",
+              "index": 0,
+              "name": "threshold0",
+              "value": 4.5
+            },
+            {
+              "group": "Thresholds",
+              "index": 1,
+              "name": "threshold1",
+              "value": 5
+            },
+            {
+              "group": "Thresholds",
+              "index": 2,
+              "name": "threshold2",
+              "value": 7.5
+            }
+          ],
+          "triggers": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "updatedAt": {
+            "$date": "2017-08-26T10:59:01.652Z"
+          },
+          "values": []
+        },
+        {
+          "__v": 3,
+          "_group": {
+            "__v": 4,
+            "_id": {
+              "$oid": "57dd6c098eb2df66134f5697"
+            },
+            "active": true,
+            "creationDate": {
+              "$date": "2016-09-17T16:15:05.271Z"
+            },
+            "description": "Loading Stress insight messages",
+            "max": 11,
+            "nSent": 2,
+            "name": "Loading Stress",
+            "priority": 20,
+            "thresholds": [
+              {
+                "description": "Level 2 Good",
+                "group": "Thresholds",
+                "index": 0,
+                "name": "threshold0",
+                "value": 7.5
+              },
+              {
+                "description": "Level 2 Bad",
+                "group": "Thresholds",
+                "index": 1,
+                "name": "threshold1",
+                "value": 4.5
+              },
+              {
+                "description": "Level 3 Good",
+                "group": "Thresholds",
+                "index": 2,
+                "name": "threshold2",
+                "value": 75
+              },
+              {
+                "description": "Level 3 Bad",
+                "group": "Thresholds",
+                "index": 3,
+                "name": "threshold3",
+                "value": 55
+              }
+            ],
+            "updatedAt": {
+              "$date": "2016-09-27T18:19:52.278Z"
+            }
+          },
+          "_id": {
+            "$oid": "57dd6d26fdd1e9651997dcfc"
+          },
+          "active": true,
+          "awardPoints": 5,
+          "conditions": [
+            {
+              "function": "gte",
+              "index": 0,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "summary.averageLoadingStressScore",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "description": "Good",
+                "group": "Thresholds",
+                "index": 0,
+                "name": "threshold0",
+                "value": 7.5
+              },
+              "isThreshold": false,
+              "name": "condition0"
+            }
+          ],
+          "creationDate": {
+            "$date": "2016-09-17T16:19:50.515Z"
+          },
+          "description": "Inform the user when Loading Stress for a run is good",
+          "discovery": 1,
+          "group": "Loading Stress",
+          "inputs": [
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 0,
+              "key": "summary.averageLoadingStressScore",
+              "name": "input0",
+              "period": 0
+            }
+          ],
+          "instructions": [],
+          "name": "6.1 Loading Stress",
+          "penaltyPoints": 7,
+          "priority": 2,
+          "runTypeConditional": true,
+          "runTypeFilter": false,
+          "text": "Loading Stress score of {input0} for this run is Good.",
+          "thresholds": [
+            {
+              "description": "Level 2 Good",
+              "group": "Thresholds",
+              "index": 0,
+              "name": "threshold0",
+              "value": 7.5
+            },
+            {
+              "description": "Level 2 Bad",
+              "group": "Thresholds",
+              "index": 1,
+              "name": "threshold1",
+              "value": 4.5
+            },
+            {
+              "description": "Level 3 Good",
+              "group": "Thresholds",
+              "index": 2,
+              "name": "threshold2",
+              "value": 75
+            },
+            {
+              "description": "Level 3 Bad",
+              "group": "Thresholds",
+              "index": 3,
+              "name": "threshold3",
+              "value": 55
+            }
+          ],
+          "triggers": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "updatedAt": {
+            "$date": "2016-09-26T22:35:30.950Z"
+          },
+          "values": []
+        },
+        {
+          "__v": 2,
+          "_group": {
+            "__v": 4,
+            "_id": {
+              "$oid": "57dd6c098eb2df66134f5697"
+            },
+            "active": true,
+            "creationDate": {
+              "$date": "2016-09-17T16:15:05.271Z"
+            },
+            "description": "Loading Stress insight messages",
+            "max": 11,
+            "nSent": 2,
+            "name": "Loading Stress",
+            "priority": 20,
+            "thresholds": [
+              {
+                "description": "Level 2 Good",
+                "group": "Thresholds",
+                "index": 0,
+                "name": "threshold0",
+                "value": 7.5
+              },
+              {
+                "description": "Level 2 Bad",
+                "group": "Thresholds",
+                "index": 1,
+                "name": "threshold1",
+                "value": 4.5
+              },
+              {
+                "description": "Level 3 Good",
+                "group": "Thresholds",
+                "index": 2,
+                "name": "threshold2",
+                "value": 75
+              },
+              {
+                "description": "Level 3 Bad",
+                "group": "Thresholds",
+                "index": 3,
+                "name": "threshold3",
+                "value": 55
+              }
+            ],
+            "updatedAt": {
+              "$date": "2016-09-27T18:19:52.278Z"
+            }
+          },
+          "_id": {
+            "$oid": "57e06f897061824d7e4eaee6"
+          },
+          "active": true,
+          "awardPoints": 5,
+          "conditions": [
+            {
+              "function": "gte",
+              "index": 0,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "summary.averageLoadingStressScore",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "description": "Level 3 Good",
+                "group": "Thresholds",
+                "index": 2,
+                "name": "threshold2",
+                "value": 75
+              },
+              "isThreshold": false,
+              "name": "condition0"
+            }
+          ],
+          "creationDate": {
+            "$date": "2016-09-19T23:06:49.844Z"
+          },
+          "description": "Inform the user when Impact score for a run is good",
+          "discovery": 1,
+          "group": "Loading Stress",
+          "inputs": [
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 0,
+              "key": "summary.avgImpactPercentage",
+              "name": "input0",
+              "period": 0
+            }
+          ],
+          "instructions": [],
+          "name": "6.5\tLoading Stress/ Impact",
+          "penaltyPoints": 7,
+          "priority": 3,
+          "runTypeConditional": true,
+          "runTypeFilter": false,
+          "text": "Impact score of {input0} for this run is Good.",
+          "thresholds": [
+            {
+              "description": "Level 2 Good",
+              "group": "Thresholds",
+              "index": 0,
+              "name": "threshold0",
+              "value": 7.5
+            },
+            {
+              "description": "Level 2 Bad",
+              "group": "Thresholds",
+              "index": 1,
+              "name": "threshold1",
+              "value": 4.5
+            },
+            {
+              "description": "Level 3 Good",
+              "group": "Thresholds",
+              "index": 2,
+              "name": "threshold2",
+              "value": 75
+            },
+            {
+              "description": "Level 3 Bad",
+              "group": "Thresholds",
+              "index": 3,
+              "name": "threshold3",
+              "value": 55
+            }
+          ],
+          "triggers": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "updatedAt": {
+            "$date": "2016-09-20T09:30:28.800Z"
+          },
+          "values": []
+        },
+        {
+          "__v": 1,
+          "_group": {
+            "__v": 0,
+            "_id": {
+              "$oid": "57de5ce8007f589c68d99f02"
+            },
+            "active": true,
+            "creationDate": {
+              "$date": "2016-09-18T09:22:48.144Z"
+            },
+            "description": "Intensity insight messages",
+            "max": 10,
+            "nSent": 1,
+            "name": "Intensity",
+            "priority": 21,
+            "thresholds": [
+              {
+                "index": 0,
+                "name": "threshold0",
+                "value": 8
+              },
+              {
+                "index": 1,
+                "name": "threshold1",
+                "value": 6
+              },
+              {
+                "index": 2,
+                "name": "threshold2",
+                "value": 4
+              }
+            ],
+            "updatedAt": {
+              "$date": "2016-09-27T18:19:41.201Z"
+            }
+          },
+          "_id": {
+            "$oid": "57de5f15007f589c68d99f04"
+          },
+          "active": true,
+          "awardPoints": 5,
+          "conditions": [
+            {
+              "function": "lt",
+              "index": 0,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "summary.averageIntensityScore",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "group": "Thresholds",
+                "index": 0,
+                "name": "threshold0",
+                "value": 8
+              },
+              "isThreshold": false,
+              "name": "condition0"
+            },
+            {
+              "function": "gte",
+              "index": 1,
+              "input1": {
+                "function": "value",
+                "group": "Inputs",
+                "index": 0,
+                "key": "summary.averageIntensityScore",
+                "name": "input0",
+                "period": 0
+              },
+              "input2": {
+                "group": "Thresholds",
+                "index": 1,
+                "name": "threshold1",
+                "value": 6
+              },
+              "isThreshold": false,
+              "name": "condition1",
+              "operator": "AND"
+            }
+          ],
+          "creationDate": {
+            "$date": "2016-09-18T09:32:05.457Z"
+          },
+          "description": "Inform the user when Intensity for a run is high",
+          "discovery": 1,
+          "group": "Intensity",
+          "inputs": [
+            {
+              "function": "value",
+              "group": "Inputs",
+              "index": 0,
+              "key": "summary.averageIntensityScore",
+              "name": "input0",
+              "period": 0
+            }
+          ],
+          "instructions": [],
+          "name": "7.2\tIntensity",
+          "penaltyPoints": 7,
+          "priority": 2,
+          "runTypeConditional": true,
+          "text": "Intensity score of {input0} for this run is High.",
+          "thresholds": [
+            {
+              "group": "Thresholds",
+              "index": 0,
+              "name": "threshold0",
+              "value": 8
+            },
+            {
+              "group": "Thresholds",
+              "index": 1,
+              "name": "threshold1",
+              "value": 6
+            },
+            {
+              "group": "Thresholds",
+              "index": 2,
+              "name": "threshold2",
+              "value": 4
+            }
+          ],
+          "triggers": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "updatedAt": {
+            "$date": "2016-09-20T09:30:28.780Z"
+          },
+          "values": []
+        }
+      ],
+      "lastCount": 0,
+      "n": -153,
+      "updatedAt": {
+        "$date": "2018-02-13T11:44:22.063Z"
+      }
+    },
+    "performance": {
+      "_id": {
+        "$oid": "5a82c6e32d08ef6541fa9a1d"
+      },
+      "count": 903,
+      "dis": 0,
+      "n": 72.29566030246708,
+      "settings": {
+        "Run_Points_Km": 100,
+        "Run_Points_Run_Score_Mul": 10,
+        "Run_Points_Stage": 25,
+        "Run_Points_Stage_Mul_Start": 0.35,
+        "Run_Points_Stage_Mul_Step": 0.0334834834,
+        "updatedAt": {
+          "$date": "2018-02-13T11:07:15.422Z"
+        }
+      },
+      "updatedAt": {
+        "$date": "2018-02-13T11:44:22.064Z"
+      }
+    },
+    "runID": "5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0",
+    "runnerID": {
+      "$oid": "5678150d2471d4790bdf0bff"
+    },
+    "settings": {
+      "Run_Points_Km": 100,
+      "Run_Points_Stage": 25,
+      "Run_Points_Stage_Mul_Start": 0.35,
+      "Run_Points_Stage_Mul_Step": 0.0334834834,
+      "updatedAt": {
+        "$date": "2018-02-13T11:07:15.422Z"
+      }
+    },
+    "updatedAt": {
+      "$date": "2018-02-13T11:44:22.064Z"
+    }
+  },
+  "proficiency": {
+    "$oid": "5a82cf1229cc046553c8c71c"
+  },
+  "proficiencyNotes": [
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.082Z"
+      },
+      "message": "Starting run 1 of 1 - Tue Feb 13 2018 11:07:12 GMT+0000 (GMT)",
+      "progress": 1
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.089Z"
+      },
+      "message": "Starting proficiency: 5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.130Z"
+      },
+      "message": "Proficiency result (all) - 43.090913213074"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.145Z"
+      },
+      "message": "Transition result (all) - Level: 2 Stage: 2"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.157Z"
+      },
+      "message": "Proficiency result (speed) - 43.090913213074"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.167Z"
+      },
+      "message": "Transition result (speed) - Level: 2 Stage: 2"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.183Z"
+      },
+      "message": "Proficiency result (short) - 42.795557106429"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.192Z"
+      },
+      "message": "Transition result (short) - Level: 2 Stage: 2"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.211Z"
+      },
+      "message": "Proficiency result (middle) - 39.32014924567"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.221Z"
+      },
+      "message": "Transition result (middle) - Level: 3 Stage: 2"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.238Z"
+      },
+      "message": "Proficiency result (long) - 35.050713032177"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.248Z"
+      },
+      "message": "Transition result (long) - Level: 3 Stage: 2"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.264Z"
+      },
+      "message": "Proficiency result (marathon) - 37.410750193521"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.274Z"
+      },
+      "message": "Transition result (marathon) - Level: 3 Stage: 2"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.278Z"
+      },
+      "message": "Saving proficiency record... 5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.421Z"
+      },
+      "message": "Beginning training readiness: 100"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:10.481Z"
+      },
+      "message": "Cumulative Load score: 5.898129236232256"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:11.034Z"
+      },
+      "message": "Points:{\"base\":192,\"performance\":72,\"penalty\":-153,\"award\":20,\"milestone\":0,\"total\":132}"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:11.298Z"
+      },
+      "message": "Fatigue score: 0"
+    },
+    {
+      "date": {
+        "$date": "2018-02-13T11:42:11.299Z"
+      },
+      "message": "End Training readiness: {\"all\":69,\"speed\":69,\"short\":69,\"middle\":69,\"long\":69,\"marathon\":69,\"ultra\":69}"
+    }
+  ],
+  "recommendedRunSelected": false,
+  "runComputerLeftBatLevelEnd": 0,
+  "runComputerLeftBatLevelStart": 0.6899999845772982,
+  "runComputerRightBatLevelEnd": 0,
+  "runComputerRightBatLevelStart": 0.7299999836832285,
+  "runGoals": {
+    "$oid": "5a82c6e32d08ef6541fa9a12"
+  },
+  "runID": "5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0",
+  "runTerrainID": {
+    "$oid": "5699044c727cf37b44a7d6e1"
+  },
+  "runTime": 1923,
+  "runType": {
+    "$oid": "5a82c6e32d08ef6541fa9a19"
+  },
+  "runTypeID": {
+    "$oid": "5a82c6e32d08ef6541fa9a19"
+  },
+  "runTypeNumber": 150,
+  "runnerID": {
+    "$oid": "5678150d2471d4790bdf0bff"
+  },
+  "runnerLevel": 3,
+  "runnerProficiency": 39.134413673198,
+  "runnerProficiencyIdentifier": "middle",
+  "runnerStage": 2,
+  "shoe": {
+    "$oid": "5a74ae202d08ef6541fa169a"
+  },
+  "startDate": {
+    "$date": "2018-02-13T11:07:12.000Z"
+  },
+  "summary": {
+    "Z_ENT": 0,
+    "Z_OPT": 0,
+    "Z_PK": 0,
+    "_id": {
+      "$oid": "5a82c6e32d08ef6541fa9a10"
+    },
+    "averageAerometry": 8.275856439651808,
+    "averageAltitude": 0,
+    "averageBalanceScore": 7.00093108900392,
+    "averageCadence": 162,
+    "averageDecline": 0,
+    "averageEfficiencyScore": 6.356844162991081,
+    "averageGradient": 5.121356700556635,
+    "averageGroundTime": 289.5,
+    "averageHeartRate": 150,
+    "averageHeelStrikes": 2,
+    "averageImpact": 3.599998818013562,
+    "averageIncline": 0,
+    "averageIntensityScore": 7.646785542373985,
+    "averageLift": 10.004571699867547,
+    "averageLoadingStressScore": 7.660619407204232,
+    "averagePace": 380.6036615536863,
+    "averageRouteDifficultyScore": 0.4963958186627148,
+    "averageRunScore": 7.229566030246708,
+    "averageStrideLength": 194.94767856986246,
+    "averageToeInOut": 29.54126316851311,
+    "averageVelocity": 9.585862603396404,
+    "avgCadencePercentage": 59,
+    "avgGaitLinePercentage": 62,
+    "avgGroundTimePercentage": 64,
+    "avgImpactPercentage": 92,
+    "avgLiftPercentage": 58,
+    "avgMidfootPercentage": 25,
+    "avgPacePercentage": 72,
+    "avgStrideLengthPercentage": 67,
+    "avgToeInOutPercentage": 53,
+    "creationDate": {
+      "$date": "2018-02-13T11:07:15.456Z"
+    },
+    "elevationGain": 49.2153114318848,
+    "elevationLoss": 1133.828418731689,
+    "heartRateValues": [],
+    "injuryList": [],
+    "leftAverageBalanceScore": 7.634472376981228,
+    "leftAverageCadence": 80,
+    "leftAverageEfficiencyScore": 6.276930704885627,
+    "leftAverageGroundTime": 297,
+    "leftAverageHeelStrikes": 2,
+    "leftAverageImpact": 3.454127615062762,
+    "leftAverageLift": 10.188598326359832,
+    "leftAverageLoadingStressScore": 7.55465341469342,
+    "leftAverageRunScore": 7.164049903141592,
+    "leftAverageStrideLength": 198.86464435146493,
+    "leftAverageToeInOut": 2.1349372384937237,
+    "leftAverageVelocity": 9.57457635983264,
+    "leftAvgCadencePercentage": 57.71015595283377,
+    "leftAvgGaitLinePercentage": 51,
+    "leftAvgGroundTimePercentage": 60,
+    "leftAvgImpactPercentage": 94,
+    "leftAvgLiftPercentage": 59,
+    "leftAvgMidFootPercentage": 22,
+    "leftAvgPacePercentage": 72,
+    "leftAvgStrideLengthPercentage": 71,
+    "leftAvgToeInOutPercentage": 99,
+    "maxAltitude": 0,
+    "maxCadence": 84,
+    "maxElevationGain": 9.84306228637696,
+    "maxGroundTime": 419,
+    "maxHeartRate": 173,
+    "maxImpact": 4.759,
+    "maxLift": 15.5,
+    "maxPace": 835.2668213457075,
+    "maxStrideLength": 230.3,
+    "maxVelocity": 11.01,
+    "notes": " ",
+    "recoveryFitnessScore": -1000,
+    "rightAverageBalanceScore": 6.367389801026613,
+    "rightAverageCadence": 82,
+    "rightAverageEfficiencyScore": 6.436757621096535,
+    "rightAverageGroundTime": 282,
+    "rightAverageHeelStrikes": 2,
+    "rightAverageImpact": 3.745870020964362,
+    "rightAverageLift": 9.82054507337526,
+    "rightAverageLoadingStressScore": 7.766585399715043,
+    "rightAverageRunScore": 7.295082157351825,
+    "rightAverageStrideLength": 191.03071278826,
+    "rightAverageToeInOut": 56.9475890985325,
+    "rightAverageVelocity": 9.597148846960165,
+    "rightAvgCadencePercentage": 62.275586049171,
+    "rightAvgGaitLinePercentage": 74,
+    "rightAvgGroundTimePercentage": 68,
+    "rightAvgImpactPercentage": 90,
+    "rightAvgLiftPercentage": 58,
+    "rightAvgMidFootPercentage": 28,
+    "rightAvgPacePercentage": 72,
+    "rightAvgStrideLengthPercentage": 63,
+    "rightAvgToeInOutPercentage": 8,
+    "runID": "5678150d2471d4790bdf0bff-2018-02-13T11:07:12Z-0",
+    "runnerID": {
+      "$oid": "5678150d2471d4790bdf0bff"
+    },
+    "shoeID": 0,
+    "shoeScore": 0,
+    "totalCalories": 624,
+    "totalDistanceCovered": 5052.5,
+    "totalSteps": 5052,
+    "updatedAt": {
+      "$date": "2018-02-13T11:44:22.063Z"
+    },
+    "userPainAndStrain": 8,
+    "userPerceivedEffort": 7
+  },
+  "thresholdFlags": [
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 45
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 76
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 84
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 111
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 118
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 144
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 162
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 190
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 198
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": null
+    },
+    {
+      "flag": "shown-heartRateZone5UpperLimit",
+      "movingTime": 249
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 281
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 289
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": null
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": null
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 349
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": null
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 388
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 409
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": null
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 445
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 470
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 490
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 521
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": null
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 557
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 580
+    },
+    {
+      "flag": "shown-userGoalHRZoneLower",
+      "movingTime": 596
+    },
+    {
+      "flag": "shown-userGoalHRZoneLower",
+      "movingTime": 628
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 655
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 669
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 701
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 731
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 742
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 773
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 806
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 837
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 869
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 909
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 942
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 973
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 1004
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 1037
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 1069
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 1101
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 1133
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 1165
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 1198
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 1229
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 1270
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 1302
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 1333
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": null
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": null
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 1429
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 1461
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 1494
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 1525
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 1557
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 1590
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 1629
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 1661
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 1696
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 1727
+    },
+    {
+      "flag": "shown-userGoalPaceValueLower",
+      "movingTime": 1736
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": null
+    },
+    {
+      "flag": "shown-gradientSteepAmber",
+      "movingTime": 1770
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": null
+    },
+    {
+      "flag": "shown-gradientSteepAmber",
+      "movingTime": 1814
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 1842
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 1849
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 1876
+    },
+    {
+      "flag": "shown-toeInOutRed",
+      "movingTime": 1883
+    },
+    {
+      "flag": "shown-heartRateZone5LowerLimit",
+      "movingTime": 1909
+    }
+  ],
+  "thresholds": {
+    "altitude": {
+      "__v": 0,
+      "_id": {
+        "$oid": "57d1677786d851ed6f25bc5f"
+      },
+      "admin": {
+        "date": {
+          "$date": "2016-09-08T13:28:23.789Z"
+        },
+        "id": "560270ac8af35eab3265ee9c",
+        "name": "Mike Walsh"
+      },
+      "codeBaseVariableName": "altitude",
+      "createdAt": {
+        "$date": "2016-09-08T13:28:23.793Z"
+      },
+      "defaultThresholdIdentifier": "altitude57d1677786d851ed6f25bc5f",
+      "isDefault": true,
+      "thresholdAmberLowerMinAudio": "null",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 5,
+      "thresholdAmberLowerMinPriority": 0,
+      "thresholdAmberLowerMinUIText": "null",
+      "thresholdAmberLowerMinValue": 0,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2016-09-08T13:28:23.793Z"
+      },
+      "thresholdDescription": "Max, Min, Limit and Weightings for Aerometry Calculations in the App.",
+      "thresholdIdentifierAmberLowerMin": "minAltitudeMarker",
+      "thresholdIdentifierRedUpperMax": "maxAltitudeMarker",
+      "thresholdLimitValue": 0,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "null",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 10,
+      "thresholdRedUpperMaxPriority": 0,
+      "thresholdRedUpperMaxUIText": "null",
+      "thresholdRedUpperMaxValue": 300,
+      "thresholdRepeat": 0,
+      "thresholdScreen": 406,
+      "thresholdSettingsActivate": false,
+      "thresholdTitle": "Aerometry",
+      "thresholdTrigger": 1,
+      "thresholdType": 3,
+      "thresholdWeighting": 0.25
+    },
+    "balanceScore": {
+      "__v": 0,
+      "_id": {
+        "$oid": "57c59d1114b8f17d35d13136"
+      },
+      "admin": {
+        "date": {
+          "$date": "2017-07-28T10:18:17.597Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "codeBaseVariableName": "balanceScore",
+      "createdAt": {
+        "$date": "2016-07-20T11:19:32.374Z"
+      },
+      "defaultThresholdIdentifier": "balanceScore578f5e4495c4364a46313400",
+      "isDefault": false,
+      "runnerID": "5678150d2471d4790bdf0bff",
+      "thresholdAmberLowerMinAudio": "£name, your balance score is low.",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 20,
+      "thresholdAmberLowerMinPriority": 4,
+      "thresholdAmberLowerMinUIText": "Balance Warning",
+      "thresholdAmberLowerMinValue": 2.5,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2017-07-28T10:18:17.604Z"
+      },
+      "thresholdDescription": "Threshold on balance level 2 score: 3.1",
+      "thresholdIdentifierAmberLowerMin": "balanceScoreMin",
+      "thresholdIdentifierRedUpperMax": "balanceScoreMax",
+      "thresholdLimitValue": 0,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "null",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 0,
+      "thresholdRedUpperMaxPriority": 0,
+      "thresholdRedUpperMaxUIText": "null",
+      "thresholdRedUpperMaxValue": 0,
+      "thresholdRepeat": 1,
+      "thresholdScreen": 407,
+      "thresholdSettingsActivate": true,
+      "thresholdTitle": "Balance",
+      "thresholdTrigger": 1,
+      "thresholdType": 3,
+      "thresholdWeighting": 0
+    },
+    "cadence": {
+      "__v": 0,
+      "_id": {
+        "$oid": "57c706307d4bd5df49b11565"
+      },
+      "admin": {
+        "date": {
+          "$date": "2017-08-31T08:55:48.261Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "codeBaseVariableName": "cadence",
+      "createdAt": {
+        "$date": "2016-07-20T11:43:44.877Z"
+      },
+      "defaultThresholdIdentifier": "cadence578f63f095c4364a46313406",
+      "isDefault": false,
+      "runnerID": "5678150d2471d4790bdf0bff",
+      "thresholdAmberLowerMinAudio": "Your cadence is below the recommended minimum.  Concentrate on taking more steps while maintaining your pace.",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 5,
+      "thresholdAmberLowerMinPriority": 2,
+      "thresholdAmberLowerMinUIText": "Cadence Below Minimum £thresholdvalue",
+      "thresholdAmberLowerMinValue": 150,
+      "thresholdBackOffPeriod": 10,
+      "thresholdDate": {
+        "$date": "2017-08-31T08:55:48.294Z"
+      },
+      "thresholdDescription": "Lower Upper Thresholds, Limit and Weighting for Cadence (steps/min): 4.3.3 and 4.3.4",
+      "thresholdIdentifierAmberLowerMin": "cadenceLower",
+      "thresholdIdentifierRedUpperMax": "cadenceUpper",
+      "thresholdLimitValue": 240,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "Your cadence is above the recommended maximum.  Concentrate on taking less steps while maintaining your pace.",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 10,
+      "thresholdRedUpperMaxPriority": 2,
+      "thresholdRedUpperMaxUIText": "Cadence Above Maximum £thresholdvalue",
+      "thresholdRedUpperMaxValue": 220,
+      "thresholdRepeat": 1,
+      "thresholdScreen": 408,
+      "thresholdSettingsActivate": true,
+      "thresholdTitle": "Cadence",
+      "thresholdTrigger": 1,
+      "thresholdType": 2,
+      "thresholdWeighting": 1
+    },
+    "cadenceGoalUser": {
+      "__v": 0,
+      "_id": {
+        "$oid": "5956219346e1ef4ed871258a"
+      },
+      "admin": {
+        "date": {
+          "$date": "2017-07-28T10:17:48.821Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "codeBaseVariableName": "cadenceGoalUser",
+      "createdAt": {
+        "$date": "2016-08-26T13:07:29.664Z"
+      },
+      "defaultThresholdIdentifier": "cadenceGoalUser57c03f110c8906766d97afb2",
+      "isDefault": false,
+      "runnerID": "5678150d2471d4790bdf0bff",
+      "thresholdAmberLowerMinAudio": "£name, your cadence is currently below the  goal of £goalvalue you set for this run. Increase your cadence to achieve your goal.",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 5,
+      "thresholdAmberLowerMinPriority": 3,
+      "thresholdAmberLowerMinUIText": "Below £goalvalue Goal",
+      "thresholdAmberLowerMinValue": 0,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2017-07-28T10:17:48.830Z"
+      },
+      "thresholdDescription": "Threshold information for cadence value user goal: 4.3.1 and 4.3.2",
+      "thresholdIdentifierAmberLowerMin": "userGoalCadenceValuelower",
+      "thresholdIdentifierRedUpperMax": "userGoalCadenceValueUpper",
+      "thresholdLimitValue": 3,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "£name, your cadence has now reached the goal of £goalvalue you set for this run",
+      "thresholdRedUpperMaxAwardPoints": 5,
+      "thresholdRedUpperMaxPenaltyPoints": 0,
+      "thresholdRedUpperMaxPriority": 0,
+      "thresholdRedUpperMaxUIText": "£goalvalue Goal Achieved",
+      "thresholdRedUpperMaxValue": 0,
+      "thresholdRepeat": 0,
+      "thresholdScreen": 408,
+      "thresholdSettingsActivate": false,
+      "thresholdTitle": "Cadence Value User Goal",
+      "thresholdTrigger": 1,
+      "thresholdType": 2,
+      "thresholdWeighting": 0
+    },
+    "efficiencyScore": {
+      "__v": 0,
+      "_id": {
+        "$oid": "595f5b31cc133f435eb89bef"
+      },
+      "admin": {
+        "date": {
+          "$date": "2017-07-28T10:17:09.154Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "codeBaseVariableName": "efficiencyScore",
+      "createdAt": {
+        "$date": "2016-07-20T11:41:22.728Z"
+      },
+      "defaultThresholdIdentifier": "efficiencyScore578f636295c4364a46313405",
+      "isDefault": false,
+      "runnerID": "5678150d2471d4790bdf0bff",
+      "thresholdAmberLowerMinAudio": "£name, your efficiency score is very low.",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 20,
+      "thresholdAmberLowerMinPriority": 4,
+      "thresholdAmberLowerMinUIText": "Efficiency Warning",
+      "thresholdAmberLowerMinValue": 2.5,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2017-07-28T10:17:09.161Z"
+      },
+      "thresholdDescription": "Threshold on efficiency level 2 score: 4.1",
+      "thresholdIdentifierAmberLowerMin": "efficiencyScoreMin",
+      "thresholdIdentifierRedUpperMax": "efficiencyScoreMax",
+      "thresholdLimitValue": 0,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "£name, your efficiency score is low.",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 5,
+      "thresholdRedUpperMaxPriority": 0,
+      "thresholdRedUpperMaxUIText": "Efficiency Low",
+      "thresholdRedUpperMaxValue": 5,
+      "thresholdRepeat": 1,
+      "thresholdScreen": 408,
+      "thresholdSettingsActivate": true,
+      "thresholdTitle": "Efficiency",
+      "thresholdTrigger": 1,
+      "thresholdType": 3,
+      "thresholdWeighting": 1
+    },
+    "elevationGain": {
+      "__v": 0,
+      "_id": {
+        "$oid": "597b0ef85672b1376c3b864f"
+      },
+      "admin": {
+        "date": {
+          "$date": "2017-07-28T10:16:24.770Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "codeBaseVariableName": "elevationGain",
+      "createdAt": {
+        "$date": "2016-09-08T13:30:29.941Z"
+      },
+      "defaultThresholdIdentifier": "elevationGain57d167f586d851ed6f25bc60",
+      "isDefault": false,
+      "runnerID": "5678150d2471d4790bdf0bff",
+      "thresholdAmberLowerMinAudio": "null",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 0,
+      "thresholdAmberLowerMinPriority": 0,
+      "thresholdAmberLowerMinUIText": "null",
+      "thresholdAmberLowerMinValue": 0,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2017-07-28T10:16:24.773Z"
+      },
+      "thresholdDescription": "Max, Min, Limit and Weightings for Elevation Gain Calculations in the App.",
+      "thresholdIdentifierAmberLowerMin": "minElevationGain",
+      "thresholdIdentifierRedUpperMax": "maxElevationGain",
+      "thresholdLimitValue": 0,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "null",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 0,
+      "thresholdRedUpperMaxPriority": 0,
+      "thresholdRedUpperMaxUIText": "null",
+      "thresholdRedUpperMaxValue": 500,
+      "thresholdRepeat": 0,
+      "thresholdScreen": 406,
+      "thresholdSettingsActivate": false,
+      "thresholdTitle": "Elevation Gain",
+      "thresholdTrigger": 1,
+      "thresholdType": 3,
+      "thresholdWeighting": 1
+    },
+    "gradient": {
+      "__v": 0,
+      "_id": {
+        "$oid": "57d1636f86d851ed6f25bc5e"
+      },
+      "admin": {
+        "date": {
+          "$date": "2016-09-08T13:11:11.951Z"
+        },
+        "id": "560270ac8af35eab3265ee9c",
+        "name": "Mike Walsh"
+      },
+      "codeBaseVariableName": "gradient",
+      "createdAt": {
+        "$date": "2016-09-08T13:11:11.959Z"
+      },
+      "defaultThresholdIdentifier": "gradient57d1636f86d851ed6f25bc5e",
+      "isDefault": true,
+      "thresholdAmberLowerMinAudio": "null",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 5,
+      "thresholdAmberLowerMinPriority": 0,
+      "thresholdAmberLowerMinUIText": "null",
+      "thresholdAmberLowerMinValue": 0,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2016-09-08T13:11:11.959Z"
+      },
+      "thresholdDescription": "Max, Min, Limit and Weightings for Gradient Calculations in the App.",
+      "thresholdIdentifierAmberLowerMin": "minGradientMarker",
+      "thresholdIdentifierRedUpperMax": "maxGradientMarker",
+      "thresholdLimitValue": 25,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "null",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 10,
+      "thresholdRedUpperMaxPriority": 0,
+      "thresholdRedUpperMaxUIText": "null",
+      "thresholdRedUpperMaxValue": 20,
+      "thresholdRepeat": 1,
+      "thresholdScreen": 406,
+      "thresholdSettingsActivate": false,
+      "thresholdTitle": "Gradient",
+      "thresholdTrigger": 1,
+      "thresholdType": 3,
+      "thresholdWeighting": 1
+    },
+    "groundTime": {
+      "__v": 0,
+      "_id": {
+        "$oid": "57b810da164a384d310edc50"
+      },
+      "admin": {
+        "date": {
+          "$date": "2016-08-30T17:22:22.374Z"
+        },
+        "id": "560270ac8af35eab3265ee9c",
+        "name": "Mike Walsh"
+      },
+      "codeBaseVariableName": "groundTime",
+      "createdAt": {
+        "$date": "2016-08-20T08:12:10.145Z"
+      },
+      "data": {},
+      "defaultThresholdIdentifier": "groundTime57b810da164a384d310edc50",
+      "isDefault": true,
+      "thresholdAmberLowerMinAudio": "null",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 5,
+      "thresholdAmberLowerMinPriority": 0,
+      "thresholdAmberLowerMinUIText": "null",
+      "thresholdAmberLowerMinValue": 160,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2016-08-30T17:22:22.383Z"
+      },
+      "thresholdDescription": "Thresholds, weighting and limit for ground contact score calculation: 4.5",
+      "thresholdIdentifier": "groundTime57b810da164a384d310edc50",
+      "thresholdIdentifierAmberLowerMin": "groundTimeLower",
+      "thresholdIdentifierRedUpperMax": "groundTimeUpper",
+      "thresholdLimitValue": 400,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "null",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 10,
+      "thresholdRedUpperMaxPriority": 0,
+      "thresholdRedUpperMaxUIText": "null",
+      "thresholdRedUpperMaxValue": 300,
+      "thresholdRepeat": 1,
+      "thresholdScreen": 408,
+      "thresholdSettingsActivate": false,
+      "thresholdTitle": "Ground Contact",
+      "thresholdTrigger": 1,
+      "thresholdType": 2,
+      "thresholdWeighting": 1
+    },
+    "heartRate": {
+      "__v": 0,
+      "_id": {
+        "$oid": "597b0db75672b1376c3b864d"
+      },
+      "admin": {
+        "date": {
+          "$date": "2017-11-01T10:48:38.562Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "codeBaseVariableName": "heartRate",
+      "createdAt": {
+        "$date": "2016-08-20T08:38:42.854Z"
+      },
+      "defaultThresholdIdentifier": "heartRate57b81712164a384d310edc53",
+      "isDefault": false,
+      "runnerID": "5678150d2471d4790bdf0bff",
+      "thresholdAmberLowerMinAudio": "Your heart rate is approaching your maximum limits.",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 0,
+      "thresholdAmberLowerMinPriority": 1,
+      "thresholdAmberLowerMinUIText": "Heart Rate in £RZheartRateZoneLabel5 Zone",
+      "thresholdAmberLowerMinValue": 153,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2017-11-01T10:48:38.577Z"
+      },
+      "thresholdDescription": "Warning that run intensity has pushed HR into Top zone or has pushed HR above Max HR: 1.2.3 and 1.2.4",
+      "thresholdIdentifierAmberLowerMin": "heartRateZone5LowerLimit",
+      "thresholdIdentifierRedUpperMax": "heartRateZone5UpperLimit",
+      "thresholdLimitValue": 0,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "Warning, your heart rate has exceeded your maximum.  Sustaining this level of intensity may not be safe.",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 5,
+      "thresholdRedUpperMaxPriority": 1,
+      "thresholdRedUpperMaxUIText": "Maximum Heart Rate £thresholdvalue bpm Exceded",
+      "thresholdRedUpperMaxValue": 170,
+      "thresholdRepeat": 1,
+      "thresholdScreen": 404,
+      "thresholdSettingsActivate": false,
+      "thresholdTitle": "Heart Rate Zone 5",
+      "thresholdTrigger": 1,
+      "thresholdType": 1,
+      "thresholdWeighting": 0
+    },
+    "heartRateZoneUserGoal": {
+      "__v": 0,
+      "_id": {
+        "$oid": "5956241b46e1ef4ed871261b"
+      },
+      "admin": {
+        "date": {
+          "$date": "2017-07-28T10:09:41.493Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "codeBaseVariableName": "heartRateZoneUserGoal",
+      "createdAt": {
+        "$date": "2016-08-26T12:57:07.337Z"
+      },
+      "defaultThresholdIdentifier": "heartRateZoneUserGoal57c03ca30c8906766d979f84",
+      "isDefault": false,
+      "runnerID": "5678150d2471d4790bdf0bff",
+      "thresholdAmberLowerMinAudio": "£name, your heart rate is currently below your goal zone. Increase your efforts to achieve your goal.",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 5,
+      "thresholdAmberLowerMinPriority": 2,
+      "thresholdAmberLowerMinUIText": "Heart Rate Below £goalzone",
+      "thresholdAmberLowerMinValue": 0,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2017-07-28T10:09:41.499Z"
+      },
+      "thresholdDescription": "Threshold information for heart rate zone user goals: 1.2.1 and 1.2.2",
+      "thresholdIdentifierAmberLowerMin": "userGoalHRZoneLower",
+      "thresholdIdentifierRedUpperMax": "userGoalHRZoneUpper",
+      "thresholdLimitValue": 0,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "£name, your heart rate is currently above your goal zone. Reduce your efforts to achieve your goal.",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 5,
+      "thresholdRedUpperMaxPriority": 2,
+      "thresholdRedUpperMaxUIText": "Heart Rate Above £goalzone",
+      "thresholdRedUpperMaxValue": 0,
+      "thresholdRepeat": 0,
+      "thresholdScreen": 404,
+      "thresholdSettingsActivate": false,
+      "thresholdTitle": "Heart Rate Zone User Goal",
+      "thresholdTrigger": 1,
+      "thresholdType": 2,
+      "thresholdWeighting": 0
+    },
+    "impact": {
+      "__v": 0,
+      "_id": {
+        "$oid": "57c70bc67d4bd5df49b11596"
+      },
+      "admin": {
+        "date": {
+          "$date": "2016-09-11T10:13:40.339Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "codeBaseVariableName": "impact",
+      "createdAt": {
+        "$date": "2016-07-20T11:16:09.727Z"
+      },
+      "defaultThresholdIdentifier": "impact578f5d7995c4364a463133fe",
+      "isDefault": false,
+      "runnerID": "5678150d2471d4790bdf0bff",
+      "thresholdAmberLowerMinAudio": "£name, your impact is high. Concentrate on running light and reducing your impact.",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 5,
+      "thresholdAmberLowerMinPriority": 3,
+      "thresholdAmberLowerMinUIText": "High Impact",
+      "thresholdAmberLowerMinValue": 5.5,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2016-09-11T10:13:40.343Z"
+      },
+      "thresholdDescription": "Red Amber Thresholds, Limits and Weightings for Impact (g): 2.2.1 and 2.2.2",
+      "thresholdIdentifierAmberLowerMin": "impactAmber",
+      "thresholdIdentifierRedUpperMax": "impactRed",
+      "thresholdLimitValue": 16,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "£name, your impact is very high. Impacts at this level increase the risk of injury.",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 10,
+      "thresholdRedUpperMaxPriority": 2,
+      "thresholdRedUpperMaxUIText": "Very High Impact",
+      "thresholdRedUpperMaxValue": 8,
+      "thresholdRepeat": 1,
+      "thresholdScreen": 402,
+      "thresholdSettingsActivate": true,
+      "thresholdTitle": "Impact",
+      "thresholdTrigger": 1,
+      "thresholdType": 1,
+      "thresholdWeighting": 1
+    },
+    "intensityScore": {
+      "__v": 0,
+      "_id": {
+        "$oid": "57d169b386d851ed6f25bc61"
+      },
+      "admin": {
+        "date": {
+          "$date": "2016-09-08T13:37:55.400Z"
+        },
+        "id": "560270ac8af35eab3265ee9c",
+        "name": "Mike Walsh"
+      },
+      "codeBaseVariableName": "intensityScore",
+      "createdAt": {
+        "$date": "2016-09-08T13:37:55.402Z"
+      },
+      "defaultThresholdIdentifier": "intensityScore57d169b386d851ed6f25bc61",
+      "isDefault": true,
+      "thresholdAmberLowerMinAudio": "null",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 5,
+      "thresholdAmberLowerMinPriority": 0,
+      "thresholdAmberLowerMinUIText": "null",
+      "thresholdAmberLowerMinValue": 0,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2016-09-08T13:37:55.402Z"
+      },
+      "thresholdDescription": "Threshold on intensity level 2 score",
+      "thresholdIdentifierAmberLowerMin": "intensityScoreMin",
+      "thresholdIdentifierRedUpperMax": "intensityScoreMax",
+      "thresholdLimitValue": 0,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "null",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 10,
+      "thresholdRedUpperMaxPriority": 0,
+      "thresholdRedUpperMaxUIText": "null",
+      "thresholdRedUpperMaxValue": 0,
+      "thresholdRepeat": 0,
+      "thresholdScreen": 403,
+      "thresholdSettingsActivate": false,
+      "thresholdTitle": "Intensity",
+      "thresholdTrigger": 1,
+      "thresholdType": 3,
+      "thresholdWeighting": 1
+    },
+    "lift": {
+      "__v": 0,
+      "_id": {
+        "$oid": "57b80fcc164a384d310edc4f"
+      },
+      "admin": {
+        "date": {
+          "$date": "2016-08-30T17:23:00.852Z"
+        },
+        "id": "560270ac8af35eab3265ee9c",
+        "name": "Mike Walsh"
+      },
+      "codeBaseVariableName": "lift",
+      "createdAt": {
+        "$date": "2016-08-20T08:07:40.712Z"
+      },
+      "data": {},
+      "defaultThresholdIdentifier": "lift57b80fcc164a384d310edc4f",
+      "isDefault": true,
+      "thresholdAmberLowerMinAudio": "null",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 5,
+      "thresholdAmberLowerMinPriority": 0,
+      "thresholdAmberLowerMinUIText": "null",
+      "thresholdAmberLowerMinValue": 5,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2016-08-30T17:23:00.858Z"
+      },
+      "thresholdDescription": "Thresholds, weightings and limit for lift score calculation: 4.4",
+      "thresholdIdentifier": "lift57b80fcc164a384d310edc4f",
+      "thresholdIdentifierAmberLowerMin": "liftLower",
+      "thresholdIdentifierRedUpperMax": "liftUpper",
+      "thresholdLimitValue": 70,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "null",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 10,
+      "thresholdRedUpperMaxPriority": 0,
+      "thresholdRedUpperMaxUIText": "null",
+      "thresholdRedUpperMaxValue": 50,
+      "thresholdRepeat": 1,
+      "thresholdScreen": 408,
+      "thresholdSettingsActivate": false,
+      "thresholdTitle": "Lift",
+      "thresholdTrigger": 1,
+      "thresholdType": 2,
+      "thresholdWeighting": 0.25
+    },
+    "loadingStressScore": {
+      "__v": 0,
+      "_id": {
+        "$oid": "595e664dcc133f435eb84adf"
+      },
+      "admin": {
+        "date": {
+          "$date": "2017-07-06T16:33:17.821Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "codeBaseVariableName": "loadingStressScore",
+      "createdAt": {
+        "$date": "2016-07-19T21:47:58.578Z"
+      },
+      "defaultThresholdIdentifier": "loadingStressScore578ea00e95c4364a463133fc",
+      "isDefault": false,
+      "runnerID": "5678150d2471d4790bdf0bff",
+      "thresholdAmberLowerMinAudio": "£name, your loading score is low. Concentrate on reducing your overall load.",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 0,
+      "thresholdAmberLowerMinPriority": 4,
+      "thresholdAmberLowerMinUIText": "Loading Warning",
+      "thresholdAmberLowerMinValue": 2.5,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2017-07-06T16:33:17.830Z"
+      },
+      "thresholdDescription": "Threshold on loading stress level 2 score: 2.1",
+      "thresholdIdentifierAmberLowerMin": "loadingStressScoreMin",
+      "thresholdIdentifierRedUpperMax": "loadingStressScoreMax",
+      "thresholdLimitValue": 0,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "null",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 0,
+      "thresholdRedUpperMaxPriority": 0,
+      "thresholdRedUpperMaxUIText": "null",
+      "thresholdRedUpperMaxValue": 0,
+      "thresholdRepeat": 1,
+      "thresholdScreen": 402,
+      "thresholdSettingsActivate": true,
+      "thresholdTitle": "Loading Stress",
+      "thresholdTrigger": 1,
+      "thresholdType": 3,
+      "thresholdWeighting": 1
+    },
+    "maxPronation": {
+      "__v": 0,
+      "_id": {
+        "$oid": "57b80e2e164a384d310edc4d"
+      },
+      "admin": {
+        "date": {
+          "$date": "2016-08-30T17:22:07.832Z"
+        },
+        "id": "560270ac8af35eab3265ee9c",
+        "name": "Mike Walsh"
+      },
+      "codeBaseVariableName": "maxPronation",
+      "createdAt": {
+        "$date": "2016-08-20T08:00:46.036Z"
+      },
+      "data": {},
+      "defaultThresholdIdentifier": "maxPronation57b80e2e164a384d310edc4d",
+      "isDefault": true,
+      "thresholdAmberLowerMinAudio": "null",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 5,
+      "thresholdAmberLowerMinPriority": 0,
+      "thresholdAmberLowerMinUIText": "null",
+      "thresholdAmberLowerMinValue": 7,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2016-08-30T17:22:07.835Z"
+      },
+      "thresholdDescription": "Thresholds, weightings and limit for gait-line score calculation: 2.3",
+      "thresholdIdentifier": "maxPronation57b80e2e164a384d310edc4d",
+      "thresholdIdentifierAmberLowerMin": "gaitLineAmber",
+      "thresholdIdentifierRedUpperMax": "gaitLineRed",
+      "thresholdLimitValue": 12,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "null",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 10,
+      "thresholdRedUpperMaxPriority": 0,
+      "thresholdRedUpperMaxUIText": "null",
+      "thresholdRedUpperMaxValue": 10,
+      "thresholdRepeat": 1,
+      "thresholdScreen": 402,
+      "thresholdSettingsActivate": false,
+      "thresholdTitle": "Gaitline",
+      "thresholdTrigger": 1,
+      "thresholdType": 1,
+      "thresholdWeighting": 0.25
+    },
+    "paceGoalUser": {
+      "__v": 0,
+      "_id": {
+        "$oid": "595624ad46e1ef4ed8712628"
+      },
+      "admin": {
+        "date": {
+          "$date": "2017-08-31T07:56:47.446Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "codeBaseVariableName": "paceGoalUser",
+      "createdAt": {
+        "$date": "2016-08-26T13:00:52.100Z"
+      },
+      "defaultThresholdIdentifier": "paceGoalUser57c03d840c8906766d97afa8",
+      "isDefault": false,
+      "runnerID": "5678150d2471d4790bdf0bff",
+      "thresholdAmberLowerMinAudio": "£name, your pace is currently below your goal pace of £goalvalue. Increase your pace to achieve your goal.",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 5,
+      "thresholdAmberLowerMinPriority": 2,
+      "thresholdAmberLowerMinUIText": "Below £goalvalue Goal",
+      "thresholdAmberLowerMinValue": 0,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2017-08-31T07:56:47.472Z"
+      },
+      "thresholdDescription": "Threshold information for pace value user goal: 1.3.1 and 1.3.2",
+      "thresholdIdentifierAmberLowerMin": "userGoalPaceValueLower",
+      "thresholdIdentifierRedUpperMax": "userGoalPaceValueUpper",
+      "thresholdLimitValue": 0,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "£name, your pace has now reached the goal of £goalvalue you set for this run",
+      "thresholdRedUpperMaxAwardPoints": 5,
+      "thresholdRedUpperMaxPenaltyPoints": null,
+      "thresholdRedUpperMaxPriority": 0,
+      "thresholdRedUpperMaxUIText": "£goalvalue Goal Achieved",
+      "thresholdRedUpperMaxValue": 0,
+      "thresholdRepeat": 0,
+      "thresholdScreen": 405,
+      "thresholdSettingsActivate": false,
+      "thresholdTitle": "Pace Value User Goal",
+      "thresholdTrigger": 1,
+      "thresholdType": 2,
+      "thresholdWeighting": 0
+    },
+    "paceZoneGoalUser": {
+      "__v": 0,
+      "_id": {
+        "$oid": "595f6ca9cc133f435eb8abd3"
+      },
+      "admin": {
+        "date": {
+          "$date": "2017-10-12T10:28:44.225Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "codeBaseVariableName": "paceZoneGoalUser",
+      "createdAt": {
+        "$date": "2016-08-26T13:03:14.208Z"
+      },
+      "defaultThresholdIdentifier": "paceZoneGoalUser57c03e120c8906766d97afb0",
+      "isDefault": false,
+      "runnerID": "5678150d2471d4790bdf0bff",
+      "thresholdAmberLowerMinAudio": "£name, your pace is currently below your goal zone. Increase your pace to achieve your goal.",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 5,
+      "thresholdAmberLowerMinPriority": 2,
+      "thresholdAmberLowerMinUIText": "Pace Below £goalzone",
+      "thresholdAmberLowerMinValue": 0,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2017-10-12T10:28:44.242Z"
+      },
+      "thresholdDescription": "Threshold information for pace zone user goal: 1.3.3 and 1.3.4",
+      "thresholdIdentifierAmberLowerMin": "userGoalPaceZoneLower",
+      "thresholdIdentifierRedUpperMax": "userGoalPaceZoneUpper",
+      "thresholdLimitValue": 0,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "£name, your pace is currently above your goal zone. Reduce your pace to achieve your goal.",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 5,
+      "thresholdRedUpperMaxPriority": 2,
+      "thresholdRedUpperMaxUIText": "Pace Above £goalzone",
+      "thresholdRedUpperMaxValue": 0,
+      "thresholdRepeat": 0,
+      "thresholdScreen": 405,
+      "thresholdSettingsActivate": false,
+      "thresholdTitle": "Pace Zone User Goal",
+      "thresholdTrigger": 1,
+      "thresholdType": 2,
+      "thresholdWeighting": 0
+    },
+    "routeDifficultyScore": {
+      "__v": 0,
+      "_id": {
+        "$oid": "597b0e0b5672b1376c3b864e"
+      },
+      "admin": {
+        "date": {
+          "$date": "2017-07-28T10:12:27.839Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "codeBaseVariableName": "routeDifficultyScore",
+      "createdAt": {
+        "$date": "2016-09-15T19:05:48.851Z"
+      },
+      "defaultThresholdIdentifier": "routeDifficultyScore57daf10c9d4d03a704e25705",
+      "isDefault": false,
+      "runnerID": "5678150d2471d4790bdf0bff",
+      "thresholdAmberLowerMinAudio": "This section of the route is classified as above average difficulty.",
+      "thresholdAmberLowerMinAwardPoints": 10,
+      "thresholdAmberLowerMinPenaltyPoints": null,
+      "thresholdAmberLowerMinPriority": 4,
+      "thresholdAmberLowerMinUIText": "Section Above Average Difficulty",
+      "thresholdAmberLowerMinValue": 6,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2017-07-28T10:12:27.842Z"
+      },
+      "thresholdDescription": "Amber Red Thresholds on Route Difficulty level 2 score",
+      "thresholdIdentifierAmberLowerMin": "routeDifficultyAverage",
+      "thresholdIdentifierRedUpperMax": "routeDifficultyHigh",
+      "thresholdLimitValue": 0,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "This section of the route is classified as high difficulty.",
+      "thresholdRedUpperMaxAwardPoints": 20,
+      "thresholdRedUpperMaxPenaltyPoints": null,
+      "thresholdRedUpperMaxPriority": 3,
+      "thresholdRedUpperMaxUIText": "High Difficulty Setion",
+      "thresholdRedUpperMaxValue": 8,
+      "thresholdRepeat": 1,
+      "thresholdScreen": 406,
+      "thresholdSettingsActivate": true,
+      "thresholdTitle": "Route Difficulty",
+      "thresholdTrigger": 1,
+      "thresholdType": 1,
+      "thresholdWeighting": 0
+    },
+    "strideLength": {
+      "__v": 0,
+      "_id": {
+        "$oid": "57d52eb3c2516eae045aec05"
+      },
+      "admin": {
+        "date": {
+          "$date": "2017-08-31T08:56:28.039Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "codeBaseVariableName": "strideLength",
+      "createdAt": {
+        "$date": "2016-07-20T11:35:33.925Z"
+      },
+      "defaultThresholdIdentifier": "strideLength578f620595c4364a46313402",
+      "isDefault": false,
+      "runnerID": "5678150d2471d4790bdf0bff",
+      "thresholdAmberLowerMinAudio": "null",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 0,
+      "thresholdAmberLowerMinPriority": 0,
+      "thresholdAmberLowerMinUIText": "null",
+      "thresholdAmberLowerMinValue": 0,
+      "thresholdBackOffPeriod": 10,
+      "thresholdDate": {
+        "$date": "2017-08-31T08:56:28.048Z"
+      },
+      "thresholdDescription": "Maximum limit on stride length (cm): 3.3.2",
+      "thresholdIdentifierAmberLowerMin": "null",
+      "thresholdIdentifierRedUpperMax": "strideLengthMax",
+      "thresholdLimitValue": 0,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "£name, your stride length is beyond your recommended maximum. Continuing at this level can increase the risk of injury.",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 15,
+      "thresholdRedUpperMaxPriority": 1,
+      "thresholdRedUpperMaxUIText": "Stride Length Beyond Maximum £thresholdvalue cm",
+      "thresholdRedUpperMaxValue": 320,
+      "thresholdRepeat": 1,
+      "thresholdScreen": 0,
+      "thresholdSettingsActivate": false,
+      "thresholdTitle": "Stride Length Max",
+      "thresholdTrigger": 1,
+      "thresholdType": 1,
+      "thresholdWeighting": 0
+    },
+    "toeInOut": {
+      "__v": 0,
+      "_id": {
+        "$oid": "57d52e84c2516eae045aec04"
+      },
+      "admin": {
+        "date": {
+          "$date": "2017-07-07T10:02:11.980Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "codeBaseVariableName": "toeInOut",
+      "createdAt": {
+        "$date": "2016-07-20T11:39:01.528Z"
+      },
+      "defaultThresholdIdentifier": "toeInOut578f62d595c4364a46313404",
+      "isDefault": false,
+      "runnerID": "5678150d2471d4790bdf0bff",
+      "thresholdAmberLowerMinAudio": "Your toes are not pointing straight ahead. Concentrate on improving the alignment of your feet on each footstrike.",
+      "thresholdAmberLowerMinAwardPoints": 0,
+      "thresholdAmberLowerMinPenaltyPoints": 0,
+      "thresholdAmberLowerMinPriority": 3,
+      "thresholdAmberLowerMinUIText": "Toe In/Out Outside Guidance",
+      "thresholdAmberLowerMinValue": 8,
+      "thresholdBackOffPeriod": 30,
+      "thresholdDate": {
+        "$date": "2017-07-07T10:02:11.988Z"
+      },
+      "thresholdDescription": "Amber Red Thresholds, Limit and Weighting for Toe InOut (degrees): 3.4.1 and 3.4.2",
+      "thresholdIdentifierAmberLowerMin": "toeInOutAmber",
+      "thresholdIdentifierRedUpperMax": "toeInOutRed",
+      "thresholdLimitValue": 25,
+      "thresholdNRepeat": 0,
+      "thresholdRedUpperMaxAudio": "£name, your toes are pointing at an excessive angle.  Continuing at this level can increase the risk of injury.",
+      "thresholdRedUpperMaxAwardPoints": 0,
+      "thresholdRedUpperMaxPenaltyPoints": 0,
+      "thresholdRedUpperMaxPriority": 2,
+      "thresholdRedUpperMaxUIText": "Toe In/Out Outside Max",
+      "thresholdRedUpperMaxValue": 15,
+      "thresholdRepeat": 1,
+      "thresholdScreen": 407,
+      "thresholdSettingsActivate": true,
+      "thresholdTitle": "Toe In/Out",
+      "thresholdTrigger": 1,
+      "thresholdType": 1,
+      "thresholdWeighting": 0.25
+    }
+  },
+  "trainingReadinessEnd": {
+    "all": 69,
+    "long": 69,
+    "marathon": 69,
+    "middle": 69,
+    "short": 69,
+    "speed": 69,
+    "ultra": 69
+  },
+  "trainingReadinessStart": {
+    "all": 100,
+    "long": 100,
+    "marathon": 100,
+    "middle": 100,
+    "short": 100,
+    "speed": 100,
+    "ultra": 100
+  },
+  "updatedAt": {
+    "$date": "2018-02-13T11:44:22.065Z"
+  },
+  "watchBatLevelStart": 0,
+  "watchConnected": false,
+  "weather": {
+    "apparentTemperature": -0.41,
+    "cloudCover": 0.11,
+    "dewPoint": -0.46,
+    "humidity": 0.74,
+    "icon": "clear-day",
+    "ozone": 498.59,
+    "precipIntensity": 0,
+    "precipProbability": 0,
+    "pressure": 1003.12,
+    "summary": "Clear",
+    "temperature": 3.81,
+    "time": 1518520032,
+    "uvIndex": 1,
+    "visibility": 16.09,
+    "windBearing": 292,
+    "windGust": 10.3,
+    "windSpeed": 5.51
+  },
+  "zones": {
+    "hrZones": {
+      "names": [
+        "Recovery",
+        "Easy",
+        "Aerobic",
+        "Anaerobic",
+        "Maximum"
+      ],
+      "values": [
+        68,
+        102,
+        119,
+        136,
+        153,
+        170
+      ]
+    },
+    "intensityZones": {
+      "names": [
+        "Very Light",
+        "Light",
+        "Moderate",
+        "High",
+        "Maximum"
+      ],
+      "values": [
+        0,
+        2,
+        4,
+        6.5,
+        8.5,
+        10
+      ]
+    },
+    "paceZones": {
+      "all": [
+        [
+          5000,
+          496,
+          425,
+          368,
+          326,
+          283,
+          227
+        ],
+        [
+          6000,
+          502,
+          430,
+          373,
+          330,
+          287,
+          229
+        ],
+        [
+          6437,
+          503,
+          431,
+          374,
+          331,
+          288,
+          230
+        ],
+        [
+          8000,
+          510,
+          437,
+          379,
+          335,
+          291,
+          233
+        ],
+        [
+          8047,
+          510,
+          437,
+          379,
+          335,
+          291,
+          233
+        ],
+        [
+          10000,
+          516,
+          442,
+          383,
+          339,
+          295,
+          236
+        ],
+        [
+          12000,
+          520,
+          446,
+          386,
+          342,
+          297,
+          238
+        ],
+        [
+          15000,
+          525,
+          450,
+          390,
+          345,
+          300,
+          240
+        ],
+        [
+          16093,
+          527,
+          452,
+          392,
+          347,
+          301,
+          241
+        ],
+        [
+          20000,
+          534,
+          457,
+          396,
+          351,
+          305,
+          244
+        ],
+        [
+          21098,
+          535,
+          458,
+          397,
+          351,
+          306,
+          244
+        ],
+        [
+          25000,
+          540,
+          463,
+          401,
+          355,
+          308,
+          247
+        ],
+        [
+          30000,
+          545,
+          467,
+          405,
+          358,
+          312,
+          249
+        ],
+        [
+          42195,
+          558,
+          478,
+          414,
+          367,
+          319,
+          255
+        ],
+        [
+          50000,
+          570,
+          489,
+          424,
+          375,
+          326,
+          261
+        ],
+        [
+          80467,
+          628,
+          538,
+          466,
+          412,
+          359,
+          287
+        ],
+        [
+          100000,
+          671,
+          575,
+          498,
+          441,
+          383,
+          307
+        ],
+        [
+          150000,
+          760,
+          651,
+          565,
+          499,
+          434,
+          347
+        ],
+        [
+          160934,
+          778,
+          667,
+          578,
+          511,
+          444,
+          356
+        ],
+        [
+          200000,
+          829,
+          711,
+          616,
+          545,
+          474,
+          379
+        ]
+      ],
+      "long": [
+        [
+          5000,
+          448,
+          384,
+          333,
+          294,
+          256,
+          205
+        ],
+        [
+          6000,
+          453,
+          388,
+          337,
+          298,
+          259,
+          207
+        ],
+        [
+          6437,
+          454,
+          390,
+          338,
+          299,
+          260,
+          208
+        ],
+        [
+          8000,
+          460,
+          395,
+          342,
+          302,
+          263,
+          210
+        ],
+        [
+          8047,
+          460,
+          395,
+          342,
+          303,
+          263,
+          210
+        ],
+        [
+          10000,
+          466,
+          400,
+          346,
+          306,
+          266,
+          213
+        ],
+        [
+          12000,
+          470,
+          402,
+          349,
+          309,
+          268,
+          215
+        ],
+        [
+          15000,
+          474,
+          406,
+          352,
+          312,
+          271,
+          217
+        ],
+        [
+          16093,
+          476,
+          408,
+          354,
+          313,
+          272,
+          218
+        ],
+        [
+          20000,
+          482,
+          413,
+          358,
+          317,
+          275,
+          220
+        ],
+        [
+          21098,
+          483,
+          414,
+          359,
+          317,
+          276,
+          221
+        ],
+        [
+          25000,
+          487,
+          418,
+          362,
+          320,
+          279,
+          223
+        ],
+        [
+          30000,
+          493,
+          422,
+          366,
+          324,
+          281,
+          225
+        ],
+        [
+          42195,
+          504,
+          432,
+          374,
+          331,
+          288,
+          230
+        ],
+        [
+          50000,
+          515,
+          442,
+          383,
+          339,
+          294,
+          235
+        ],
+        [
+          80467,
+          567,
+          486,
+          421,
+          373,
+          324,
+          259
+        ],
+        [
+          100000,
+          606,
+          519,
+          450,
+          398,
+          346,
+          277
+        ],
+        [
+          150000,
+          686,
+          588,
+          510,
+          451,
+          392,
+          314
+        ],
+        [
+          160934,
+          702,
+          602,
+          522,
+          462,
+          401,
+          321
+        ],
+        [
+          200000,
+          749,
+          642,
+          556,
+          492,
+          428,
+          342
+        ]
+      ],
+      "marathon": [
+        [
+          5000,
+          448,
+          384,
+          333,
+          294,
+          256,
+          205
+        ],
+        [
+          6000,
+          453,
+          388,
+          337,
+          298,
+          259,
+          207
+        ],
+        [
+          6437,
+          454,
+          390,
+          338,
+          299,
+          260,
+          208
+        ],
+        [
+          8000,
+          460,
+          395,
+          342,
+          302,
+          263,
+          210
+        ],
+        [
+          8047,
+          460,
+          395,
+          342,
+          303,
+          263,
+          210
+        ],
+        [
+          10000,
+          466,
+          400,
+          346,
+          306,
+          266,
+          213
+        ],
+        [
+          12000,
+          470,
+          402,
+          349,
+          309,
+          268,
+          215
+        ],
+        [
+          15000,
+          474,
+          406,
+          352,
+          312,
+          271,
+          217
+        ],
+        [
+          16093,
+          476,
+          408,
+          354,
+          313,
+          272,
+          218
+        ],
+        [
+          20000,
+          482,
+          413,
+          358,
+          317,
+          275,
+          220
+        ],
+        [
+          21098,
+          483,
+          414,
+          359,
+          317,
+          276,
+          221
+        ],
+        [
+          25000,
+          487,
+          418,
+          362,
+          320,
+          279,
+          223
+        ],
+        [
+          30000,
+          493,
+          422,
+          366,
+          324,
+          281,
+          225
+        ],
+        [
+          42195,
+          504,
+          432,
+          374,
+          331,
+          288,
+          230
+        ],
+        [
+          50000,
+          515,
+          442,
+          383,
+          339,
+          294,
+          235
+        ],
+        [
+          80467,
+          567,
+          486,
+          421,
+          373,
+          324,
+          259
+        ],
+        [
+          100000,
+          606,
+          519,
+          450,
+          398,
+          346,
+          277
+        ],
+        [
+          150000,
+          686,
+          588,
+          510,
+          451,
+          392,
+          314
+        ],
+        [
+          160934,
+          702,
+          602,
+          522,
+          462,
+          401,
+          321
+        ],
+        [
+          200000,
+          749,
+          642,
+          556,
+          492,
+          428,
+          342
+        ]
+      ],
+      "middle": [
+        [
+          5000,
+          448,
+          384,
+          333,
+          294,
+          256,
+          205
+        ],
+        [
+          207,
+          259,
+          298,
+          337,
+          388,
+          453
+        ],
+        [
+          6437,
+          454,
+          390,
+          338,
+          299,
+          260,
+          208
+        ],
+        [
+          8000,
+          460,
+          395,
+          342,
+          302,
+          263,
+          210
+        ],
+        [
+          8047,
+          460,
+          395,
+          342,
+          303,
+          263,
+          210
+        ],
+        [
+          10000,
+          466,
+          400,
+          346,
+          306,
+          266,
+          213
+        ],
+        [
+          12000,
+          470,
+          402,
+          349,
+          309,
+          268,
+          215
+        ],
+        [
+          15000,
+          474,
+          406,
+          352,
+          312,
+          271,
+          217
+        ],
+        [
+          16093,
+          476,
+          408,
+          354,
+          313,
+          272,
+          218
+        ],
+        [
+          20000,
+          482,
+          413,
+          358,
+          317,
+          275,
+          220
+        ],
+        [
+          21098,
+          483,
+          414,
+          359,
+          317,
+          276,
+          221
+        ],
+        [
+          25000,
+          487,
+          418,
+          362,
+          320,
+          279,
+          223
+        ],
+        [
+          30000,
+          493,
+          422,
+          366,
+          324,
+          281,
+          225
+        ],
+        [
+          42195,
+          504,
+          432,
+          374,
+          331,
+          288,
+          230
+        ],
+        [
+          50000,
+          515,
+          442,
+          383,
+          339,
+          294,
+          235
+        ],
+        [
+          80467,
+          567,
+          486,
+          421,
+          373,
+          324,
+          259
+        ],
+        [
+          100000,
+          606,
+          519,
+          450,
+          398,
+          346,
+          277
+        ],
+        [
+          150000,
+          686,
+          588,
+          510,
+          451,
+          392,
+          314
+        ],
+        [
+          160934,
+          702,
+          602,
+          522,
+          462,
+          401,
+          321
+        ],
+        [
+          200000,
+          749,
+          642,
+          556,
+          492,
+          428,
+          342
+        ]
+      ],
+      "names": [
+        "Easy",
+        "Endurance",
+        "Tempo",
+        "Threshold",
+        "Speed"
+      ],
+      "short": [
+        [
+          5000,
+          496,
+          425,
+          368,
+          326,
+          283,
+          227
+        ],
+        [
+          6000,
+          502,
+          430,
+          373,
+          330,
+          287,
+          229
+        ],
+        [
+          6437,
+          503,
+          431,
+          374,
+          331,
+          288,
+          230
+        ],
+        [
+          8000,
+          510,
+          437,
+          379,
+          335,
+          291,
+          233
+        ],
+        [
+          8047,
+          510,
+          437,
+          379,
+          335,
+          291,
+          233
+        ],
+        [
+          10000,
+          516,
+          442,
+          383,
+          339,
+          295,
+          236
+        ],
+        [
+          12000,
+          520,
+          446,
+          386,
+          342,
+          297,
+          238
+        ],
+        [
+          15000,
+          525,
+          450,
+          390,
+          345,
+          300,
+          240
+        ],
+        [
+          16093,
+          527,
+          452,
+          392,
+          347,
+          301,
+          241
+        ],
+        [
+          20000,
+          534,
+          457,
+          396,
+          351,
+          305,
+          244
+        ],
+        [
+          21098,
+          535,
+          458,
+          397,
+          351,
+          306,
+          244
+        ],
+        [
+          25000,
+          540,
+          463,
+          401,
+          355,
+          308,
+          247
+        ],
+        [
+          30000,
+          545,
+          467,
+          405,
+          358,
+          312,
+          249
+        ],
+        [
+          42195,
+          558,
+          478,
+          414,
+          367,
+          319,
+          255
+        ],
+        [
+          50000,
+          570,
+          489,
+          424,
+          375,
+          326,
+          261
+        ],
+        [
+          80467,
+          628,
+          538,
+          466,
+          412,
+          359,
+          287
+        ],
+        [
+          100000,
+          671,
+          575,
+          498,
+          441,
+          383,
+          307
+        ],
+        [
+          150000,
+          760,
+          651,
+          565,
+          499,
+          434,
+          347
+        ],
+        [
+          160934,
+          778,
+          667,
+          578,
+          511,
+          444,
+          356
+        ],
+        [
+          200000,
+          829,
+          711,
+          616,
+          545,
+          474,
+          379
+        ]
+      ],
+      "speed": [
+        [
+          5000,
+          496,
+          425,
+          368,
+          326,
+          283,
+          227
+        ],
+        [
+          6000,
+          502,
+          430,
+          373,
+          330,
+          287,
+          229
+        ],
+        [
+          6437,
+          503,
+          431,
+          374,
+          331,
+          288,
+          230
+        ],
+        [
+          8000,
+          510,
+          437,
+          379,
+          335,
+          291,
+          233
+        ],
+        [
+          8047,
+          510,
+          437,
+          379,
+          335,
+          291,
+          233
+        ],
+        [
+          10000,
+          516,
+          442,
+          383,
+          339,
+          295,
+          236
+        ],
+        [
+          12000,
+          520,
+          446,
+          386,
+          342,
+          297,
+          238
+        ],
+        [
+          15000,
+          525,
+          450,
+          390,
+          345,
+          300,
+          240
+        ],
+        [
+          16093,
+          527,
+          452,
+          392,
+          347,
+          301,
+          241
+        ],
+        [
+          20000,
+          534,
+          457,
+          396,
+          351,
+          305,
+          244
+        ],
+        [
+          21098,
+          535,
+          458,
+          397,
+          351,
+          306,
+          244
+        ],
+        [
+          25000,
+          540,
+          463,
+          401,
+          355,
+          308,
+          247
+        ],
+        [
+          30000,
+          545,
+          467,
+          405,
+          358,
+          312,
+          249
+        ],
+        [
+          42195,
+          558,
+          478,
+          414,
+          367,
+          319,
+          255
+        ],
+        [
+          50000,
+          570,
+          489,
+          424,
+          375,
+          326,
+          261
+        ],
+        [
+          80467,
+          628,
+          538,
+          466,
+          412,
+          359,
+          287
+        ],
+        [
+          100000,
+          671,
+          575,
+          498,
+          441,
+          383,
+          307
+        ],
+        [
+          150000,
+          760,
+          651,
+          565,
+          499,
+          434,
+          347
+        ],
+        [
+          160934,
+          778,
+          667,
+          578,
+          511,
+          444,
+          356
+        ],
+        [
+          200000,
+          829,
+          711,
+          616,
+          545,
+          474,
+          379
+        ]
+      ],
+      "ultra": [
+        [
+          5000,
+          480,
+          411,
+          356,
+          315,
+          274,
+          219
+        ],
+        [
+          6000,
+          486,
+          416,
+          361,
+          319,
+          278,
+          222
+        ],
+        [
+          6437,
+          487,
+          417,
+          362,
+          320,
+          278,
+          223
+        ],
+        [
+          8000,
+          493,
+          423,
+          366,
+          324,
+          282,
+          225
+        ],
+        [
+          8047,
+          493,
+          423,
+          366,
+          324,
+          282,
+          225
+        ],
+        [
+          10000,
+          500,
+          428,
+          371,
+          328,
+          285,
+          228
+        ],
+        [
+          12000,
+          503,
+          431,
+          374,
+          331,
+          288,
+          230
+        ],
+        [
+          15000,
+          508,
+          435,
+          377,
+          334,
+          290,
+          232
+        ],
+        [
+          16093,
+          510,
+          437,
+          379,
+          335,
+          292,
+          233
+        ],
+        [
+          20000,
+          516,
+          443,
+          384,
+          339,
+          295,
+          236
+        ],
+        [
+          21098,
+          517,
+          444,
+          384,
+          340,
+          296,
+          237
+        ],
+        [
+          25000,
+          522,
+          448,
+          388,
+          343,
+          298,
+          239
+        ],
+        [
+          30000,
+          528,
+          452,
+          392,
+          347,
+          302,
+          241
+        ],
+        [
+          42195,
+          540,
+          463,
+          401,
+          355,
+          308,
+          247
+        ],
+        [
+          50000,
+          552,
+          473,
+          410,
+          363,
+          315,
+          252
+        ],
+        [
+          80467,
+          607,
+          521,
+          451,
+          399,
+          347,
+          278
+        ],
+        [
+          100000,
+          649,
+          556,
+          482,
+          427,
+          371,
+          297
+        ],
+        [
+          150000,
+          735,
+          630,
+          546,
+          483,
+          420,
+          336
+        ],
+        [
+          160934,
+          753,
+          645,
+          559,
+          495,
+          430,
+          344
+        ],
+        [
+          200000,
+          802,
+          688,
+          596,
+          527,
+          458,
+          367
+        ]
+      ]
+    },
+    "runner": {
+      "age": 54,
+      "gender": 0,
+      "maxHR": 170,
+      "name": "Ken Byrne",
+      "proficiency": {
+        "$oid": "5a7c4b2529cc046553c88e98"
+      },
+      "restingHeartRate": 0
+    },
+    "vars": {
+      "HRZ0S": 0.4,
+      "HRZ0Sname": "Recovery",
+      "HRZ1S": 0.6,
+      "HRZ1Sname": "Easy",
+      "HRZ2S": 0.7,
+      "HRZ2Sname": "Aerobic",
+      "HRZ3S": 0.8,
+      "HRZ3Sname": "Anaerobic",
+      "HRZ4S": 0.9,
+      "HRZ4Sname": "Maximum",
+      "HRZmaxS": 1,
+      "IZ0S": 0,
+      "IZ0Sname": "Very Light",
+      "IZ1S": 2,
+      "IZ1Sname": "Light",
+      "IZ2S": 4,
+      "IZ2Sname": "Moderate",
+      "IZ3S": 6.5,
+      "IZ3Sname": "High",
+      "IZ4S": 8.5,
+      "IZ4Sname": "Maximum",
+      "IZmaxS": 10,
+      "PZ0S": 1.75,
+      "PZ0Sname": "Easy",
+      "PZ1S": 1.5,
+      "PZ1Sname": "Endurance",
+      "PZ2S": 1.3,
+      "PZ2Sname": "Tempo",
+      "PZ3S": 1.15,
+      "PZ3Sname": "Threshold",
+      "PZ4S": 1,
+      "PZ4Sname": "Speed",
+      "PZmaxS": 0.8,
+      "__v": 0,
+      "_id": {
+        "$oid": "5963b3e872227541f9dd4b15"
+      },
+      "admin": {
+        "date": {
+          "$date": "2017-07-10T17:05:44.277Z"
+        },
+        "id": "55d75919ba78d02965ed631e",
+        "name": "Ken Byrne"
+      },
+      "creationDate": {
+        "$date": "2017-07-10T17:05:44.281Z"
+      },
+      "level": {
+        "0": {
+          "0": 1.5,
+          "1": 1.5,
+          "2": 1.5,
+          "3": 1.5
+        },
+        "1": {
+          "0": 2,
+          "1": 1.7,
+          "2": 1.65,
+          "3": 1.6
+        },
+        "2": {
+          "0": 1.65,
+          "1": 1.6,
+          "2": 1.55,
+          "3": 1.55
+        },
+        "3": {
+          "0": 1.5,
+          "1": 1.45,
+          "2": 1.4,
+          "3": 1.4
+        },
+        "4": {
+          "0": 1.35,
+          "1": 1.3,
+          "2": 1.25,
+          "3": 1.25
+        },
+        "5": {
+          "0": 1.2,
+          "1": 1.15,
+          "2": 1.1,
+          "3": 1.1
+        },
+        "6": {
+          "0": 1.05,
+          "1": 1,
+          "2": 0.975,
+          "3": 0.975
+        }
+      },
+      "maxHR": 170,
+      "restingHeartRate": 0,
+      "updatedAt": {
+        "$date": "2017-07-10T17:05:44.281Z"
+      }
+    }
+  }
+}
